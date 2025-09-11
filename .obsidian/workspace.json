@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "index"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,24 +209,23 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "05571eb1c300e9e8",
+  "active": "5669bdc842ac702f",
   "lastOpenFiles": [
-    "site-lib/styles/theme.css",
+    "site-lib/search-index.json",
+    "site-lib/metadata.json",
+    "Welcome.md",
+    "welcome.html",
     "index.md",
+    "Untitled.md",
+    "Folder/Inside.md",
+    "site-lib/styles/theme.css",
     "welcome-content.html",
     "vaultshare-content.html",
     "index-content.html",
     "site-lib/html/file-tree-content-content.html",
     "Test.md",
     "test.html",
-    "Untitled.md",
     "site-lib/media/favicon.html",
-    "site-lib/media/6155340132a851f6089e.html",
-    "site-lib/media/2308ab1944a6bfa5c5b8.html",
-    "site-lib/metadata.html",
-    "site-lib/search-index.html",
-    "Folder/Inside.md",
-    "Welcome.md",
     "site-lib/media/favicon.png",
     "site-lib/media/6155340132a851f6089e.svg",
     "site-lib/media/2308ab1944a6bfa5c5b8.svg",
