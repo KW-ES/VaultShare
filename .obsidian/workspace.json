@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,24 +195,26 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "cfcb21dd018b68b6",
+  "active": "5669bdc842ac702f",
   "lastOpenFiles": [
-    "New Text Document.txt",
-    "Test.md",
     "Welcome.md",
-    "Index.md",
-    "VaultShare.html",
-    "index.html",
-    "Untitled",
     "site-lib/search-index.json",
     "site-lib/metadata.json",
     "site-lib/scripts/webpage.js",
-    "site-lib/scripts/graph-wasm.js",
-    "site-lib/media/favicon.png",
     "site-lib/scripts/graph-wasm.wasm",
     "site-lib/scripts/graph-render-worker.js",
+    "site-lib/scripts/graph-wasm.js",
+    "site-lib/styles/supported-plugins.css",
     "site-lib/styles/obsidian.css",
+    "site-lib/styles/global-variable-styles.css",
+    "site-lib/styles/main-styles.css",
+    "site-lib/media/favicon.png",
+    "site-lib/media/6155340132a851f6089e.svg",
     "site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "site-lib/media/6155340132a851f6089e.svg"
+    "index.md",
+    "Test.md",
+    "Untitled/site-lib/media/favicon.png",
+    "Untitled/site-lib/media/6155340132a851f6089e.svg",
+    "Untitled/site-lib/media/2308ab1944a6bfa5c5b8.svg"
   ]
 }
