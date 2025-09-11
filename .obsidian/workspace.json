@@ -166,13 +166,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "543f1e9dd468ca85",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,12 +192,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
   "active": "5669bdc842ac702f",
   "lastOpenFiles": [
-    "desktop.ini",
+    "site-lib/search-index.json",
+    "site-lib/metadata.json",
+    "site-lib/scripts/webpage.js",
+    "site-lib/scripts/graph-wasm.js",
+    "site-lib/media/favicon.png",
+    "site-lib/scripts/graph-wasm.wasm",
+    "site-lib/scripts/graph-render-worker.js",
+    "site-lib/styles/obsidian.css",
+    "site-lib/media/2308ab1944a6bfa5c5b8.svg",
+    "site-lib/media/6155340132a851f6089e.svg",
+    "site-lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "site-lib/styles/main-styles.css",
+    "site-lib/styles/global-variable-styles.css",
+    "site-lib/fonts/cb10ffd7684cd9836a05.woff2",
     "Welcome.md"
   ]
 }
