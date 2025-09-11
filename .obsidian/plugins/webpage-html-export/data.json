@@ -182,7 +182,7 @@
     },
     "rssOptions": {
       "featureId": "rss",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -215,7 +215,9 @@
     "iconEmojiStyle": "Native",
     "exportRoot": "",
     "includePluginCss": [],
-    "includeStyleCssIds": [],
+    "includeStyleCssIds": [
+      "svelte-11adhly"
+    ],
     "autoDisposeWebpages": true
   },
   "logLevel": "all",
