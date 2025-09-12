@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 574.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +209,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "5669bdc842ac702f",
+  "active": "543f1e9dd468ca85",
   "lastOpenFiles": [
     "Test.md",
     "Site/test.html",
