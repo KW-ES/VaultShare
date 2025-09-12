@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Callouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Callouts"
             }
           },
           {
@@ -211,21 +211,25 @@
   },
   "active": "5669bdc842ac702f",
   "lastOpenFiles": [
-    "index.md",
-    "Welcome.md",
-    "Untitled.md",
+    "Site/site-lib/search-index.json",
+    "Site/site-lib/metadata.json",
     "Test.md",
+    "Site/site-lib/styles/theme.css",
+    "Site/site-lib/styles/global-variable-styles.css",
+    "Site/site-lib/media/favicon.png",
+    "Site/site-lib/styles/supported-plugins.css",
+    "Site/site-lib/styles/obsidian.css",
+    "Site/site-lib/styles/main-styles.css",
+    "Site/site-lib/media/6155340132a851f6089e.svg",
+    "Site/site-lib/media/2308ab1944a6bfa5c5b8.svg",
+    "Site/site-lib/scripts/webpage.js",
+    "Site/site-lib/scripts/graph-render-worker.js",
+    "Site/site-lib/scripts/graph-wasm.wasm",
+    "Site/site-lib/scripts/graph-wasm.js",
+    "Welcome.md",
+    "index.md",
+    "Callouts.md",
     "Instructions/Basics.md",
-    "docs",
-    "docs/test.html",
-    "docs/untitled.html",
-    "docs/welcome.html",
-    "docs/index.html",
-    "Instructions/New Text Document.txt",
-    "Instructions",
-    "docs/site-lib/search-index.json",
-    "docs/site-lib/metadata.json",
-    "docs/site-lib/styles/theme.css",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
@@ -233,8 +237,6 @@
     "site-lib/media/favicon.png",
     "site-lib/media/6155340132a851f6089e.svg",
     "site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "Untitled/site-lib/media/favicon.png",
-    "Untitled/site-lib/media/6155340132a851f6089e.svg",
-    "Untitled/site-lib/media/2308ab1944a6bfa5c5b8.svg"
+    "Untitled/site-lib/media/favicon.png"
   ]
 }
