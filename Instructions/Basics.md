@@ -9,3 +9,6 @@
 	- have `.nojekyl`
 - Site URL to start
 	- https://kw-es.github.io/VaultShare/welcome.html
+- starting
+	- re-click link for pages to restart site
+
