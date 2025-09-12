@@ -17,3 +17,8 @@
 	- ![[Pasted image 20250912091605.png]]
 
 
+- images
+	- put under assets folder
+	- make sure not under `.gitignore`
+	- 
+
