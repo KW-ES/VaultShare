@@ -12,10 +12,10 @@
     "inlineHTML": false,
     "exportPath": "C:\\Users\\KieraWilson\\OneDrive - Elenjical Solutions\\Obsidian Vaults\\ES Main\\VaultShare\\docs",
     "filesToExport": [
-      "Callouts.md",
+      "Pages/Callouts.md",
       "index.md",
-      "Test.md",
-      "Welcome.md"
+      "Pages/Test.md",
+      "Pages/Welcome.md"
     ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,

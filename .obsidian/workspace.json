@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Pages/Welcome.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Pages/Test.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "index"
             }
           },
           {
@@ -226,31 +226,32 @@
   },
   "active": "3185329e5a597316",
   "lastOpenFiles": [
+    "Pages/Testtt.md",
+    "docs/pages/testtt.html",
+    "index.md",
+    "docs/callouts.html",
+    "docs/welcome.html",
+    "docs/test.html",
+    "docs/pages/extra.html",
+    "docs/extra.html",
+    "docs/test - Copy.html",
+    "docs/assets/pasted-image-20250912092804.html",
+    "docs/assets/pasted-image-20250912092804.png",
+    "docs/assets",
+    "docs/index.html",
+    "Pages/Test.md",
+    "docs/pages/assets/pasted-image-20250912092804.png",
+    "Pages/Callouts.md",
+    "Pages/Welcome.md",
+    "Pages/Assets/Pasted image 20250912092804.png",
     "Instructions/Basics.md",
     "Pasted image 20250912091605.png",
-    "Test.md",
-    "Welcome.md",
-    "Callouts.md",
     "Folder/Inside.md",
-    "index.md",
-    "docs/test.html",
-    "docs/welcome.html",
-    "docs/index.html",
-    "docs/callouts.html",
-    "Site/site-lib/search-index.json",
-    "Site/site-lib/metadata.json",
-    "Site/site-lib/styles/theme.css",
-    "Site/site-lib/styles/global-variable-styles.css",
     "Site/site-lib/media/favicon.png",
-    "Site/site-lib/styles/supported-plugins.css",
-    "Site/site-lib/styles/obsidian.css",
     "Site/site-lib/media/6155340132a851f6089e.svg",
     "Site/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/6155340132a851f6089e.svg",
-    "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "site-lib/media/favicon.png",
-    "site-lib/media/6155340132a851f6089e.svg",
-    "site-lib/media/2308ab1944a6bfa5c5b8.svg"
+    "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg"
   ]
 }
