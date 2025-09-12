@@ -11,4 +11,9 @@
 	- https://kw-es.github.io/VaultShare/welcome.html
 - starting
 	- re-click link for pages to restart site
+- redeploy
+	- (if taking too long)
+	- https://github.com/KW-ES/VaultShare/actions/runs/17667322148
+	- ![[Pasted image 20250912091605.png]]
+
 
