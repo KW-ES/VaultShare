@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "C:\\Users\\KieraWilson\\OneDrive - Elenjical Solutions\\Obsidian Vaults\\ES Main\\VaultShare",
+    "exportPath": "C:\\Users\\KieraWilson\\OneDrive - Elenjical Solutions\\Obsidian Vaults\\ES Main\\VaultShare\\Site",
     "filesToExport": [],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
@@ -211,12 +211,13 @@
     "flattenExportPaths": false,
     "fixLinks": true,
     "faviconPath": "",
-    "siteName": "",
+    "siteName": "Vault",
     "iconEmojiStyle": "Native",
     "exportRoot": "",
     "includePluginCss": [],
     "includeStyleCssIds": [
-      "svelte-11adhly"
+      "svelte-11adhly",
+      "anp-stylesheet"
     ],
     "autoDisposeWebpages": true
   },
