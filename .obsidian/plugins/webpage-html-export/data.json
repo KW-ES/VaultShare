@@ -11,7 +11,12 @@
     "displayProgress": true,
     "inlineHTML": false,
     "exportPath": "C:\\Users\\KieraWilson\\OneDrive - Elenjical Solutions\\Obsidian Vaults\\ES Main\\VaultShare\\docs",
-    "filesToExport": [],
+    "filesToExport": [
+      "Callouts.md",
+      "index.md",
+      "Test.md",
+      "Welcome.md"
+    ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
     "addMathjaxStyles": true,
