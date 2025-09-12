@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instructions/Basics.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basics"
+              "title": "Welcome"
             }
           },
           {
@@ -209,24 +209,23 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "cfcb21dd018b68b6",
+  "active": "5669bdc842ac702f",
   "lastOpenFiles": [
-    "docs",
-    "Test.md",
-    "docs/test.html",
-    "Untitled.md",
-    "docs/untitled.html",
-    "Welcome.md",
-    "docs/welcome.html",
-    "Instructions/Basics.md",
     "index.md",
+    "Welcome.md",
+    "Untitled.md",
+    "Test.md",
+    "Instructions/Basics.md",
+    "docs",
+    "docs/test.html",
+    "docs/untitled.html",
+    "docs/welcome.html",
     "docs/index.html",
     "Instructions/New Text Document.txt",
     "Instructions",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
     "docs/site-lib/styles/theme.css",
-    "docs/site-lib/styles/obsidian.css",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
