@@ -1,5 +1,6 @@
 {
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "newLinkFormat": "relative"
 }

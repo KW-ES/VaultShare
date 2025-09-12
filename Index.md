@@ -10,9 +10,10 @@ Hello
 
 [[Callouts]]
 
-[[extra.html]]
 
-![[Pasted image 20250912092804.png]]
+
+
+![[Pages/Pasted image 20250912092804.png]]
 
 
 

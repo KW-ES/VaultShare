@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Welcome.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Test.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               },
@@ -226,9 +226,12 @@
   },
   "active": "3185329e5a597316",
   "lastOpenFiles": [
-    "Pages/Testtt.md",
-    "docs/pages/testtt.html",
+    "Welcome.md",
+    "docs/pages/pasted-image-20250912092804.png",
     "index.md",
+    "docs/pages/pasted-image-20250912092804.html",
+    "Testtt.md",
+    "docs/pages/testtt.html",
     "docs/callouts.html",
     "docs/welcome.html",
     "docs/test.html",
@@ -238,12 +241,10 @@
     "docs/assets/pasted-image-20250912092804.html",
     "docs/assets/pasted-image-20250912092804.png",
     "docs/assets",
-    "docs/index.html",
-    "Pages/Test.md",
+    "Test.md",
     "docs/pages/assets/pasted-image-20250912092804.png",
-    "Pages/Callouts.md",
-    "Pages/Welcome.md",
-    "Pages/Assets/Pasted image 20250912092804.png",
+    "Callouts.md",
+    "Pages/Pasted image 20250912092804.png",
     "Instructions/Basics.md",
     "Pasted image 20250912091605.png",
     "Folder/Inside.md",
@@ -251,7 +252,6 @@
     "Site/site-lib/media/6155340132a851f6089e.svg",
     "Site/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "docs/site-lib/media/favicon.png",
-    "docs/site-lib/media/6155340132a851f6089e.svg",
-    "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg"
+    "docs/site-lib/media/6155340132a851f6089e.svg"
   ]
 }

@@ -12,10 +12,10 @@
     "inlineHTML": false,
     "exportPath": "C:\\Users\\KieraWilson\\OneDrive - Elenjical Solutions\\Obsidian Vaults\\ES Main\\VaultShare\\docs",
     "filesToExport": [
-      "Pages/Callouts.md",
+      "Callouts.md",
       "index.md",
-      "Pages/Test.md",
-      "Pages/Welcome.md"
+      "Test.md",
+      "Welcome.md"
     ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
@@ -201,7 +201,7 @@
       "alwaysEnabled": false,
       "hideSettingsButton": true
     },
-    "relativeHeaderLinks": true,
+    "relativeHeaderLinks": false,
     "includeJS": true,
     "includeCSS": true,
     "inlineMedia": false,
