@@ -226,14 +226,14 @@
   },
   "active": "3185329e5a597316",
   "lastOpenFiles": [
-    "docs/docs/docs/assets/pasted-image-20250912095317.png",
-    "docs/docs/docs/assets",
-    "docs/docs/docs",
-    "index.md",
-    "Test.md",
     "docs/docs/assets/pasted-image-20250912095317.png",
     "docs/docs/assets",
     "docs/docs",
+    "index.md",
+    "docs/docs/docs/assets/pasted-image-20250912095317.png",
+    "docs/docs/docs/assets",
+    "docs/docs/docs",
+    "Test.md",
     "Callouts.md",
     "Welcome.md",
     "docs/welcome.html",
@@ -252,7 +252,6 @@
     "Pages/Pasted image 20250912092804.png",
     "Instructions/Basics.md",
     "Pasted image 20250912091605.png",
-    "Folder/Inside.md",
-    "Site/site-lib/media/favicon.png"
+    "Folder/Inside.md"
   ]
 }

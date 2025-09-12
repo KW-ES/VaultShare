@@ -13,7 +13,10 @@ Hello
 ![[Pasted image 20250912095059.png]]
 
 # NEw
-![[pasted-image-20250912095317.png]]
+![[Pasted image 20250912095317.png]]
+
+![[assets/Pasted image 20250912095317.png]]
+
 
 ![[Pages/Pasted image 20250912092804.png]]
 
