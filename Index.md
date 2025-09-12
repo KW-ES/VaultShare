@@ -12,6 +12,8 @@ Hello
 
 ![[Pasted image 20250912095059.png]]
 
+[[Canvas.canvas|Canvas]]
+
 # NEw
 `assets`
 ![[assets/Pasted image 20250912095317.png]]
@@ -24,7 +26,9 @@ Hello
 
 
 
+# End
 
+The end
 
 
 

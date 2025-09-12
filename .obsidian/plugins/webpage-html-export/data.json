@@ -14,8 +14,8 @@
     "filesToExport": [
       "Callouts.md",
       "index.md",
-      "Test.md",
-      "Welcome.md"
+      "Archive/Test.md",
+      "Archive/Welcome.md"
     ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
