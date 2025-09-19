@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 280.5046920776367
   },
   "right": {
     "id": "e6a2bf1555b28f11",
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 574.5
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,6 +212,17 @@
   },
   "active": "3185329e5a597316",
   "lastOpenFiles": [
+    "docs/site-lib/search-index.json",
+    "docs/site-lib/metadata.json",
+    "Folder/Inside.md",
+    "docs/folder/inside.html",
+    "docs/folder",
+    "Callouts.md",
+    "Main.md",
+    "Canvas.canvas",
+    "index.md",
+    "Instructions/Basics.md",
+    "Untitled.md",
     "docs/instructions/basics.md",
     "docs/instructions",
     "docs/assets/pasted-image-20250912095059.png",
@@ -221,16 +232,8 @@
     "docs/site-lib/fonts/mathjax_script-regular.woff",
     "docs/site-lib/fonts/mathjax_fraktur-regular.woff",
     "docs/site-lib/fonts/mathjax_sansserif-italic.woff",
-    "docs/site-lib/fonts/mathjax_fraktur-bold.woff",
-    "docs/site-lib/fonts/mathjax_sansserif-bold.woff",
-    "docs/site-lib/fonts/mathjax_sansserif-regular.woff",
-    "Callouts.md",
-    "Main.md",
-    "Canvas.canvas",
-    "index.md",
     "Archive/Test.md",
     "assets/Pasted image 20250912095059.png",
-    "Instructions/Basics.md",
     "assets/Pasted image 20250912102301.png",
     "docs/assets/pasted-image-20250912102038.png",
     "assets/Pasted image 20250912102038.png",
@@ -240,7 +243,6 @@
     "Archive/Welcome.md",
     "Archive/Testtt.md",
     "assets/Pasted image 20250912095317.png",
-    "docs/pasted-image-20250912095059.png",
-    "Folder/Inside.md"
+    "docs/pasted-image-20250912095059.png"
   ]
 }

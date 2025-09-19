@@ -2,6 +2,10 @@
 
 Hello
 
+> This is the index:
+
+[[Inside]]
+
 ## Hello!
 
 [[Welcome]]
