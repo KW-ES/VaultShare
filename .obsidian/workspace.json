@@ -181,8 +181,10 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "cfcb21dd018b68b6",
+  "active": "543f1e9dd468ca85",
   "lastOpenFiles": [
+    "docs/site-lib/styles/other-plugins.css",
+    "docs/site-lib/media/favicon.ico",
     "docs/resources/attachments/pasted-image-20250326165835.png",
     "docs/resources/attachments/pasted-image-20250320153021.png",
     "docs/resources/attachments/pasted-image-20250320153005.png",
@@ -193,7 +195,6 @@
     "docs/resources/attachments/pasted-image-20250320152303.png",
     "docs/resources/attachments/pasted-image-20250320152246.png",
     "docs/resources/attachments/pasted-image-20250320152230.png",
-    "docs/resources/attachments/pasted-image-20250320152142.png",
     "docs/resources/attachments/list-of-stock-market-crashes-and-bear-markets-wikipedia.pdf",
     "docs/yield-curves.html",
     "docs/var.html",
@@ -203,7 +204,6 @@
     "docs/synthetic-assets-and-liabilities.html",
     "docs/stripping-and-stacking-futures.html",
     "docs/stock-market-crashes.html",
-    "docs/sensitivities.html",
     "Amortization.md",
     "OldDocs/instructions/basics.md",
     "Finance/Amortization.md",
