@@ -2,9 +2,9 @@
 
 Hello
 
-> This is the index:
+> This is the index: hhhh
 
-[[Inside]]
+[[Folder/Inside]]
 
 ## Hello!
 
