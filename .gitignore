@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But keep .gitignore itself
+!.gitignore
+
+# Keep /docs folder (and everything inside it)
+!/docs/
+
+# Keep /notes folder
+!/notes/
