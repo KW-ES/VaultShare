@@ -6,6 +6,8 @@ Hello
 
 [[Folder/Inside]]h 
 
+[[Amortization]]
+
 ## Hello!
 
 [[Welcome]]
