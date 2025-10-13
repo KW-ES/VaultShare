@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Finance Notes Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.ico</url><title>Finance Notes Vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 13 Oct 2025 06:31:02 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 13 Oct 2025 06:30:44 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Excalidraw Linking]]></title><description><![CDATA[CBAWorks 09/10/2025BSiphoJimFrame]]></description><link>excalidraw-linking.excalidraw.html</link><guid isPermaLink="false">Areas/Finance/Excalidraw Linking.excalidraw.md</guid><pubDate>Fri, 10 Oct 2025 08:56:34 GMT</pubDate></item><item><title><![CDATA[2025-01-25_09-30 textbook quick notes]]></title><description><![CDATA[<a data-href="2025-01-25_09-30 textbook quick notes#^6f43df" href="2025-01-25_09-30-textbook-quick-notes.html#^6f43df" class="internal-link" target="_self" rel="noopener nofollow">2025-01-25_09-30 textbook quick notes &gt; ^6f43df</a> Cross currency
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Finance Notes Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.ico</url><title>Finance Notes Vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 13 Oct 2025 06:36:08 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 13 Oct 2025 06:35:18 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Excalidraw Linking]]></title><description><![CDATA[CBAWorks 09/10/2025BSiphoJimFrame]]></description><link>excalidraw-linking.excalidraw.html</link><guid isPermaLink="false">Areas/Finance/Excalidraw Linking.excalidraw.md</guid><pubDate>Fri, 10 Oct 2025 08:56:34 GMT</pubDate></item><item><title><![CDATA[2025-01-25_09-30 textbook quick notes]]></title><description><![CDATA[<a data-href="2025-01-25_09-30 textbook quick notes#^6f43df" href="2025-01-25_09-30-textbook-quick-notes.html#^6f43df" class="internal-link" target="_self" rel="noopener nofollow">2025-01-25_09-30 textbook quick notes &gt; ^6f43df</a> Cross currency
 <br><a data-href="ACI Quotations" href="projects/training/grad-training-2025/aci-quotations.html" class="internal-link" target="_self" rel="noopener nofollow">ACI Quotations</a>
 <br><img style="max-width:400px; " class="excalidraw-svg excalidraw-embedded-img excalidraw-canvas-immersive is-unresolved" src="./blob:/28b531ba-b79b-40aa-81e5-645880c2277a" filesource="Excalidraw/FX BBS SOB.excalidraw.md" w="400" draggable="false" oncanvas="false" target="_self"> money markets = less than 1 year capital markets = longer than 1 year The IMF provides short-term balance of payment support to governments, to quote "to give confidence to members by making the general resources of the Fund temporarily available to them" G20 features in syllabus prime brokers act as CCP's The name of a lender shall be disclosed by the IDB/Voice broker only after the lender has accepted the borrower’s name Buy side: Mutual FUnds
 Hedge funds
@@ -533,7 +533,500 @@ second is Security financial collateral arrangement (SFCA) financial collateral 
 EU MiFID II prohibits TTCA title transfer coll arrangements with retail clients International Securities Lending Association (ISLA) FRA's
 Futures
 IRS's
-]]></description><link>2025-01-25_09-30-textbook-quick-notes.html</link><guid isPermaLink="false">Areas/Finance/2025-01-25_09-30 textbook quick notes.md</guid><pubDate>Mon, 29 Sep 2025 06:37:01 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Treasury Functions]]></title><description><![CDATA[
+made notes in workbook<br><img alt="Pasted image 20250210115530.png" src="resources/attachments/pasted-image-20250210115530.png" target="_self">
+Instruments Forward Rate Agreements (FRAs)
+Financial futures (STIR contracts)
+Interest rate swaps
+Currency (and interest rate) Swaps
+Overnight Index Swaps (OIS) short term FRA
+STIRs longer MM IRS's Forward Rate Agreements (FRAs) initially OTC
+bc of Futures
+Through FRABBA
+Merged into ISDA
+Definition non-transferable ("off-balance sheet") (no exchange of principal amount takes place)
+agreement between two counterparties, usually banks, developed to protect the parties against a future adverse movement in interest rates.
+Counterparties to an FRA agree an interest rate to be applied to a notional deposit of an agreed principal amount for a specified period of time from a specified future date, known as the settlement date
+like forward except no exchange of funds
+or futures without margin requirements
+unwinding and contractual obligation: non-negotiable and non-assignable
+can be unwound if no longer required
+lifted by doing an equal and opposite transaction with a different counterparty
+when both transactions are left to settle on the appropriate date or with the same counterparty where it can be agreed to calculate the forward dated settlement difference and then discount the amount and pay on cancellation date (removing any residual credit (market replacement / delivery) risk The Buyer of an FRA seeks to protect himself against a rise in interest rates, the Seller seeks protection against a fall in interest rates. In an FRA you are in effect buying or selling the interest rate. buy/sell logic is opposite to futures market
+buying FRA is like borrowing money while selling is like lending the money Not linked to loan or deposit there is no exchange of physical principal The counterparties agree that on settlement date the contractual rate for the FRA is compared against a market rate benchmark (Settlement rate) and the discounted difference is paid over by the one to the other counterparty. think of the calculation
+periods like f/f
+first date = settlement
+second date = maturity
+3v6 most liquid
+<br><img alt="Pasted image 20250211080447.png" src="resources/attachments/pasted-image-20250211080447.png" target="_self">
+can be any period bc OTC same as MM, quoted as IR's <br><img alt="Pasted image 20250211080537.png" src="resources/attachments/pasted-image-20250211080537.png" target="_self"> As with a spot exchange operation there is no immediate profit (unless the dealer is simultaneously dealt with on his offer and bid by two counterparties) and profit is made by constant market making
+FRA Settlement settlement date &lt;=&gt; fixing date
+differences between parties is settled on settlement date
+cash settlement is discounted at agreed settlement rate
+<br><img alt="Pasted image 20250211081513.png" src="resources/attachments/pasted-image-20250211081513.png" target="_self"> Where the Settlement rate on fixing date is a higher rate than the FRA contractual rate, the buyer of the FRA (originally wishing to protect against a rise in interest rates) receives a discounted settlement payment from the Seller equal to the difference between the contractual rate of the FRA and the higher Settlement rate.
+(buyer gets from seller) Where Settlement rate on fixing date is a lower rate than the FRA contractual rate, the seller of the FRA (originally wishing to protect against a fall in interest rates) receives a discounted settlement payment from the Buyer equal to the difference
+(seller gets from buyer) An FRA is a Contract for Difference (CFD) in Bank of England terminology.
+<br><a data-tooltip-position="top" aria-label="ACI Textbook1.pdf > page=294&amp;selection=141,0,141,11" data-href="ACI Textbook1.pdf#page=294&amp;selection=141,0,141,11" href="resources/attachments/aci-textbook1.html" class="internal-link" target="_self" rel="noopener nofollow">ACI Textbook1, page 294</a> FRA EXAMPLE "mismatch risk" use FRABBA terms to see if settlement rate is higher than FRA contractual rate
+get reimbursed the discounted difference
+settlement rate is also used as the discount rate
+<br><img alt="Pasted image 20250222102318.png" src="resources/attachments/pasted-image-20250222102318.png" target="_self">
+FRA rate (contractual rate / fixed rate) subtracted by Settlement rate (reference rate / Libor / floating rate) <br><img alt="Pasted image 20250222102549.png" src="resources/attachments/pasted-image-20250222102549.png" target="_self"> <br><img alt="Pasted image 20250222102806.png" src="resources/attachments/pasted-image-20250222102806.png" target="_self">
+The FRA allows you to hedge against interest rates to a settlement date (fixing date) so effectively you can buy certainty and fix and interest rate to be paid for a forward/forward period. therefore it is an interest rate equivalent to an outright forward exchange contract you can fix the interest rate to be higher or lower than the benchmark rate then fix it to be paid for the forward/forward period Pricing FRA's Pricing FRA from forward/forward use it to get BID and OFFER FRA rates
+can use forward/forward formula from CH5
+<br><img alt="Pasted image 20250222103513.png" src="resources/attachments/pasted-image-20250222103513.png" target="_self">
+<br><img alt="Pasted image 20250222103529.png" src="resources/attachments/pasted-image-20250222103529.png" target="_self">
+forward rate is the difference rate between the long period and the short period BID: Long date bid / short date Offer OFFER Long date offer / short date bid think numerator matches what you want and then use opposite as short one Pricing FRA from Futures strip futures price to forward = 100 - fwd/fwd
+e.g. future = 93.22 -&gt; (100 - 6.78 (from fwd/fwd))
+forward/forward rate is gotten by compounding (multiplying) the 2 forward/forward IR's implied (derived from) the futures prices. you get the 2 futures prices from first date you want, e.g. 3m and then second date e.g. 6m
+you can compound them because they don't generate cashflows futures -&gt; Act/360
+<br><img alt="Pasted image 20250222112101.png" src="resources/attachments/pasted-image-20250222112101.png" target="_self">
+<br><img alt="Pasted image 20250222112216.png" src="resources/attachments/pasted-image-20250222112216.png" target="_self"> you divide by 4 because it's 90/360 to get the fwd/fwd rate to work with you need to do as mentioned above (100 - futures = fwd/fwd)
+if doing 3 futures: <br><img alt="Pasted image 20250222113039.png" src="resources/attachments/pasted-image-20250222113039.png" target="_self">
+you'd multiply by 4/3 because this represents 9 months (3 futures) and that's 9/12 = 3/4. but to get it annualised (for FRA rate), multiply by the reciprocal which is 4/3 Cash IR from consecutive cash and fwd/fwd (FRA) IR's using a spot rate (3m)
+and a forward rate (3/6m)
+want cash rate
+<br><img alt="Pasted image 20250222113649.png" src="resources/attachments/pasted-image-20250222113649.png" target="_self">
+basically like opposite of calculating forward rate
+<br><img alt="Pasted image 20250222113507.png" src="resources/attachments/pasted-image-20250222113507.png" target="_self">
+once you have the rate, double check this by using fwd/fwd formula like we said which does the opposite / used in the other way (it becomes the long rate in the fwd/fwd formula) Unwind an FRA by selling/buying the same times cancels out Uses for FRA's For banks: hedging interest rate risks in the cash book
+hedging short term interest rate risks in the floating side of the swaps book
+‘assisting’ in liquidity management (offsetting some of the costs between shorter term low yielding liquid assets and the longer term liabilities taken in funding)
+a trading substitute for “on balance sheet” position taking (taking a view on and trading interest rates)
+arbitraging FRAs v. Futures contracts
+providing a corporate customer service (perhaps better placed first on this list for some banks). For Corporate treasurers budgeting and planning extending price availability for longer term projects Pro's to FRA's (summary of benefits) FRA = CFD in BoE (England)
+Used for IR protection only
+Extremely liquid as MM's are willing to quote prices in any currency &amp; period up to 2 - 2.5 yr horizon
+OTC therefore tailer made
+Flexible so good for hedging
+Better for managing IR risk over longer period than cash markets can
+FRA rate is determined by the market, reflecting the pricing of Fwd/fwd periods coming off of the cash market yield curve
+FRA market is quoted and dealt akin to cash markets so no need for steep learning curve like other products
+No up front premium or margin to pay when entering into an FRA
+Can be unwound easily by entering into equal and opposite FRA so true definition of hedge
+All FRA outstanding's of "off balance sheet" Credit risk for FRA's is low and so is credit utilisation which is good for both buyer and seller (bank and corporate) credit risk is asymmetric if on mtm, the settlement of FRA will result in the bank getting the difference then it is deemed to be the risk utilisation under the limit granted
+If on mtm the bank would pay the difference, then it is taken as 'zero risk'.
+low risk in terms of capital requirements hedging vs trading hedging can be used to hedge against underlying cash market positions
+then show the hedge as the risk position being hedged and show this generation of some form of 'pseudo' cash movement in your reporting of cashflows you make for your cash market positions management
+now it is usually dynamically updated with cashflows, mismatch reports and on-screen mtm evaluation.
+usually need one or more systems to consolidate cross market instruments and risks to identify etc. trading similar to fin IR futures when dealing on trading basis need to be readily accessible in a portfolio so that a dealer can when need be sell or buy back to contract to close the position (and realise the profit).
+They get settled individually on settlement date and remain in portfolio until that date.
+If a FRA position is taken as a trading position it will be marked to market on a daily basis and any profit and loss will be taken into account immediately. Financial Futures
+- definition
+- agreement to b/s standard amount of specified commodity/currency/instrument at fixed price on fixed future date
+- Sold on exchanges as either electronically or open outcry
+- can either go long or short on any day up until predefined last trading date
+- All standardised so readily traded until last trading date
+- CME started trading futures in IMM (international Money Market) (Money Market = liquid short term market)
+- CME Group represents the merger of the Chicago Mercantile Exchange (CME), the Chicago Board of Trade (CBOT), the New York Mercantile Exchange (NYMEX) and its commodity exchange division, Commodity Exchange, Inc. (COMEX). The merger was completed in 2007.
+- Open outcry = via voice and hand signals on trading floor
+- Screen based / electronically is now more available and used.
+- ICE
+- LIFFE = London International Financial Futures Exchange, later merged with LTOM (London Traded Options Market) in 2013
+- took over NYSE Euronext
+- started off as Open Outcry but then evolved to electronic trading platform
+- Electronic trading platform = ICE Connect
+- Uses API's
+- Futures contracts can be taken off the market if unpopular like Eurodollar but then reintroduced later on IMM of CME and SGX
+- Delivery Dates
+- Typically on 4 quarter dates:
+- March
+- June
+- September
+- December
+- Run for 90 days from delivery date (3rd Wednesday)
+- So to hedge a June - Sep risk, you'd use a June Contract.
+- Current nearest dates = FRONT MONTHS
+- STIR = SHORT TERM INTEREST RATE FUTURES
+- Pricing of STIR's
+- Quoted on index basis (100 - IR)
+- Inverse relationship to IR
+- When IR's are falling, futures price rise
+- When IR's are rising, futures price fall<br>
+- <img alt="Pasted image 20250223082823.png" src="resources/attachments/pasted-image-20250223082823.png" target="_self">
+- With implied 3 months forward/forward interest rates (3 v. 6) at 5.00 p.c. the equivalent Futures price would be traded at around 95.00 (100 - 5.00). If forward/forward implied interest rates then fall to 4.00 p.c. the Futures price will rise to approximately 96.00.
+- Price of money in MMs is IR payable
+- The money markets deal in cash i.e. funds are delivered either value today (Sterling markets) or on spot date (Eurocurrency markets) for all deposits/loans effected today.
+- Futures prices can show the markets expectations for similar cash deposits for 3m periods in the future from those quarter month delivery dates.
+- can be used to determine yield curves for IRs
+- Quotation<br>
+- <img alt="Pasted image 20250223085116.png" src="resources/attachments/pasted-image-20250223085116.png" target="_self">
+- Contract Specifications:
+- CH = Clearing House
+- ICE London Contracts (CH = ICE Clear Europe Limited ICEU)
+- 3m Sonia<br>
+- <img alt="Pasted image 20250223085943.png" src="resources/attachments/pasted-image-20250223085943.png" target="_self">
+- 1m Euro O/N index future<br>
+- <img alt="Pasted image 20250223090031.png" src="resources/attachments/pasted-image-20250223090031.png" target="_self">
+- 3m EURIBOR<br>
+- <img alt="Pasted image 20250223090100.png" src="resources/attachments/pasted-image-20250223090100.png" target="_self"> n
+- CME Chicago Contracts (CH = CME Clearing)
+- 3m SOFR
+- (Secured Overnight Financing Rate)<br>
+- <img alt="Pasted image 20250223090144.png" src="resources/attachments/pasted-image-20250223090144.png" target="_self"> v
+- 3m Eurodollar<br>
+- <img alt="Pasted image 20250223090214.png" src="resources/attachments/pasted-image-20250223090214.png" target="_self">
+- w
+- Eurex (CH = Eurex Clearing)
+- 3m SARON<br>
+- <img alt="Pasted image 20250223090233.png" src="resources/attachments/pasted-image-20250223090233.png" target="_self">
+- (Swiss Average Rate Overnight)
+- TFE Contracts (CH= TFX Clearing)
+- 3m JBA Euroyen TIBOR<br>
+- <img alt="Pasted image 20250223090259.png" src="resources/attachments/pasted-image-20250223090259.png" target="_self"> w
+- Role of London Clearing House (ICE Clear (ICEU))
+- ICE Clear was formerly known as LCH.Clearnet and ICCH (the International Commodities Clearing House). Screen based trading systems such as ICE CONNECT are automatically linked into Clearing systems.
+- Once the system has matched all trades the Clearing House assumes the role of second party to all trades, becoming buyer to each seller and seller to each buyer.
+- This eliminates credit risk for the exchange's clearing members as well as facilitating the process of entering into and closing out transactions.
+- Once the trades have been agreed between the Clearing House and the clearing member (normally early the next day) the Clearing House will effectively issue the guarantee of performance.
+- Margining
+- Initial Margin
+- Deposit like a minimum security deposit
+- level of IM is determined/standardised by contract and set by CH
+- Variation Margin
+- each member working with CH will have their net open position marked to market daily by the CH at the market's official closing price
+- The difference between the value at the closing price and the original value, must be paid to / or will be received from the clearing house by the clearing member as variation margin.
+- You'll receive margin calls on valuation of your account following this process by 10am the next day
+- It is a zero sum with one trader's profits netting the other's losses on marking to market of all individual positions on a daily basis.
+- Done via LCH Clearnet Protected Payments System PPS
+- example below
+- Ticks
+- A tick is the minimum price movement on the contract as defined by the exchange and can vary from contract to contract
+- e.g. SONIA tick value = 0.01 which translates to (GBP 12.50)
+- could also be 0.005 = USD 12.5
+- easier to deal in the 0.01 movement so easer for margin calculations regardless of tick size<br>
+- <img alt="Pasted image 20250302085659.png" src="resources/attachments/pasted-image-20250302085659.png" target="_self" style="width: 500px; max-width: 100%;">
+- rather use 1 points so if tick size is 0.005 = 12.5 then 1 point would be 0.01 = 25
+- variation margin example:<br>
+- <img alt="Pasted image 20250302090720.png" src="resources/attachments/pasted-image-20250302090720.png" target="_self">
+- STIR Delivery
+- doesn't happen
+- if still outstanding then the exchange settles things in cash at 11.am on final trading date at EDSP
+- EDSP
+- Exchange Delivery Settlement Price
+- Uses of futures
+- Financial Futures may be used in risk management strategies to protect the capital value of equity and fixed interest portfolios in a rising interest rate environment. In a similar way, yields on short-term investments can be protected during periods of falling interest rates
+- 3 main
+- hedging
+- A hedge is a temporary substitute for a known future requirement. Essentially it involves taking a futures position that is equal and opposite to an existing or anticipated position in the cash market.
+- trading
+- Trading is buying and selling futures with the aim of making a profit. It allows an investor to take a view on the cash market's direction without having to buy or sell the underlying financial instrument.
+- adds liquidity to the market bc of volume of traders<br>
+- arbitrage
+just reading the rest of the chapter <a data-tooltip-position="top" aria-label="ACI Textbook1.pdf > page=317&amp;selection=59,0,59,26" data-href="ACI Textbook1.pdf#page=317&amp;selection=59,0,59,26" href="resources/attachments/aci-textbook1.html" class="internal-link" target="_self" rel="noopener nofollow">ACI Textbook1, page 317</a> <br><img alt="Pasted image 20250302101902.png" src="resources/attachments/pasted-image-20250302101902.png" target="_self">
+if you are the fixed rate payer, you pay the fixed rate and receive the floating rate
+if you are the fixed rate receiver, (BY DEDUCTION) you are paying the floating rate and are the floating rate payerCIRS = Currency and Interest rate swapsNot taking notes on theory, just on calculationsClearing House which stands as buyer to every seller and seller to every buyer.As an example a market maker when asked for a price in a 3 month EUR Call/USD Put (American style) with a strike price of 1.6500 might quote 10 - 10 ¼ p.c. This is his estimate of what implied volatility will be over the option time to expiry. The market user then decides whether this is in line with or differs from his own view. If the market user believes volatility will be lower he sells (volatility) to the market 351 maker’s bid of 10 p.c. If he believes volatility will be higher than 10 ¼ p.c. he buys (volatility). Once this has been agreed the buyer of volatility is the buyer of the option and the Premium is then calculated using all data elements now available. On agreement of the transaction the Premium is then payable (on deal date) by the buyer to the seller.Price may be in another currency even if it's EUR call / USD putBreak even:
+For the holder of a Call this is the strike price plus premium paid (points in rate). For the holder of a Put this is the Strike price less the premium paid (points in rate).An ITM option will ALWAYS be exercised. An OTM option will not be exercised and is described as expiring “worthless”. On exercise an OTC Currency option becomes a standard Spot foreign exchange transaction between the two parties and is then subject to routine credit risk concerns (i.e. delivery risk).For example, if a change of 1 percent in the exchange rate causes the currency option premium to change by 0.5 percent then the delta is described as being 0.5The Delta represents the speed with which an option price will change relative to the underlying. It gives an idea of the probability that the option will be In-the- money at expiry. It can be described as the option’s “pay-off”.Delta is a ratio between 0-1
+ATM -&gt; 0.5
+ITM -&gt; close to 1
+OTM -&gt; close to 0 Small changes in the price of the underlying will not alter the Premium.delta -&gt; velocity
+gamma -&gt; acceleration
+volacity is how fast you're going
+acceleration is how fast you're speeding upGamma will be large when an option is at-the-money and near to expiry. Gamma will be small, near to zero, when either an in- or out-of-the-money option is nearing expiry date.
+Options with a high Gamma ratio will be attractive to option buyers, but less attractive to option sellers. High Gammas mean fast, accelerating changes in Delta, thus options going in-the-money accelerate sellers’ losses and purchasers’ gains.Options with a high Gamma ratio will be attractive to option buyers, but less attractive to option sellers. High Gammas mean fast, accelerating changes in Delta, thus options going in-the-money accelerate sellers’ losses and purchasers’ gains.<br><img alt="Pasted image 20250202110039.png" src="resources/attachments/pasted-image-20250202110039.png" target="_self">If a currency option has a Vega of 0.05 and implied volatility in the underlying is 10 percent then if volatility were to change by 1 percent (moving up to 11 percent) the premium on the currency option would change by 0.05 percent.
+(ratio: so if change in vol is 1, and vega is change in price/ change in vol = 0.05)derivatives are the gradient to the function
+e.g. y = mx + cso e.g delta = (S1 - S2) / (v1 - v2) 0.05 = (change)xS/(11-10)
+(11-10)*0.05= (change)xS<br>
+<img alt="Pasted image 20250202112042.png" src="resources/attachments/pasted-image-20250202112042.png" target="_self">Hedging:
+But what about the bank dealer? Having sold the right to exercise to the customer how can he himself manage the risk now assumed from the customer?<br>Delta hedging: <a data-tooltip-position="top" aria-label="ACI Textbook1.pdf > page=359&amp;selection=99,0,100,6" data-href="ACI Textbook1.pdf#page=359&amp;selection=99,0,100,6" href="resources/attachments/aci-textbook1.html" class="internal-link" target="_self" rel="noopener nofollow">ACI Textbook1, page 359</a>
+sell and buy to match delta ratio
+Call is at 10 million to get delta ratio of 0.5 he buys 5 million
+goes up to 0.7 so buys 2million to get to 7 million
+goes down to 0.5 so he sells the 2 million (going up and going down is the exchange rate in the market (St))
+We multiply these cashflows by the exchange rates
+so when he bought the extra 2million to get to 7 million at the exchange rate (2 million USD for 1.5600 EUR = USD 3,120,00). Then he sold it at the lower exchange rate when the delta went back down to 0.5 (2 million USD for 1.5500 EUR = USD 3,100,00 is what he got back when he paid 20,000USD more)
+-&gt; calculating time value <br><img alt="Pasted image 20250205104514.png" src="resources/attachments/pasted-image-20250205104514.png" target="_self">
+here because the put is in the money (higher than the market price) and it's value is intrinsic + time, and it's up by 100, and it's price is 0.0125, we can deduce that it's time value is 0.0025 because it's intrinsic value is 100 (1.5600-1.5500) so it's 0.0025 (0.0125 - 0.0100) 383 to 450 (~73 pages)
+risks market
+credit
+liquidity
+operational
+legal
+regulatory
+reputational Market risk types: Interest Rate Risk
+Equity risk
+Currency risk
+Commodity risk Credit Risk categories lending
+issuer
+settlement
+counterparty credit risk Sources of operational risk: systems people processes
+external events come back and make proper notes laterA long (overbought) position in a currency which rises against the comparator currency will result in a profit, whereas a short position in such a currency will result in a loss. This is the risk and there are limits used in a bank to control and monitor this risk. Market Risk (market by market and product by product) FX risk transaction exposure For example a UK exporter invoicing in foreign currency and being paid by his customers abroad in foreign currency has an exchange risk against local currency (GBP) with every export order (transaction) he fills and for which he issues an invoice. The company has three choices: to cover (sell) the risk – by dealing with a bank in the traditional foreign exchange cash market,
+to hedge (insure against) the risk – by using treasury derivatives such as currency options
+or to run the risk. Provided the risk has been identified and the management are happy then running the risk can be considered a risk management decision. translation exposure reported as one currency in the balance sheet but different elsewhere Economic exposure Economic risk may be mitigated by the use of forward foreign exchange or Currency options hedging strategies.
+May arise when dealing with countries with different interest rates or exchanges and have your competitors in different countries using different exchange rates MR - Cash foreign exchange instruments financial institution exchange exposure
+Market risk position limits
+central bank limits / in-bank limits banks limited by central bank
+referred to as Overnight Open Exchange Position Limit
+Managed by Risk Management Department exchange risk Comes from "Open Exchange Positions" and fact that exchanges fluctuate
+definition: The open exchange position can be defined as the difference between total assets and total liabilities, regardless of value date, in any currency, or pair of, or group of currencies. Here the bank will include assets and liabilities which are not all dealer initiated, i.e. interest accrual positions in foreign currencies
+Long (overbought) position in a currency which rises against the comparator currency will result in a profit, whereas a short position in such a currency will result in a loss. This is the risk and there are limits used in a bank to control and monitor this risk. open exchange position limits intra-day limits "daylight" positions
+limits positions during the day
+can be multiple of Overnight limit overnight position limits "close of day" Depends on: on balance sheet,
+local market size, business involvement,
+risk management policies,
+dealers’ experience etc. Limits may be expressed as being on "net short basis" the sum of all short currency positions (this is to avoid double counting) Controlled by treasury division FO, MO, BO reconciliation of overnight positions BO responsibility to ensure all risk positions are reconciled: Dealer's records to "Books of Account" and or other management info returns on daily basis time zone risk FX market on 24h basis
+differences between the different markets opening and closing at different times position passing / stop loss / take profit orders MR - Forward Foreign exchange - Interest Rate risk Forward foreign exchange trading is effectively trading interest rate differential “off the balance sheet”.
+MR Position limits - Forward foreign exchange
+Interest rate risk is the same as or equal to the interest rate differentials between the 2 currencies involved. It comes as a result from the maintenance of the mismatch (gaps) of maturity positions of cash market spot against forward purchases and sales. Such as for foreign currency pairs and off-balance sheet derivative products like n-d-fs and all are effective on a forward/forward basis.
+It's measured per currency pair, per currency and on a consolidated basis with spot exchange positions and interest arbitrage operations included such as money market balancing items in the Mismatch (Gap) reporting where deemed appropriate.
+Another good approach is to use a similar one to money market interest rate risk MR - FICC Derivatives (Exchange traded Currency Options) market risk comes from the underlying exchange rate or interest rate having volatility which fluctuates due to adverse market conditions
+with options, Buyers: the potential loss is limited to the premium and the upside is (potentially) unlimited
+Sellers (writers): the potential loss is unlimited and the profit is limited to the premium (margin) long/overbought call (put) on a commodity/currency/IR where option price (premium/margin) rises will result in a profit (loss) MR - FICC Derivatives (OTC Currency / interest rate options) same risk with positions like described above
+hedging method = delta hedging for sold/written options using a computed model which looks at the proportion of cover in the underlying (be it cash or security) market required given your current position in the market and also looking at trends. But these hedging methods in themselves also give risk to further risks (both credit and market risks) in those underlying markets
+Trading limits help with this both on trading and on hedging positions MR - Commodities (Precious Metals) commodity risk definition: relates to commodity prices (Precious metals, corn, copper, crude oil etc.) main risk is that their implied vol will change positions can be controlled in similar way to FX position risk MR - Cash Money Market and financial instruments main risk in CMM is interest rate risk: is that the dealer has a short (overlent) position in the fixed periods and interest rates rise or the dealer has a long (overborrowed) position in the fixed periods and interest rates fall
+Overall market risk (interest rate risk) is defined and managed by the allocation of Mismatch (Gap) limits
+It happens for unmatched/uncovered positions in financial instruments from CH5: Treasury Bills
+Bankers Acceptances (BAs)
+Certificates of Deposit (CDs)
+Commercial Papers (CP) Again trading limits on positions help MR - FICC Derivatives (Short term Interest rate) MR - FRA's similar to open exchange positions
+market risk depends on price vol of currency being traded
+hedging or trading bases can either create or cover IR risk
+When hedging FRAs if off-balance sheet derivatives then it must be consolidated into the cash market reporting so it can be used to assess overall interest rate risk
+They don't offset liquidity risk
+Considered Contract for difference calculated on settlement date (fixing date) Re-investment risk in that the settlement rate being used as the discount rate may not be achieved on re-investment
+trading limits again MR - Financial Futures transactions can be effected as trading positions and are subject to MR like open exchange positions.
+Degree depends on price vol of underlying.
+Risks are reflected in initial margin requirements
+Can be used for hedging or trading
+If hedging, it is off-balance sheet and must be included in cash market report to assess overall IR risk
+Trading limits again MR - Longer-term IRS (but including OIS) MR when swaps are unmatched (warehoused) by traders awaiting the fixed payer client having already closed a swap with a fixed receiver. Exposed to underlying long term bond or markets
+also swap spreads quoted in interbank market
+risk is only gone once the unmatched position has been closed as exactly matched (payment flow dates)
+Due to nature usually imperfectly matched
+Can use duration analysis like for bonds Other IR risk from mismatched maturity positions of cash market assets, libabilities and off-balance sheet derivative products as well as outstanding commitments to lend or borrow (forward/forward) at agreed fixed interest rates basically you're at risk when you've fixed something at an interest rate The interest variation date of variable interest rate operations (e.g. at 2 days notice or at “Prime rate”) must be regarded as the next business day when a change may occur.
+can evaluate positions by comparing historic (break even) and current MtM rates of interest either from today (i.e. spot) or on a forward/forward basis.
+P&amp;L can be evaluated on accrual basis then discounted back to today's value using normal NPV techniques
+Can also use a "What-if" report
+Mismatch limits limits put in place to limit their ability to create mismatch positions
+The limits can be an absolute maximum amount which must not be exceeded within a pre-agreed time horizon (frequently one year) or can be controlled by a maximum cumulative total of all mismatch positions which must not occur later than a date linked to the liquidity of the currency market involved or profitability or some other measure. Credit Risk (Market by market and product by product) CR - Spot foreign exchange Delivery risk (Herstatt risk) Foreign exchange market = cash market
+on value date, currencies involved must be physically delivered as agreed upon as per the contract
+If the bank doesn't receive the currency in the contract and has already paid the countervalue (the other side of the currency be it the foreign one or the local one) then the risk is 100% of what was already paid away
+It's a daily risk assessment of both spot and forward outstandings
+The risk department limits with with a single metric -&gt; "delivery risk limit" when it creates counterparty credit limits
+delivery risk may also arise due to middle eastern markets due to differing Islamic weekend/holiday dates
+bilateral netting and CLS reduce impact of this risk
+payment netting reduces settlement risk f counterparties are to exchange multiple cash on any value date, they can agree to net those cash flows to one payment per currency. Not only does such payment netting reduce settlement risk, it also economises on processing procedures. CR - Forward foreign exchange Cash market
+also subject to Delivery risk If, in a non CLS currency or a transaction with a non CLS counterparty, for some reason the bank does not receive the currency contracted to be purchased and has already paid away the countervalue in local or another foreign currency then the risk is 100% of the sums so paid away. Market replacement risk additional Credit risk in forward foreign exchange
+this is where if like in credit risk, a counterparty defaults, not only on top of that but now to replace their positions you're also subject to changes in interest rates and exchange rates
+A transaction is only completed by the receiver in Mega Bank if it results in a profit against replacement at the current market rate. If the transaction results in a profit to Major Bank (Loss to the receiver) this contract will more than likely NOT be completed. If the transaction results in a profit to the receiver this contract will be completed – this is assessed as “zero” risk. This process is referred to in legal terms as specific performance or “cherry picking” and results in asymmetric risk.
+you basically look at the exchange rates in the contract and see whether doing it in the market would be more favourable or not
+if it's less favourable, you're subject to market replacement risk (they offered you a lower rate, or a higher rate) and that difference is then your market replacement risk CR mitigation techniques Foreign Exchange FX
+netting reduces credit exposure and processing and payment costs
+These netting arrangements only apply to foreign exchange transactions in the same currency pairings dealt for the same value date and the terms of all such netting are agreed bilaterally between the banks.
+helps with market replacement risk (see above)
+This risk does not disappear if default of the counterparty means a potential “profit” i.e. a better rate than contractually agreed is then available. The concept of “specific performance” with the receiver in bankruptcy being able to decide which contracts to complete means that transactions resulting in a profit to the defaulting party would be completed and those resulting in a loss would be allowed to fail. Netting by novation is one way to reduce this market replacement risk.
+Close-out netting Reduces pre-settlement risk
+negates "cherry picking" CLS Continuous Linked Settlement (CLS) is an industry initiative to reduce the risks associated with cross-currency transactions. These risks have been principally caused by delays due to time-zone differences. CLS is a real-time system that enables simultaneous settlement globally, irrespective of time zones, within a five-hour timeframe in Europe.
+Pro's Eliminates settlement risk
+improves liquidity management
+reduces operational banking costs
+improves operational efficiency and effectiveness CLS Bank in NY supervised by Fed
+works with central banks
+members: Settlement members
+User members don't have a direct account but are sponsored by a settlement member acting on its behalf Third parties customers of both
+other members handle all instructions Each day members submit instructions (like SSI's) to CLS bank All Members input and manage their instructions. Settlement Members make their payments to CLS Bank, and monitor their settlement and account positions. Members receive real-time operational information and manage their own data.
+CLS Bank reduces the risk of a Member losing the principal relating to an FX transaction from paying away one currency and failing to receive the countercurrency. Unlike the Futures Markets clearing houses CLS Bank does not guarantee the settlement of every instruction that is submitted for settlement, nor provide protection against the failure of forward trades nor become a counterparty to any underlying cross-currency transaction, however, once an instruction is settled, CLS Bank ensures that each Member will receive the payment to which it is entitled from CLS Bank in accordance with its rules and risk management procedures. Benefits achieved through STP, improving credit management and liquidity consolidation
+also improves the availability and flow of funds
+How it works Copy of MT300 FX confirmation within 2 hours of deal being struck, transaction is to be settled via CLS by both banks directly to the CLS bank
+CLS Bank issues the net amounts owed by the member and the members manage their own instructions and update their accounts and make payments to the CLS bank, monitoring their settlement and account positions. They get real-time data for this.
+CLS Bank reduces the risk of a Member losing the principal relating to an FX transaction from paying away one currency and failing to receive the other currency (delivery or ‘Herstatt’ risk)
+DIFFERENCES TO FUTURES MARKET CLEARING HOUSES does not guarantee the settlement of every instruction submitted or provide protection against failure of forward trades or become a counterparty to any underlying cross-currency transaction. However, once an instruction is settled, CLS Bank will assure that each member will receive the payment to their due according to their rules and risk management procedures. <br>CLS Examples <a data-tooltip-position="top" aria-label="ACI Textbook1.pdf > page=401&amp;selection=174,0,174,16" data-href="ACI Textbook1.pdf#page=401&amp;selection=174,0,174,16" href="resources/attachments/aci-textbook1.html" class="internal-link" target="_self" rel="noopener nofollow">ACI Textbook1, page 401</a> CLS Bank has pre-arranged liquidity facilities with the Central Banks in the currencies it handles, so, if one of the Settlement Members fails to pay (a failed payment rather than a ‘default’), CLS Bank will sell the currency received from the non-defaulting bank to one of its liquidity providers for the countercurrency, and then pay the countercurrency to the non-defaulting bank
+MT300 FX SWIFT confirmations are transmitted to CLS Bank on deal date
+In case where one party fails, the party who does pay will get their counter currency payment but the other party will get nothing and this is facilitated because CLS bank has ties to central banks which have reserves in major currencies Inside/Outside Swaps another service provided by CLS
+An I/O Swap comprises two equal and opposite FX transactions that are agreed as an intraday swap. This reduces intraday cash flows while leaving the institution's overall FX position unchanged. I/O Swaps exploit the likelihood that an institution with a large short position in-CLS will almost certainly have one or more large long positions in-CLS.
+can match liquidity flows to domestic needs as well as to CLS system
+Currencies = G20's ISO (SWIFT) currency codes CR (and Counterparty Dealing Limits) - Money Market The credit risk in Money market Cash transactions is relatively easy to identify. If you have lent unsecured money the risk is that the counterparty will go bankrupt before maturity date and you will not receive back the amount of your advance.
+Loans The credit risk is in the name of the borrower of cash. CR (and Counterparty Dealing Limits) - Financial Instruments Repos The credit risk is on the issuer of the collateral (typically government securities therefore typically lower risk than comparator commercial collateral transactions). T-Bills The credit risk is in the name of the government issuer (typically lower risk than comparator commercial issues). Eligible Bills / Bankers Acceptances The credit risk is in the name of the Acceptor (guarantor) CDs Purchased at Issue The credit risk is in the name of the issuer of the CD. Secondary CDs purchased The credit risk is in the name of the issuer of the CD. In certain financial centres where physical settlement of such instruments takes place, there is also a delivery risk in the name of the seller of the CD between the date of payment and receipt of the financial instrument purchased. Commercial Paper The credit risk is in the name of the issuing company i.e. Commercial risk or, in some countries, financial institution. Central Securities Depositories (CSDs) There are currently around 30 central securities depositories (CSD) in the European Union. Euroclear (Belgium) and Clearstream (Luxembourg) act as depositories for international securities and have their own account in most CSDs in Europe and beyond. These entities are referred to as CCPs (Central Clearing Counterparties) within the Basel rules. In all transactions which involve exchanging cash for security/collateral you're subjected to delivery risk (daylight or intra-day) on purchases. Between payment and confirmation
+between clearing houses
+between instructions through agents
+from confirmation of receipt of cash in payment CR - FICC Derivatives FRAs Market replacement risk
+Due to counterparty credit risk (counterparty defaults/fails before settlement) i) a market replacement cost, a substitute FRA arranged at an unfavourable rate judged against the original transaction.
+ii) if a replacement FRA cannot be arranged, full exposure to any adverse movements in interest rates against which the original FRA was initiated. relates to vol of IR in cash market assessed daily on MtM basis
+(a negative market to market, i.e. the bank owes the counterparty = nil risk). Some banks may still assess risk on FRAs as a flat percentage (i.e. 5% maximum potential interest rate swing in any period where there is an FRA outstanding). Financial Futures (STIR contracts) NO CREDIT RISK This is because of the Exchange of Clearing House Where the CH becomes buyer to every seller and seller to every buyer Because of the total lack of credit risk, Financial Futures are the only financial trading product which is not subject to Capital Adequacy requirements. IRS (including OIS) Have credit risk on the counterparty, reflects market replacement risk (and costs associated)
+Market replacement risk If the counterparty defaults during life of the swap, the bank will be left with their position which may be covered at a loss. Position could be in foreign exchange positions or interest rate positions
+Swaps should be MtM on regular basis to reflect market replacement risk and effected preferably daily.
+Counterparties aren't usually aware of each other's identities bank assumes credit risk of each counterparty unless acts as just a broker Given the long term nature of swaps banks must pay greater attention to increased risk the longer the period remaining to maturity of any transaction. Many banks use a sliding scale to assess credit risk on swaps based on historic analysis of movements in interest rates. Further percentage credit utilisation measures may be applied where the currenc(ies) involved are not traded in the major international markets.
+Currency and IR swaps are subject to exchange rate volatility which can lead to a higher replacement cost on default
+Factors affecting credit risk Overall level of interest rates
+Collateral
+Reset frequency more frequent, easy to identify if counterparty will default Shape of yield curve if currently positive then the probability is that floating rates will rise meaning that the floating rate payer (fixed rate receiver)’s liability will increase in the future. Delivery risk - IRS risks rise when: i) dates of receipts and payments of fixed and floating interest flows may differ and the counterparty fails to make a payment after receiving funds from the bank
+ii) a counterparty accepts payment to it but fails to make payment to the bank on the same day. This risk applies mainly to currency swaps since payments in the same currency on an interest rate swap are usually netted.
+iii) in respect of currency swaps, the final exchange of currencies at an exchange rate agreed several years previously could lead to substantial exchange exposure CR Mitigation Some ways are netting and collateral otherwise credit derivatives Credit Derivatives A credit derivative is another means of credit mitigation allowing the lender to effectively transfer risk of a debtor defaulting to a third party. This third party, as in insurance policy accepts some or all the risk in return for payment, known as the premium.
+CDS definition: A credit default swap (CDS) is a financial derivative whereby an investor "swaps" or offsets his credit risk in a bilateral OTC contract with another investor. If lender is concerned their counterparty will default, they can enter a CDS with someone else (transferring the credit risk to an insurer at a premium)
+The lender buys a CDS from 3rd party who then agrees to reimburse the lender should their counterparty (borrower) default
+Different parties: Lender/Borrower
+Buyer/Seller
+The Lender (A) of the security/loan/etc. is the one at risk to the borrower (B) (counterparty) and would be the one to buy the CDS (therefore be the buyer)
+the Seller (C) is therefore the 3rd party and the insurer
+A = Lender and Buyer
+B = Borrower
+C = Seller and Insurer
+A buys CDS from C to protect from B defaulting TRS A Total return swap is a swap which permits a counterparty (receiver) to achieve the risk and return on an asset without actually owning it. In exchange this party must pay an agreed rate (fixed, floating or variable) over the life of the swap. The receiver assumes the credit risk, whereas the payer takes on the credit exposure the receiver may be subject to. An example is USD floating rate v. S&amp;P 500 index on an agreed investment amount.
+<br>Own Note: <a data-href="Total Return Swap (TRS)" href="total-return-swap-(trs).html" class="internal-link" target="_self" rel="noopener nofollow">Total Return Swap (TRS)</a> CDO Structured like with tranches
+Based on pool of cash loans/other assets and then sold to investors
+Becomes collateral if loan defaults (Big Short) CVA Credit Value Adjustment is the difference between the risk-free portfolio value and the true (mark to market) portfolio value that takes into account the possibility of a counterparty’s default. CVA is the market value of counterparty credit risk. Documentation Cash Markets (i.e. FX and MM) have "My word is my bond" don't have enough documentation. So in last few years have gathered standard terms and conditions governing each of these instruments especially with rise of derivatives in OTC markets FXC cover close-out netting provisions and transaction payments legal terms
+FEOMA (1997)
+IFEMA exchange transactions ICOM Master Agreement currency option transactions IFXCO Master Agreement updates others by including FX and currency options definitions according to Global Documentation Steering Committee FEOMA combines IFEMA and ICOM Master agreements GMRA global master repurchase agreement
+for repos
+Published by International Capital Market Association (ICMA)
+which is the body representing the cross-border bond and repo markets in Europe
+published by PSA (Public Securities Association) now TBMA (The Bond Market Association)
+good for classic repos
+pre-sign GMRA then transactions are referred back to bi-lateral agreement sets out procedures for margining
+events of default
+also range of definitions of terminology ISDA International Swaps and Derivatives Association (ISDA) Master Agreements
+1992
+Covers all rates market derivative products.
+2 types: local Multi-currency cross-border A Credit Support Annex is a legal document which regulates the collateral used in Derivative transactions. It is one of the four parts that make up an ISDA Master Agreement but is not mandatory. ISDA Credit Support Annex (CSA) defines terms under which collateral is posted / transferred between swap counterparties to mitigate credit risk coming from "in the money" derivative positions
+If on any Valuation Date, the Delivery Amount equals or exceeds the Pledgor's Minimum Transfer Amount, the Pledgor must transfer Eligible Collateral with a Value at least equal to the Delivery Amount. The Delivery Amount is the amount the Credit Support Amount exceeds the Value of all posted Collateral held by the Secured Party. The Collateral must meet the Eligibility criteria in the agreement, e.g., which currencies it may be in, what types of bonds are allowed, and which, if any, haircuts are applied. There are also rules for the settlement of disputes arising over valuation of derivative positions.
+To distinguish between the Schedule to the Master Agreement and the Credit Support Annex, the schedules are numbered as Parts and CSA are numbered as Paragraphs.
+Under English Law, CSA are considered transactions: Any collateral listed as ‘Eligible Collateral’ is delivered as an outright transfer of title. The collateral taker becomes the outright owner of that collateral free of any third party interest.
+An English law credit support annex operates by way of outright transfers of title to the posted collateral whereas parties transacting business under a New York CSA can materially change the parties’ rights and obligations and their standing upon an insolvency of the other party giving rise to Legal risk. (See later in this chapter). Operational Risk Definition In 2004 the Basel Committee initially defined Operational risk as the risk of loss resulting from inadequate or failed internal processes, people and systems, or from external events. The committee indicates that this definition excludes systemic risk, legal risk and reputational risk
+After downfall of big companies regulators decided to focus on risks other than Credit Risk and Market Risk Includes: employee errors, (e.g. fat-finger trading errors, reconciliation failings)
+model mis-use or mal-functions, (e.g. incorrect or erroneously programmed algorithms)
+communication failures, (e.g. telephone, lack of rates information, trading platform outages etc.)
+IT systems failures, (e.g. in-house systems problems - processing and/or reporting)
+fire, floods or other losses to physical assets,
+fraud or other criminal activity (including rogue trading) Legal Risk Legal risk is risk from uncertainty due to legal actions or uncertainty in the applicability or interpretation of contracts, laws or regulations. Depending on an institution's circumstances, legal risk may entail such issues as Contract formation i.e. what constitutes a legitimate contract? Is an oral agreement sufficient, or must there be a legal document? What documentation is required? Does a counterparty have the capacity to enter into a transaction?
+If transacting across borders, subject to more jurisdictions and risk on who becomes the authority over a legal issue Reputational Risk Based on trust
+Takes forever to build, can be lost instantly
+Loss of confidence by any group of market counterparties can quickly lead to the decline of a bank with credit lines reduced or withdrawn making the bank’s funding more difficult or more expensive.
+Reputational risk management is supported by "the plans, processes and practices, which engender and sustain the trust of all and each category of market counterparties". Other risks Specific Risk ("unsystematic risk") In a balanced portfolio of assets there'd be a spread between general market risk and risks specific to individual components of that portfolio. Determination of the extent of exposure to individual risks is made using models such as Treynor-Black in which the optimal share of a security is inversely proportional to the square of its specific risk. Systemic Risk Systemic risk is a means to describe the likelihood of the collapse of a financial system, such as a general stock market crash or a joint breakdown of the banking system.
+Systemic risk != systematic risk Systematic risk = whole economy like business cycles or wars SIFI Systematically Important Financial Institution bank/insurance company or fin institution which failure might cause a crisis
+"too big to fail" Wrong way risk defined by ISDA as the risk that occurs when "exposure to a counterparty is adversely correlated with the credit quality of that counterparty
+When default risk and credit exposure increase together
+Ordinarily in trading book credit risk measurement, the creditworthiness of the counterparty and the exposure of a transaction are measured and modelled independently. An example of wrong way risk is where credit derivatives are being used to protect against counterparty default the counterparty’s subsequent default impacts the creditworthiness of the seller of the credit insurance (derivative). Basel Accords (Basel I to Basel III) Basel I is a set of international banking regulations put forward by the Basel Committee on Bank Supervision that sets out the minimum capital requirements of financial institutions with the goal of minimizing credit risk
+G10 got together
+Started with Cooke Ratio
+Together are called "Basel Accords"
+Basel III recommendations were originally scheduled to be introduced from 2013 until 2015; however, implementation was extended repeatedly to 31st March 2019 and then again until 1st January 2022.
+Tiers Tier 1 Tier 1 Capital (“core” capital) consists of equity and disclosed reserves.
+Secure capital to absorb losses in case of defaults so it gets absorbed by the reserve instead of earnings Tier 2 Tier 2 Capital (“supplementary” capital) includes perpetual securities, undisclosed reserves, subordinated debt over 5 years to maturity and shares redeemable at the option of the issuer. BIS ratio Of the BIS Ratio for Capital cover of 8 percent at least 50 percent must be Tier 1 Capital. All classes of assets are risk weighted according to asset classes and counterparty (OECD government to non-OECD non financial counterparty). As the perceived credit risk increases so too does the risk weighting. Trading Book 3 criteria: that the instrument is a financial instrument
+…and that the instrument is held for trading purposes
+…or that the instrument is hedging an exposure in the trading book. Instruments included: transferable securities,
+money market instruments,
+financial futures contracts,
+FRAs,
+interest rate swaps,
+currency swaps
+and options to acquire these instruments. Definition: proprietary positions in financial instruments which are held for resale and/or which are taken on by the institution with the intention of benefiting in the short term from actual and/or expected differences between their buying and selling prices or positions taken in order to hedge other elements of the trading book
+exposures due to the unsettled transactions, free deliveries and OTC derivative instruments, exposures due to repurchase agreements (Repos) and securities lending
+those exposures in the form of fees, commission, interest, dividends and margin on exchange traded derivatives In the UK, positions are considered to be held with a trading intent if:.. they are marked to market daily as part of the internal risk management process - the position takers have autonomy in entering into transactions within predetermined limits
+they satisfy any other criteria which the bank applies to the composition of its trading book on a consistent basis. CAD II CAD II is the EU directive that allows financial institutions to use internal VaR models to calculate market risk capital requirements in line with BIS Basel standards. Banks must measure Delta, Gamma and Vega risk when calculating Capital adequacy required against written (Sold) Options positions. VAR is an acceptable measure of risk for assessment of BIS capital adequacy calculations and other central bank imposed risk measures.
+Can also choose SA
+Lays down basic standards for in-house (IM) models The model must express a VaR estimate to a 99% confidence level, must calculate losses on the basis of a 10 day holding period and all historic data used must cover at least the last 12 months Basel II differences Brought in 3 pillars
+more reflective of underlying risks in banking.
+Better incentives
+Built on the previous one to point to risks that banks actually face This was achieved in part by aligning capital requirements more closely to the risk of credit loss and by introducing a new capital charge for exposures to the risk of loss caused by operational failures. Pillars Summary: Pillar I -&gt; Minimum Capital Requirements
+Pillar II -&gt; Supervisory Review
+Pillar III -&gt; Market Discipline Pillar I - Minimum capital requirements Pillar I presents the calculation of the total minimum capital requirements for credit, market and operational risk
+The capital ratio is calculated using the definition of regulatory capital and risk-weighted assets. The total capital ratio must be no lower than 8%. Tier 2 capital is limited to 100% of Tier 1 capital.
+Definition of "Eligible Capital" is still the same as Basel I
+Under the standardised approach to credit risk, general provisions can be included in Tier 2 capital subject to the limit of 1.25% of risk weighted assets. Under the internal ratings-based (IRB) approach, the treatment of the 1988 Accord to include general provisions (or general loan-loss reserves) in Tier 2 capital is withdrawn. The definition of Tier 3 capital as set out in the Amendment to the Capital Accord to Incorporate Market Risks, Basel Committee on Banking Supervision (January 1996, modified September 1997, in this Framework referred to as the Market Risk Amendment) remains unchanged. Basel III Basel III, the global regulatory standard on bank capital adequacy, stress testing and market liquidity risk agreed upon by members of the Basel Committee on Banking Supervision in 2010 was developed in response to the deficiencies in financial regulation revealed by the 2008 financial crisis. Basel III strengthens bank capital requirements and introduces new regulatory requirements on bank liquidity and bank leverage.
+Definitions and calculations: B III - Pillar 1: aligns minimum capital requirements more closely to each bank's actual risk of economic loss
+Risk-weighted assets under Basel II / III Total risk-weighted assets under Basel II are determined by multiplying the capital requirements for market risk and operational risk by 12.5 (i.e. the reciprocal of the minimum capital ratio of 8%) and adding the resulting figures to the sum of risk-weighted assets for credit risk. Pillar II - Supervisory Review Pillar II covers the key principles of supervisory review, risk management, guidance and supervisory transparency and accountability produced by BIS with respect to banking risks, including guidance relating to, among other things, the treatment of interest rate risk in the banking book, credit risk (stress testing, definition of default, residual risk, and credit concentration risk), operational risk, enhanced cross-border communication and cooperation, and securitisation
+Ensures banks are better developing and using better risk management techniques to monitor and manage their risks
+Supervisors must evaluate how banks are assessing their capital based on their needs and risks and must know when to intervene
+can't just rely on capital reserves, also need internal risk limits and controls
+There are three main areas that might be particularly suited to treatment under Pillar II, risks considered under Pillar I that are not fully captured by the Pillar I process (e.g. credit concentration risk); those factors not taken into account by the Pillar I process (e.g. interest rate risk in the banking book, business and strategic risk); and factors external to the bank (e.g. business cycle effects).
+A further important aspect of Pillar II is the assessment of compliance with the minimum standards and disclosure requirements of the more advanced methods in Pillar I, in particular the IRB framework for credit risk and the Advanced Measurement Approaches for operational risk.
+Supervisors must ensure that these requirements are met, both as qualifying criteria and on a continuing basis.
+Under Basel III - Pillar II bank supervisors must evaluate the activities and risk profiles of individual banks to determine whether those organisations should hold higher levels of capital than the minimum requirements in Pillar 1 would specify and to see whether there is any need for remedial actions. Pillar III - Market Discipline The rationale for Pillar III is sufficiently strong to warrant the introduction of disclosure requirements for banks using the Framework. Supervisors have an array of measures that they can use to require banks to make such disclosures. Some of these disclosures will be qualifying criteria for the use of particular methodologies or the recognition of particular instruments and transactions
+Complements Pillar I and Pillar II
+encourages market discipline with disclosure requirements
+allows market participants to assess key pieces of information on: the scope of application
+capital
+risk exposures
+risk assessment processes
+and hence the capital adequacy of the institution BIS believes it's an effective way of getting each bank to inform the market of their exposure to those risks and allows for transparency and comparability
+Basel III, Pillar 3 leverages the ability of market discipline to motivate prudent management by enhancing the degree of transparency in banks’ public reporting to shareholders and customers. Probability of Default (PD) Probability of default (PD) is the likelihood of a default over a particular time horizon.
+Under Basel II: a default event on a debt obligation is said to have occurred if... it is unlikely that the obligor will be able to repay its debt to the bank without giving up any pledged collateral
+the obligor is more than 90 days past due on a material credit obligation The PD is an estimate of the likelihood that the default event will occur over a fixed assessment horizon, usually taken to be one year. The PD can be estimated for a particular obligor which is the usual practice in wholesale banking, or for a segment of obligors sharing similar credit risk characteristics which is the usual practice in retail banking. Exposure at Default (EAD) Exposure at Default is an estimate of the extent to which a bank may be exposed to a counterparty in the event of, and at the time of, that counterparty’s default. EAD is equal to the current amount outstanding in case of fixed exposures like term loans. For revolving exposures like lines of credit, EAD can be divided into drawn and undrawn commitments.
+Based on Basel II: EAD measures the amount that is likely to be drawn further if a default occurs.
+2 terms for this are used (how expressed): Conversion Factor (CF)
+Loan Equivalent (LEQ) While under foundation approach (F-IRB) calculation of EAD is guided by the regulators, under the advanced approach (A-IRB) banks enjoy greater flexibility on how they calculate EAD.
+Calculation Under Foundation Approach (F-IRB) Under F-IRB EAD is calculated taking account of the underlying asset, forward valuation, facility type and commitment details. This value does not take account of guarantees, collateral or security (i.e. it ignores Credit Risk mitigation techniques with the exception of on-balance sheet netting where the effect of netting is included in Exposure at Default).
+For on-balance sheet transactions, EAD is identical to the nominal amount of exposure. On-balance sheet netting of loans and deposits of a bank to a corporate counterparty is permitted to reduce the estimate of EAD under certain conditions.
+For off-balance sheet items, there are two broad types which the IRB approach needs to address: transactions with uncertain future drawdown, such as commitments and revolving credits, and OTC foreign exchange, interest rate and equity derivative contracts Calculation Under Advanced Approach (A-IRB) Under A-IRB, the bank itself determines the appropriate EAD to be applied to each exposure.
+(Internal EAD estimates)
+A bank using internal EAD estimates for capital purposes is able to differentiate EAD values on the basis of a wider set of transaction characteristics (e.g. product type) as well as borrower characteristics. These values would be expected to represent a conservative view of long-run averages, although banks are free to use more conservative estimates.
+A bank wishing to use its own estimates of EAD will need to demonstrate to its local Central Bank / regulator that it can meet additional minimum requirements pertinent to the integrity and reliability of these estimates.
+All estimates of EAD are calculated net of any specific provisions a bank may have raised against an exposure. Loss given default (LGD) Definition: Loss Given Default is percentage of loss over the total exposure when bank's counterparty goes to default
+It is facility-specific because such losses are generally understood to be influenced by key transaction characteristics: such as the presence of collateral
+and the degree of subordination. Theoretically, LGD is calculated in different ways, 'Gross' LGD, the favourite with academics, where total losses are divided by exposure at default (EAD)
+or ‘Blanco’ LGD, preferred by banks because they have many secured facilities and would like to decompose their losses between losses on unsecured portions and losses on secured portions due to depreciation of collateral quality. Capital Treatment of Credit Risk under Basel II and III 3 approaches to credit risk under BII. The SA is simplest of the 3. The other 2 are based on internal ratings (IM)
+Standardised Approach SA avoids complexity
+Risk Weights Risk weighted assets under the Standardised Approach will continue to be calculated as the product of the amount of exposures and supervisory determined risk weight
+As in the current Accord the risk weights will be determined by the category of the borrower, sovereign bank or corporate counterparty. There is now no distinction on the sovereign risk weighting depending on whether or not the sovereign is a member of OECD under Basel III. Basel III - Summary of changes from previous versions (earlier Accords) Minimum common equity requirement of 2% to 4.5%
+Capital conservation buffer 2.5% - met with common equity. If under then there are greater constraints on earnings distributions are imposed
+Total common equity requirement is 7%
+Higher capital requirements for trading, derivatives and securitization
+Tier 1 capital from 4% to 6% over the same period
+Countercyclical buffer in the range of 0 to 2.5% of common equity according to national circumstances
+Introduction of Liquidity coverage ratio (LCD)
+Introduction of Net Stable Funding Ratio (NSFR)
+Supplemented by non risk based leverage ratio Internal Capital Adequacy Assessment Process (ICAAP) The purpose of the ICAAP document is to inform the Board of an institution of the ongoing assessment of the firm’s risks, how the firm intends to mitigate those risks and how much current and future capital is necessary having considered other mitigating factors. The ICAAP document is also how the firm explains to the UK’s PRA (Prudential Regulation Authority) or its local regulator its internal capital adequacy assessment process. Foundation internal ratings-based (F-IRB) F stands for "Foundation" so F-IRB foundation internal ratings-based approach.
+Refers to set of CR measurement techniques originally proposed under Basel II
+Define their own capital adequacy rules for banking institutions
+Banks can develop their own empirical models to estimate the PD (Probability of default) for individual clients or groups of clients. Advanced internal rated based (A-IRB) A-IRB = Advanced
+set of credit risk measurement techniques by Basel II capital rules (adequacy) for banks.
+Banks can develop their own models to calculate capital for credit risk.
+Use their own models for": PD
+EAD
+LGD
+RWA (Risk weighted Assets)
+Then total capital required is calculated as fixed percentage of estimated RWA Liquidity Risk
+- Liquidity Coverage Ratio (LCR)
+- Under Basel III
+- Ensures bank holds enough liquid assets to cover short term crisis
+- based on predetermined set of cash inflows and outflows
+- Pillar I ratio
+- Must cover 30 stressed period and liquid assets in respect for lending must be available for drawdown within 30 d period.
+- 2 Categories of liquid assets [Level 1 &amp; Level 2]
+- Level 1
+- 100% of Qualifying marketable securities from sovereigns, central banks, public sector entities and multilateral development banks.
+- 100 % of Qualifying central bank reserves
+- 100 % of Domestic sovereign or central bank debt in domestic currency
+- 100 % of Domestic sovereign debt for non-0% risk weighted sovereigns, issued in foreign currency
+- Level 2
+- 85% of Sovereign, central bank, and PSE assets qualifying for 20% risk weighting
+- 85% of Qualifying corporate bonds rated AA- or higher
+- 85% of Qualifying covered bonds rated AA- or higher
+- Both Level 1 and Level 2 assets should “ideally” also be eligible for intraday or overnight liquidity facilities at central banks.
+- Level 2 assets have a specific quantitative benchmark to prove they are reliable during stressed conditions - a maximum price decline (or increase in haircut) over a stressed 30 day period not exceeding 10%.
+- Note: Assets and Liabilities are assessed for the purpose of the LCR currency by currency. For example Sterling liabilities need to be supported by Sterling assets.
+- Net Stable Funding Ratio (NSFR)
+Reading from here on out. Section headings are here if need to see what there is but notes are minimal and the rest of the chapter should be re-read/skimmed before writing.
+- Leverage Ratio - (and how to calculate it) Stress testing Funds Transfer Pricing (FTP) VaR Basic Statistics
+Holding Period
+Confidence level
+Uses
+Risk Factors
+Methodologies Correlation (Variance/Covariance) Method
+Historical Simulation
+Structured Monte Carlo Simulation
+3 Compared: <br><img alt="Pasted image 20250320095333.png" src="resources/attachments/pasted-image-20250320095333.png" target="_self"> Other measures Stress testing
+Back testing
+Expected Shortfall (ES) Jargon (The greeks) Basis point value
+Delta
+Gamma
+Jump risk
+Lambda
+Maturity ladder
+PVBP
+Rho
+Spot (Asset) ladder
+Theta
+Vega Asset and Liability Management (ALM) Asset and Liability Committee (ALCO)
+Balance Sheets
+Return on assets
+Hedging Financial instruments which can be used to hedge interest rate risk have already been discussed at length in Topic 4. For short term interest rate risk management the dealers can use Forward Rate Agreements (FRAs) or Short term interest rate (STIR) Financial futures contracts. For longer term rate risk management instruments such as interest rate swaps, currency and interest rate swaps, Caps, Floors and Collars (interest rate options) together with Bond Futures. P&amp;L Procedures Interest rate risk The interest variation date of variable interest rate operations (e.g. at 2 days notice or at “Prime rate”) must be regarded as the next business day when a change may occur. Liquidity ratios and management Dealing management Cashflows Portfolio report (traded financial instruments) Bills of Exchange = Bankers Acceptances Maturity analysis (Source and application of funds) Profit and loss (accrual) reportage Mismatch report The report generates a figure for anticipated interest income and expense should the current positions be squared at today’s market rates.
+Modus Operandi Mismatch P&amp;L Figure is summed with the matched result to provide that day's mark to market P&amp;L, i.e. the overall P&amp;L result should be the position squared at that rate Market Risk Trading Limits
+Mismatch limits Duration means to measure the time weighted average cash flow of a bond (/IRS)
+<br>Macaulay duration is the first step in calculation modified duration which can estimate the price change of a bond for a given change in yield of that bond. <a data-href="Basis Point Value - BPV" href="basis-point-value-bpv.html" class="internal-link" target="_self" rel="noopener nofollow">Basis Point Value - BPV</a>
+Point of balance
+Duration usage
+Modified duration
+Effective Duration
+<br>NB NB NB Positive vs Negative Convexity and Duration discussion: <a data-tooltip-position="top" aria-label="ACI Textbook1.pdf > page=452&amp;selection=81,0,83,0" data-href="ACI Textbook1.pdf#page=452&amp;selection=81,0,83,0" href="resources/attachments/aci-textbook1.html" class="internal-link" target="_self" rel="noopener nofollow">ACI Textbook1, page 452</a> ]]></description><link>2025-01-25_09-30-textbook-quick-notes.html</link><guid isPermaLink="false">Areas/Finance/2025-01-25_09-30 textbook quick notes.md</guid><pubDate>Mon, 29 Sep 2025 06:37:01 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Treasury Functions]]></title><description><![CDATA[
 What Treasury Does — always have cash when/where needed What it means: Make sure the bank can pay everything due today and tomorrow: client withdrawals,
 settlements,
 payroll,
