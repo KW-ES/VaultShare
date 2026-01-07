@@ -2,5 +2,6 @@
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "assets",
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false
 }

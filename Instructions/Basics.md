@@ -26,3 +26,19 @@
 
 
 
+```git
+# Git ignore ** for all subfolders
+!/docs/site-lib/**
+```
+
+- to set up git
+	- first make repo on github
+	- initialise in same folder as vault
+
+
+
+
+
+![[Pasted image 20250912095317.png]]
+
+![[Pasted image 20250912095317.png]]
