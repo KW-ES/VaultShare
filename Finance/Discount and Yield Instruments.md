@@ -4,13 +4,18 @@ related:
   - "[[Finance]]"
 ---
 
-- **Yield Instruments:** These are interest-bearing instruments that pay periodic interest or accrue interest over time, with the investor receiving both principal and accrued interest at maturity. CDs fall into this category as they typically have a stated interest rate and pay interest periodically or at maturity.
-    
-- **Discount Instruments:** These are issued at a discount to their face value and do not pay periodic interest; instead, the investor earns a return by purchasing the instrument at a lower price and receiving the full face value at maturity. Examples include **Treasury bills and commercial paper.**
+![[Pasted image 20260107154048.png]]
 
-Yield means starts higher and becomes par
-Discount means starts low and accrues to face value
-e.g. 
+> [!spc]  **Yield Instruments:** 
+> - **Yield Instruments:** These are interest-bearing instruments that pay periodic interest or accrue interest over time, with the investor receiving both principal and accrued interest at maturity. CDs fall into this category as they typically have a stated interest rate and pay interest periodically or at maturity.
+
+> [!spb] **Discount Instruments:** 
+> - **Discount Instruments:** These are issued at a discount to their face value and do not pay periodic interest; instead, the investor earns a return by purchasing the instrument at a lower price and receiving the full face value at maturity. Examples include **Treasury bills and commercial paper.**
+
+
+[[Yield Curves|Yield]] means starts higher and becomes par
+[[ACI Discounting approaches|Discount]] means starts low and accrues to face value
+e.g.  ^290548
 
 ### **Example Calculation for a Discounted Bankers' Acceptance (BA)**
 

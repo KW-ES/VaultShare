@@ -1,14 +1,58 @@
+---
+related:
+  - "[[Useful]]"
+---
+# All
+
+> [!details] Details
+
+> [!poa]
+
+ > [!red] Redshift
+ 
 > [!bug]
 
+> [!danger]
+
 > [!failure]
+
+> [!nb]
+
+> [!now] Now
 
 > [!question]
 
 > [!warning]
 
+> [!idea] Idea
+
+> [!notice]
+
+> [!definition] Definition
+
+> [!swin] Sessions Win
+
+> [!spa] Speaker A
+
+> [!ml] Micro Look Ups
+
+> [!prog] Progress
+
+> [!sgoal] Sessions Goal
+
+> [!mq] Micro Questions
+
+> [!tip]
+
 > [!summary]
 
 > [!hint] Hint, Important
+
+> [!sfine] Sessions Fine
+
+> [!mn] Micro Notes
+
+> [!spb] Speaker B
 
 > [!todo]
 
@@ -16,20 +60,31 @@
 
 > [!example]
 
+> [!eg]
+
+> [!spc] Speaker C
+
+> [!add]
+
 > [!quote]
 
+> [!code] Code
 
+> [!query]
 
-# All Callouts
+# Custom
+## Callouts Made
 > [!details] Details
 
-> [!bug]
+> [!poa]
 
-> [!failure]
+ > [!red] Redshift
+ 
+> [!nb]
 
-> [!question]
+> [!now] Now
 
-> [!warning]
+> [!notice]
 
 > [!idea] Idea
 
@@ -37,50 +92,46 @@
 
 > [!swin] Sessions Win
 
+> [!spa] Speaker A
+
+> [!ml] Micro Look Ups
+
 > [!sgoal] Sessions Goal
 
-> [!sfine] Sessions Fine
-
-> [!summary]
-
-> [!hint] Hint, Important
-
-> [!todo]
-
-> [!info] Info
-
-> [!example]
-
-> [!quote]
-
-> [!code] Code
-
-# Custom
-## Callouts Made
-
-> [!nb]
-
-> [!now] Now
-
- > [!red] Redshift
- 
-> [!details] Details
-
-> [!poa]
-
-> [!idea] Idea
-
-> [!definition] Definition
-
-> [!swin] Win
+> [!mq] Micro Questions
 
 > [!prog] Progress
 
-> [!sgoal] Goal
+> [!sfine] Sessions Fine
 
-> [!sfine] Point
+> [!mn] Micro Notes
+
+> [!spb] Speaker B
+
+> [!tip]
+
+> [!spc] Speaker C
+
+> [!eg]
 
 > [!code] Code
+
+> [!query]
+
+> [!add]
+
+
+#### Speakers
+
+> [!spa] Speaker A
+
+> [!spb] Speaker B
+
+> [!spc] Speaker C
+
+
+#### Micronotes
+
 
 > [!mn] Micro Notes
 
@@ -88,14 +139,3 @@
 
 > [!mq] Micro Questions
 
-
-
-
-## Ideas
-make:
-- [x] session goals
-
-![[IMG-20260107132446079.png]]
-# Screenshot
-
-![[IMG-20260107132446329.png]]

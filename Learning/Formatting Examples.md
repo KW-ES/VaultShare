@@ -1,7 +1,7 @@
 
 
 # Main Page
-![](IMG-20260107125711205.png)
+
 
 
 # Text Formatting
@@ -72,10 +72,10 @@ New()
 
 # Embed
 
-*Syntax / Code:*
-`![[Learning/Amortization#Description]]`
+***Syntax / Code:***
+> `![[Learning/Amortization#Description]]`
 
-*Rendering:*
+*Rendering the segment of [[Learning/Amortization|Amortization]] page:*
 ![[Amortization#Description]]
 
 

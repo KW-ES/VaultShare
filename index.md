@@ -1,15 +1,31 @@
 # Index
 
-**Last Edited:** {`=this.file.mtime`}
+![[aac1e123-9f74-44ef-89e4-d7adafa99248.png]]
+# 📽️ Test Video
 
-![[IMG-20260107125711499.png]]
+> [!example]- [[Video - Mastering Simulations]]
 
 
-![](IMG-20260107125711863.png)
-# Test Video
 
-> [!tip]- Video
-(<iframe src="https://elenjicalsolutions.sharepoint.com/sites/Learning/_layouts/15/embed.aspx?UniqueId=3850bf82-881a-43c5-94e3-5f8a1f113170&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Mastering the Mx Simulation-20250619_113214-Meeting Recording.mp4"></iframe>)
+# 💡 Example Notes
+
+> For indications on the capability of functions/potential of this site.
+
+| Note                                   | Example                                                                                    |
+| -------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [[2025-03-26_04-59 FX Summary]]        | ACI Summary                                                                                |
+| [[Pre-Reading - Different Markets]]    | Summary of documents from training                                                         |
+| [[Discount and Yield Instruments]]     | Finance Summary, [[Discount and Yield Instruments#^290548\|Example of contextual linking]] |
+| [[Video - Mastering Simulations]]      | video                                                                                      |
+| [[Sales Margin#^2c1554\|Sales Margin]] | Example of latex                                                                           |
+| [[Stock Market Crashes]]               | PDF management                                                                             |
+| [[Formatting Examples]]                | Obsidian Formatting Examples                                                               |
+
+
+
+
+
+# ➡️ Jump to [[Finance Hub]]
 
 
 
@@ -17,17 +33,25 @@
 
 
 
-# Pages
+# 📕Pages
+
+## All
+
+> [!query]- All Pages
+> 
+> ```dataview
+> LIST
+> FROM !#note
+> WHERE file.folder = this.file.folder or contains(file.folder, "Learning") or contains(file.folder, "Finance")
+> ```
+
+## Finance Related
+
+> [!query]- Finance Pages
+> ![[Finance Hub#Links]]
 
 
-```dataview
-LIST
-FROM !#note
-WHERE file.folder = this.file.folder or contains(file.folder, "Learning")
-```
+---
 
 
-
-
-
-# See [[Finance Hub]]
+> [!note] **Last Edited:** {`=this.file.mtime`}

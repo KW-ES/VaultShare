@@ -8,11 +8,14 @@ type: "[[Notes]]"
 ---
 ## **1. Sales Margin**
 
+![[Pasted image 20260107154202.png]]
 - **Definition**: Sales margin is a profitability measure that shows how much profit a company makes on its sales.
     
 - **Formula (simplified)**:
-    
-    Sales Margin=Sales Revenue – Cost of Goods Sold (COGS)Sales Revenue×100\text{Sales Margin} = \frac{\text{Sales Revenue – Cost of Goods Sold (COGS)}}{\text{Sales Revenue}} \times 100Sales Margin=Sales RevenueSales Revenue – Cost of Goods Sold (COGS)​×100
+     ^2c1554
+$\text{Sales Margin (\%)} = \frac{\text{Sales Revenue} - \text{Cost of Goods Sold (COGS)}}{\text{Sales Revenue}} \times 100$
+
+
 - **Interpretation**:
     
     - A **higher margin** means the company retains more profit after covering the direct costs of producing or buying goods.

@@ -4,6 +4,9 @@ source: ACI Textbook
 related:
   - "[[Finance]]"
 ---
+#yield
+
+
 - YIELD CURVES:
 	- The shape of a yield curve is one of many pointers as to current market sentiment in respect of the anticipated level of future interest rates. Some textbooks will suggest that longer period rates are usually higher than short rates to allow for the time and inflation risks in longer term investment. *But the shape of the money market yield curve up to 12 months at any time more significantly identifies the current market sentiment that over time interest rates are going to rise or fall*
 	- 4 shapes:
