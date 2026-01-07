@@ -3,5 +3,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./assets",
   "newLinkFormat": "shortest",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Learning"
 }

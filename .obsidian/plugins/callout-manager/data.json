@@ -1,0 +1,258 @@
+{
+  "callouts": {
+    "custom": [
+      "definition",
+      "details",
+      "idea",
+      "test",
+      "code",
+      "sgoal",
+      "swin",
+      "sfine",
+      "prog",
+      "red",
+      "poa",
+      "now",
+      "nb",
+      "eg",
+      "mn",
+      "ml",
+      "mq",
+      "tip",
+      "add",
+      "notice",
+      "query",
+      "spa",
+      "spb",
+      "spc"
+    ],
+    "settings": {
+      "info": [
+        {
+          "changes": {
+            "color": "79, 77, 255"
+          }
+        }
+      ],
+      "definition": [
+        {
+          "changes": {
+            "icon": "lucide-notebook-pen"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "162, 240, 45"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "98, 163, 0"
+          }
+        }
+      ],
+      "details": [
+        {
+          "changes": {
+            "icon": "lucide-align-center",
+            "color": "203, 6, 150"
+          }
+        }
+      ],
+      "idea": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb",
+            "color": "204, 197, 0"
+          }
+        }
+      ],
+      "code": [
+        {
+          "changes": {
+            "icon": "lucide-code-square",
+            "color": "29, 69, 114"
+          }
+        }
+      ],
+      "sgoal": [
+        {
+          "changes": {
+            "icon": "lucide-goal",
+            "color": "24, 165, 92"
+          }
+        }
+      ],
+      "swin": [
+        {
+          "changes": {
+            "icon": "lucide-party-popper",
+            "color": "135, 224, 0"
+          }
+        }
+      ],
+      "sfine": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-right"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "4, 145, 180"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "85, 129, 175"
+          }
+        }
+      ],
+      "prog": [
+        {
+          "changes": {
+            "icon": "lucide-loader",
+            "color": "85, 155, 115"
+          }
+        }
+      ],
+      "red": [
+        {
+          "changes": {
+            "icon": "lucide-code-square",
+            "color": "179, 91, 91"
+          }
+        }
+      ],
+      "poa": [
+        {
+          "changes": {
+            "icon": "lucide-bolt",
+            "color": "206, 70, 188"
+          }
+        }
+      ],
+      "now": [
+        {
+          "changes": {
+            "icon": "lucide-mouse-pointer-click",
+            "color": "231, 104, 19"
+          }
+        }
+      ],
+      "nb": [
+        {
+          "changes": {
+            "icon": "lucide-megaphone",
+            "color": "230, 88, 40"
+          }
+        }
+      ],
+      "eg": [
+        {
+          "changes": {
+            "icon": "lucide-send-horizontal",
+            "color": "153, 0, 255"
+          }
+        }
+      ],
+      "mn": [
+        {
+          "changes": {
+            "icon": "lucide-notebook-tabs",
+            "color": "0, 147, 184"
+          }
+        }
+      ],
+      "ml": [
+        {
+          "changes": {
+            "icon": "lucide-search",
+            "color": "26, 153, 0"
+          }
+        }
+      ],
+      "mq": [
+        {
+          "changes": {
+            "icon": "question-mark-glyph",
+            "color": "10, 178, 136"
+          }
+        }
+      ],
+      "tip": [
+        {
+          "changes": {
+            "icon": "lucide-bot-message-square",
+            "color": "94, 207, 205"
+          }
+        }
+      ],
+      "add": [
+        {
+          "changes": {
+            "icon": "lucide-list-tree",
+            "color": "195, 222, 254"
+          }
+        }
+      ],
+      "notice": [
+        {
+          "changes": {
+            "icon": "lucide-alarm-clock",
+            "color": "212, 196, 17"
+          }
+        }
+      ],
+      "query": [
+        {
+          "changes": {
+            "icon": "lucide-search-code",
+            "color": "19, 73, 134"
+          }
+        }
+      ],
+      "spa": [
+        {
+          "changes": {
+            "icon": "lucide-message-square",
+            "color": "22, 221, 8"
+          }
+        }
+      ],
+      "spb": [
+        {
+          "changes": {
+            "icon": "lucide-message-square",
+            "color": "110, 201, 231"
+          }
+        }
+      ],
+      "spc": [
+        {
+          "changes": {
+            "icon": "lucide-message-square",
+            "color": "210, 128, 255"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

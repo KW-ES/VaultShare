@@ -1,7 +1,7 @@
 
 
 # Main Page
-
+![](IMG-20260107125711205.png)
 
 
 # Text Formatting
@@ -24,7 +24,7 @@ Plain Text Formatting. Plain Text Formatting. Plain Text Formatting. Plain Text 
 
 
 
-For more see [[Callouts]]
+For more see [Callouts](Callouts.md)
 
 ---
 
@@ -76,7 +76,7 @@ New()
 `![[Learning/Amortization#Description]]`
 
 *Rendering:*
-![[Learning/Amortization#Description]]
+![[Amortization#Description]]
 
 
 ---
@@ -105,4 +105,5 @@ f(x \mid \mu, \sigma^2) = \frac{1}{\sigma \sqrt{2\pi}}
 $$
 
 ---
+
 

@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "attachPath": {
+    "attachmentRoot": "/assets",
+    "saveAttE": "inFolderBelow",
+    "attachmentPath": "",
+    "attachFormat": "IMG-${date}",
+    "type": "GLOBAL",
+    "extensionOverride": [
+      {
+        "extension": "",
+        "attachmentRoot": "",
+        "saveAttE": "obsFolder",
+        "attachmentPath": "${notepath}/${notename}",
+        "attachFormat": "IMG-${date}"
+      }
+    ]
+  },
+  "dateFormat": "YYYYMMDDHHmmssSSS",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": true,
+  "excludedPaths": "",
+  "excludePathsArray": [],
+  "excludeSubpaths": false,
+  "originalNameStorage": [],
+  "overridePath": {},
+  "disableNotification": false
+}

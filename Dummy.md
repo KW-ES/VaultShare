@@ -1,7 +1,9 @@
+#note
+
 
 [[Folder/Inside]]h 
 
-[[Learning/Amortization]]
+[Amortization](Learning/Amortization.md)
 
 ## Hello!
 
@@ -9,7 +11,7 @@
 
 [[Inside]]
 
-[[Callouts]]
+[Callouts](Learning/Callouts.md)
 
 ![[Pasted image 20250912095059.png]]
 

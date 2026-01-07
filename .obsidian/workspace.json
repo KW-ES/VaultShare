@@ -22,21 +22,21 @@
             }
           },
           {
-            "id": "01744957134c33c7",
+            "id": "19bc085dedf3769f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Learning/Amortization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Amortization"
             }
           },
           {
-            "id": "44b8afa9294009fb",
+            "id": "01744957134c33c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,21 +50,35 @@
             }
           },
           {
+            "id": "44b8afa9294009fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
             "id": "6d93facfd0e7ae12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dummy.md",
+                "file": "Callouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dummy"
+              "title": "Callouts"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -221,57 +235,58 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "webpage-html-export:Export as HTML": false
+      "webpage-html-export:Export as HTML": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "543f1e9dd468ca85",
+  "active": "6d93facfd0e7ae12",
   "lastOpenFiles": [
-    "docs/amortization.html",
-    "docs/assets-and-liabilities.html",
-    "docs/balance-sheet-items.html",
-    "docs/basis-point-value-bpv.html",
-    "docs/caps,-floors,-collars.html",
-    "docs/caps-and-floors.html",
-    "docs/discount-and-yield-instruments.html",
-    "docs/durations.html",
-    "docs/financial-dates.html",
-    "OldDocs",
-    "docs/desktop.ini",
-    "docs/resources/attachments/pasted-image-20250929084215.png",
-    "docs/resources/attachments/pasted-image-20250923101906.png",
-    "docs/resources/attachments/pasted-image-20250929084406.png",
-    "docs/resources/attachments/pasted-image-20250929084346.png",
-    "docs/resources/attachments/pasted-image-20250929084303.png",
-    "docs/resources/attachments/pasted-image-20250328140608.png",
-    "docs/resources/attachments/pasted-image-20250929084153.png",
-    "docs/resources/attachments/pasted-image-20250929084039.png",
-    "docs/resources/attachments/pasted-image-20250923113143.png",
-    "docs/resources/attachments/pasted-image-20250923102458.png",
-    "Learning/Callouts.md",
-    "Learning/Amortization.md",
-    "Instructions/Basics.md",
-    "Finance/Sensitivities.md",
-    "Finance/Murex Discount and Capitalisation Curves.md",
-    "Finance/Liquidity and Volatility.md",
-    "Finance/FX Swaps.md",
-    "Finance/Caps, Floors, Collars.md",
-    "Finance/Stock Market Crashes.md",
-    "Dummy.md",
-    "List of stock market crashes and bear markets - Wikipedia.pdf.md",
-    "Finance/Securitization.md",
-    "Finance/Sell Buy Back.md",
-    "Finance/Synthetic Assets and Liabilities.md",
+    "docs/site-lib/search-index.json",
+    "docs/site-lib/metadata.json",
+    "docs/finance/assets/img-20260107130453166.pdf",
+    "docs/finance/assets/img-20260107130451676.pdf",
+    "docs/finance/assets/img-20260107130926973.png",
+    "docs/finance/assets/img-20260107130456412.png",
+    "docs/finance/assets/img-20260107130455373.png",
+    "docs/finance/assets/img-20260107130453636.png",
+    "docs/finance/assets/img-20260107130454979.png",
+    "docs/finance/assets/img-20260107130452087.png",
+    "docs/finance/assets/img-20260107130450790.png",
+    "docs/finance/assets/img-20260107130447485.png",
+    "docs/finance/assets/img-20260107130449226.png",
+    "docs/finance/assets/img-20260107130629892.png",
+    "docs/assets",
+    "docs/finance/assets/img-20260107130451676.html",
+    "docs/finance/assets/img-20260107130937450.html",
+    "docs/finance/assets/img-20260107130934964.html",
+    "docs/finance/assets/img-20260107130926446.html",
+    "docs/finance/assets/img-20260107130926973.html",
+    "docs/finance/assets/img-20260107130927975.html",
     "Finance/Balance Sheet Items.md",
-    "Finance/ACI Acronyms.md",
-    "Folder/Inside.md",
-    "index.md",
-    "Learning/Formatting Examples.md",
-    "Canvas.canvas",
-    "OldDocs/excalidraw/fx-bbs-sob.excalidraw.md",
-    "docs/excalidraw/fx-bbs-sob.excalidraw.md",
-    "OldDocs/instructions/basics.md",
-    "Finance/Amortization.md",
-    "Finance/VaR.md",
-    "Finance/Yield Curves.md"
+    "Finance/Caps and Floors.md",
+    "Finance/Caps, Floors, Collars.md",
+    "Finance/FX Swaps.md",
+    "Finance/GNP and GDP.md",
+    "Finance/Hedging and exposure.md",
+    "Finance/IRS Hedging and Assets and Liabilities.md",
+    "Finance/Liquidity and Volatility.md",
+    "Finance/Options.md",
+    "Finance/Sell Buy Back.md",
+    "Finance/Stripping and Stacking Futures.md",
+    "Finance/Synthetic Assets and Liabilities.md",
+    "Finance/Tenor, Period and Term.md",
+    "Finance/Total Return Swap (TRS).md",
+    "Finance/Types of Risk.md",
+    "Finance/Acronyms.md",
+    "Finance/Behavioural Rate and Behavioural Maturity.md",
+    "Finance/Securitization.md",
+    "Finance/Treasury.md",
+    "Finance/Liquidity.md",
+    "Finance/NSFR.md",
+    "Finance/LCR.md",
+    "Finance/Balance Sheet Management.md",
+    "Finance/IRRBB.md",
+    "Finance/Hedging.md",
+    "Canvas.canvas"
   ]
 }
