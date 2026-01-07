@@ -6,20 +6,24 @@
 > [!example]- [[Video - Mastering Simulations]]
 
 
+---
+
 
 # 💡 Example Notes
 
 > For indications on the capability of functions/potential of this site.
 
-| Note                                   | Example                                                                                    |
-| -------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [[2025-03-26_04-59 FX Summary]]        | ACI Summary                                                                                |
-| [[Pre-Reading - Different Markets]]    | Summary of documents from training                                                         |
-| [[Discount and Yield Instruments]]     | Finance Summary, [[Discount and Yield Instruments#^290548\|Example of contextual linking]] |
-| [[Video - Mastering Simulations]]      | video                                                                                      |
-| [[Sales Margin#^2c1554\|Sales Margin]] | Example of latex                                                                           |
-| [[Stock Market Crashes]]               | PDF management                                                                             |
-| [[Formatting Examples]]                | Obsidian Formatting Examples                                                               |
+| Note                                | Example                                                                            |
+| ----------------------------------- | ---------------------------------------------------------------------------------- |
+| [[2025-03-26_04-59 FX Summary]]     | ACI Summary                                                                        |
+| [[BBS SOB]]                         | Diagrams                                                                           |
+| [[Pre-Reading - Different Markets]] | Summary of documents from training                                                 |
+| [[Discount and Yield Instruments]]  | Finance Summary, [[Discount and Yield Instruments\|Example of contextual linking]] |
+| [[Video - Mastering Simulations]]   | video                                                                              |
+| [[Sales Margin\|Sales Margin]]      | Example of latex                                                                   |
+| [[Stock Market Crashes]]            | PDF management                                                                     |
+| [[Formatting Examples]]             | Obsidian Formatting Examples                                                       |
+| [[Caps, Floors, Collars]]           | YouTube                                                                            |
 
 
 
@@ -35,6 +39,12 @@
 
 # 📕Pages
 
+> [!query]- Ready
+> 
+> ```dataview
+> LIST FROM #done
+> ```
+> 
 ## All
 
 > [!query]- All Pages

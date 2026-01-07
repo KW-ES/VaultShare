@@ -6,13 +6,13 @@ related:
   - "[[Finance]]"
 type: "[[Notes]]"
 ---
+#done 
 ## **1. Sales Margin**
 
 ![[Pasted image 20260107154202.png]]
 - **Definition**: Sales margin is a profitability measure that shows how much profit a company makes on its sales.
     
 - **Formula (simplified)**:
-     ^2c1554
 $\text{Sales Margin (\%)} = \frac{\text{Sales Revenue} - \text{Cost of Goods Sold (COGS)}}{\text{Sales Revenue}} \times 100$
 
 

@@ -3,6 +3,8 @@ type: "[[Notes]]"
 related:
   - "[[Finance]]"
 ---
+#done 
+
 
 ![[IMG-20260107130937450.pdf]]
 

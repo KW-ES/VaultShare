@@ -5,5 +5,9 @@
   "consistent-attachments-and-links",
   "attachment-management",
   "callout-manager",
-  "obsidian-banners"
+  "obsidian-banners",
+  "convert-url-to-iframe",
+  "obsidian-excalidraw-plugin",
+  "mermaid-tools",
+  "highlightr-plugin"
 ]

@@ -38,10 +38,10 @@ Imagine you have a **fund-of-funds** structure:
 
 flowchart TD
 	A[Portfolio / Fund-of-Funds] --> B{Lookthrough?}
-	B -- Yes --> C[Decompose to Underlyings<br/>(Securities, FX legs, Cashflows)]
+	B -- Yes --> C[Decompose to Underlyings<br/>Securities, FX legs, Cashflows]
 	C --> D[Exposure by Asset/Issuer/Currency]
 	D --> E{Unlookthrough?}
-	E -- Yes --> F[Aggregate back to Parent Entity<br/>(Fund / Balance Sheet Line)]
+	E -- Yes --> F[Aggregate back to Parent Entity<br/>Fund / Balance Sheet Line]
 	E -- No --> D
 	B -- No --> F
 	
@@ -68,8 +68,8 @@ flowchart LR
   end
 
   %% Unlookthrough view
-  subgraph ULT[Unlookthrough (Collapsed)]
-    U1[Fund A (single line)]
+  subgraph ULT[Unlookthrough - Collapsed]
+    U1[Fund A - single line]
   end
 
   B1 -.roll up.-> L1
@@ -124,11 +124,7 @@ In the **Fintigrate** or **Treasury data consolidation** context, the **unlookth
 
 ---
 
-## 📊 **Visual Summary**
 
-         `+----------------+          |  Lookthrough   |          |  (Expand Data) |          +----------------+                 ↓      [Each fund decomposed into securities]                 ↓          +----------------+          | Unlookthrough  |          | (Aggregate Up) |          +----------------+                 ↓    [Entity-level positions for ALM, Liquidity, Reporting]`
-
----
 
 ## 🧠 **Summary Table**
 

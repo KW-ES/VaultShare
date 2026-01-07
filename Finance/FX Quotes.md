@@ -43,3 +43,6 @@ FX recap:
 | SAR/USD | SAR  | USD   | 1 SAR = X USD (inverse of 3.75 |
 # BBS SOB
 ![[FX BBS SOB.excalidraw]]
+
+See [[BBS SOB]] for more.
+

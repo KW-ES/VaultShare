@@ -15,13 +15,10 @@ t + 2
 > [!note] For FRA's Settlement Date = Fixing date
 
 # ChatGPT
-can you explain how spot dates, forward dates, value dates, trade dates, maturity dates, settlement dates etc. all work for all instruments in the book?
+> [!spa] Question
+> Can you explain how spot dates, forward dates, value dates, trade dates, maturity dates, settlement dates etc. all work for all instruments in the book?
 
-###### ChatGPT said:
-
-![GPT Icon](https://chatgpt.com/backend-api/content?id=file-9R3AIb2mcnxSDS1yiicMxTcn&gizmo_id=g-KKBgd8GXb&ts=482742&p=gpp&sig=de97c696f75edfd96dcb2a16162370aae278acc1db5ba5bb0742920cf70b7dd7&v=0)
-
-Certainly! Understanding **dates** like **spot dates, forward dates, value dates, trade dates, maturity dates, and settlement dates** is essential for managing transactions across financial instruments, as these govern the flow of payments and obligations in the financial markets. Below is a detailed explanation of how these dates function for various instruments, as per the ACI syllabus.
+Understanding **dates** like **spot dates, forward dates, value dates, trade dates, maturity dates, and settlement dates** is essential for managing transactions across financial instruments, as these govern the flow of payments and obligations in the financial markets. Below is a detailed explanation of how these dates function for various instruments, as per the ACI syllabus.
 
 ---
 
@@ -121,15 +118,11 @@ Certainly! Understanding **dates** like **spot dates, forward dates, value dates
 
 ---
 
-Let me know if you'd like more specific scenarios or clarifications!
+> [!spa] Question
+> what is a tenor?
 
-##### You said:
 
-what is a tenor?
 
-###### ChatGPT said:
-
-![GPT Icon](https://chatgpt.com/backend-api/content?id=file-9R3AIb2mcnxSDS1yiicMxTcn&gizmo_id=g-KKBgd8GXb&ts=482742&p=gpp&sig=de97c696f75edfd96dcb2a16162370aae278acc1db5ba5bb0742920cf70b7dd7&v=0)
 
 A **tenor** refers to the length or duration of time remaining until the maturity of a financial instrument or transaction. It is used across various financial markets to describe the time period for which money is lent, borrowed, or invested.
 
@@ -192,17 +185,10 @@ A **tenor** refers to the length or duration of time remaining until the maturit
 
 ---
 
-Would you like further clarification on tenor for specific instruments?
+> [!spa] Question 
+> What are all the different dates to take into account for all the instruments? can you please make a table?
 
-##### You said:
-
-what are all the different dates to take into account for all the instruments? can you please make a table?
-
-###### ChatGPT said:
-
-![GPT Icon](https://chatgpt.com/backend-api/content?id=file-9R3AIb2mcnxSDS1yiicMxTcn&gizmo_id=g-KKBgd8GXb&ts=482742&p=gpp&sig=de97c696f75edfd96dcb2a16162370aae278acc1db5ba5bb0742920cf70b7dd7&v=0)
-
-Certainly! Below is a comprehensive table summarizing the **key dates** to take into account for various financial instruments, as covered in the ACI syllabus:
+Below is a comprehensive table summarizing the **key dates** to take into account for various financial instruments, as covered in the ACI syllabus:
 
 ---
 
@@ -259,15 +245,9 @@ Certainly! Below is a comprehensive table summarizing the **key dates** to take 
 
 ---
 
-If you'd like more detail on specific instruments or examples, let me know!
+> [!spa] Question
+> What is deal date?
 
-##### You said:
-
-what is deal date?
-
-###### ChatGPT said:
-
-![GPT Icon](https://chatgpt.com/backend-api/content?id=file-9R3AIb2mcnxSDS1yiicMxTcn&gizmo_id=g-KKBgd8GXb&ts=482742&p=gpp&sig=de97c696f75edfd96dcb2a16162370aae278acc1db5ba5bb0742920cf70b7dd7&v=0)
 
 The **deal date** is the same as the **trade date**—it refers to the date on which a financial transaction is agreed upon between two counterparties. This is the starting point of the transaction lifecycle, marking the day when the terms of the trade (e.g., price, amount, tenor, value date, etc.) are finalized.
 
@@ -317,4 +297,3 @@ The **deal date** is the same as the **trade date**—it refers to the date on w
 - **Spot Date**: Wednesday, 7th February 2025 (T+2 from the deal date).
 - **Value Date**: Same as the spot date: 7th February 2025.
 
-Let me know if you'd like clarification on any specific scenarios!

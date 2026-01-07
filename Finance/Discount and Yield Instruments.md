@@ -3,6 +3,7 @@ type: "[[Notes]]"
 related:
   - "[[Finance]]"
 ---
+#done 
 
 ![[Pasted image 20260107154048.png]]
 
