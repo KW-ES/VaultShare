@@ -65,7 +65,7 @@ The terms **Forward Contracts**, **Forward Rate Agreements (FRAs)**, and **Futur
 Each of these instruments serves distinct purposes based on the level of customization required, the asset type involved, and the risk profile of the parties involved.
 
 # Textbook
-See [[2025-03-26_04-59 FX Summary]]
+See [[ACI FX Summary]]
 ## FX Swap
 - antes
 - buy sell at future time
@@ -77,5 +77,5 @@ See [[2025-03-26_04-59 FX Summary]]
 ## FX Forward/Forwards
 - 3v6s
 - deals on spot but commences from forward date
-[[IMG-20260107130453166.pdf#page=160&selection=148,0,149,1|ACI Textbook1, page 160]]
+[[IMG-20260108101543338.pdf#page=160&selection=148,0,149,1|ACI Textbook1, page 160]]
 

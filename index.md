@@ -15,15 +15,17 @@
 
 | Note                                | Example                                                                            |
 | ----------------------------------- | ---------------------------------------------------------------------------------- |
-| [[2025-03-26_04-59 FX Summary]]     | ACI Summary                                                                        |
+| [[ACI FX Summary]]     | ACI Summary                                                                        |
 | [[BBS SOB]]                         | Diagrams                                                                           |
 | [[Pre-Reading - Different Markets]] | Summary of documents from training                                                 |
 | [[Discount and Yield Instruments]]  | Finance Summary, [[Discount and Yield Instruments\|Example of contextual linking]] |
-| [[Video - Mastering Simulations]]   | video                                                                              |
+| [[Video - Mastering Simulations]]   | Video from Sharepoint                                                              |
 | [[Sales Margin\|Sales Margin]]      | Example of latex                                                                   |
 | [[Stock Market Crashes]]            | PDF management                                                                     |
-| [[Formatting Examples]]             | Obsidian Formatting Examples                                                       |
 | [[Caps, Floors, Collars]]           | YouTube                                                                            |
+| [[Unlookthrough and Lookthrough]]   | Mermaid Diagrams                                                                   |
+| [[Types of Risk]]                   | Image/Visual Enrichment                                                            |
+| [[Formatting Examples]]             | Obsidian Formatting Examples                                                       |
 
 
 

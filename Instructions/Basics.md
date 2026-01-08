@@ -14,14 +14,14 @@
 - redeploy
 	- (if taking too long)
 	- https://github.com/KW-ES/VaultShare/actions/runs/17667322148
-	- ![[Pasted image 20250912091605.png]]
+	- ![[pasted-image-20250912091605.png]]
 
 
 - images
 	- put under `/assets` folder
 	- make sure not under `.gitignore`
 	- don't need to use absolute or relative paths
-		- ![[Pasted image 20250912102301.png]]
+		- ![[pasted-image-20250912102301.png]]
 	- can just reference them as `![[Pasted image 20250912102301.png]]` etc.
 
 
@@ -36,9 +36,13 @@
 	- initialise in same folder as vault
 
 
+![[pasted-image-20250912095317.png]]
 
 
+# Excalidraw
+1. Use `Native SVG`
+2. Make sure Excalidraw drawing is in same folder as note
 
-![[Pasted image 20250912095317.png]]
 
-![[Pasted image 20250912095317.png]]
+![[Pasted image 20260108095703.png]]
+

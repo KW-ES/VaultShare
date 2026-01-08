@@ -3,6 +3,7 @@ related:
   - "[[Finance]]"
 type: "[[Notes]]"
 ---
+#done 
 
 > [!source] ChatGPT
 

@@ -8,7 +8,7 @@ related:
   - "[[Useful]]"
 ---
 
-[[2025-01-25_09-30 textbook quick notes#^6f43df]] Cross currency
+[[ACI Full Textbook Notes#^6f43df]] Cross currency
 - [[ACI Quotations]]
 
 ![[FX BBS SOB.excalidraw]]
@@ -32,15 +32,15 @@ related:
 - go over "United Kingdom Regulated Markets"
 - Exchanges are regulated, OTC is unregulated
 - Monetary policy is the process by which the monetary authority of a country controls the supply of money, often targeting a rate of interest to attain a set of 38 objectives oriented towards the growth and stability of the economy
-	- expansionary or contractionary [[IMG-20260107130451676.pdf#page=38&selection=4,47,4,80|winforextextModDCNV21Pr ACI Textbook2, page 38]]
+	- expansionary or contractionary [[IMG-20260108101543118.pdf#page=38&selection=4,47,4,80|winforextextModDCNV21Pr ACI Textbook2, page 38]]
 - repos are used to supply funds to the banks
 - reverse repos are used to drain surplus cash
 	- think like when you do a repo you give an asset and receive cash and when you reverse repo you take an asset and give cash
-- [[IMG-20260107130451676.pdf#page=38&selection=40,0,40,24|Quantitative Easing]]
-- [[IMG-20260107130451676.pdf#page=39&selection=35,0,35,14|customer repos]]
-- [[IMG-20260107130451676.pdf#page=39&selection=58,0,58,12|Crawling Peg]]
-- [[IMG-20260107130451676.pdf#page=40&selection=89,0,89,22|Floating Exchange Rate]]
-- [[IMG-20260107130451676.pdf#page=41&selection=8,0,8,12|Intervention]]
+- [[IMG-20260108101543118.pdf#page=38&selection=40,0,40,24|Quantitative Easing]]
+- [[IMG-20260108101543118.pdf#page=39&selection=35,0,35,14|customer repos]]
+- [[IMG-20260108101543118.pdf#page=39&selection=58,0,58,12|Crawling Peg]]
+- [[IMG-20260108101543118.pdf#page=40&selection=89,0,89,22|Floating Exchange Rate]]
+- [[IMG-20260108101543118.pdf#page=41&selection=8,0,8,12|Intervention]]
 	- sterilised and non-sterilised
 > [!important] Major Influences is a big section
 > - Interest rates
@@ -66,7 +66,7 @@ related:
 	- peak 
 	- recession
 	- trough
-- [[IMG-20260107130451676.pdf#page=45&selection=13,0,19,39|Money Supply]]
+- [[IMG-20260108101543118.pdf#page=45&selection=13,0,19,39|Money Supply]]
 - GNP is NOT a measure of inflation
 - Technical Analysis AKA Charting
 - The Efficient Market Hypothesis, or EMH, is an investment theory developed in the 1970s which states that prices reflect all available information
@@ -74,28 +74,28 @@ related:
 	- can't beat market and will be arbitraged away
 - In the majority of OTC markets (interbank wholesale markets) it is the custom for the calling counterparty (market user) to ask the market maker for his two way price (to Buy/Sell in foreign exchange markets and the Borrow/lend in interest rate markets – though some interest rate/discount rate based short term securities can also be ‘bought’ and ‘sold’ in these markets). The logic is the same regardless of market concerned. The market maker dictates the two way price and gets the “benefit of the spread”
 
-![[IMG-20260107130454979.png]]
+![[IMG-20260108101543584.png]]
 - calling bank makes a request to the bank
 - bank via broker gives price to commercial client
 - bank is market user to the market and market maker to the market user
 
-![[IMG-20260107130456412.png]]
+![[IMG-20260108101543802.png]]
 market maker SELLS spot and BUYS forward **base** currency
 
-![[IMG-20260107130457825.png]]
+![[IMG-20260108101544034.png]]
 - Front office = Dealing room
 - Middle office = Risk Management and Reporting
 - Back Office = Operations / Processing Department
 - Straight Through Processing:
 	- Ideally, the transaction data should also be carried straight- through for generating SWIFT payment instructions, posting to the general ledger, updating credit information and enabling prompt nostro reconciliation systems alongside all reporting requirements
-- [[IMG-20260107130451676.pdf#page=51&selection=119,0,119,33|Straight Through Processing - Critical Path]]
+- [[IMG-20260108101543118.pdf#page=51&selection=119,0,119,33|Straight Through Processing - Critical Path]]
 
 - Codes:
 	- FX Global Code
 	- UK Money Markets Code
 	- Global Precious Metals Code
 	- EU Financial Markets Regulation
-		- MiFID and Markets in Financial Instruments Regulation (MiFIR)[[IMG-20260107130453166.pdf#page=58&selection=25,0,27,55|ACI Textbook1, page 58]]
+		- MiFID and Markets in Financial Instruments Regulation (MiFIR)[[IMG-20260108101543338.pdf#page=58&selection=25,0,27,55|ACI Textbook1, page 58]]
 		- MiFID II
 		- Market Abuse Regulation MAR
 		- Benchmarks Regulation BMR
@@ -188,19 +188,19 @@ Markets In Financial Instruments Directive (MiFI**D**)
 - is the x quoted in y. so how many y it takes to buy 1 x
 - spot rate composition:
 	- points = "pips"
-	- ![[IMG-20260107130459411.png]]
+	- ![[IMG-20260108101544227.png]]
 - BUYINGxxx/SELLING (USING)yyy
-	- ![[IMG-20260107130500833.png]]
+	- ![[IMG-20260108101544484.png]]
 	- 5 point spread
 	- 1 point = 1/10,000th of a currency unit
 	- JPY = 1/100th
 	- USD/CHF = BUY USD AGAINST CHF
 	- `BUY X AGAINST Y = X/Y`
 	- `SELL Y AGAINST X = X/Y`
-	- ![[IMG-20260107130502223.png]]
+	- ![[IMG-20260108101544673.png]]
 	- EURO usually on Indirect basis (non USD)
-	- ![[IMG-20260107130446381.png]]
-	- **M-User** best choice [[IMG-20260107130453166.pdf#page=76&selection=2,0,2,36|ACI Textbook1, page 76]]
+	- ![[IMG-20260108101544876.png]]
+	- **M-User** best choice [[IMG-20260108101543338.pdf#page=76&selection=2,0,2,36|ACI Textbook1, page 76]]
 		- Direct quote
 			- buying base currency
 				- want lowest offer
@@ -211,30 +211,30 @@ Markets In Financial Instruments Directive (MiFI**D**)
 				- want highest bid
 					- (want to get as many as possible for $1) the USD Bid, is the SGD offer.
 					- they're buying your dollars and converting it into the quoted currency so you want to get as much quoted currency as possible
-					- ![[IMG-20260107130447485.png]]
+					- ![[IMG-20260108101545102.png]]
 			- Selling quoted currency
 				- want lowest offer
 					- converting the quoted currency back into base currency, you want to pay as little as possible to get it back into dollars. like having the denominator being as small as possible.
 					- the offer is them buying it from you
 					- so you want to sell it as at low as a price as possible
 - AROUND THE FIGURE
-	- ![[IMG-20260107130449226.png]]
+	- ![[IMG-20260108101545351.png]]
 - 3 conditions:
 	- The ACI Dealing Certificate requires you to be able to calculate cross-rates from pairs of exchange rates where the common currency is the base currency in both rates **(referred to here as** **Condition 1),** where the common currency is the base currency in neither rate **(Condition 2)** and where the common currency is the base currency in only one rate **(Condition 3)**.
-- ![[IMG-20260107130450790.png]]
+- ![[IMG-20260108101545567.png]]
 - we want buying CHF and selling JPY, so we get the selling JPY side and the buying CHF side and divide them to get the **bid** side for CHF/JPY which is BUY/SELL
-- ![[IMG-20260107130452087.png]]
+- ![[IMG-20260108101545823.png]]
 - when both in numerator / denominator, divide
 - when one in numerator / demonimator, multiply to cancel out
-![[IMG-20260107130453636.png]]
-![[IMG-20260107130455373.png]]
+![[IMG-20260108101546176.png]]
+![[IMG-20260108101546478.png]]
 
 When a bank deals through an Interdealer broker / voice broker, the calling bank can deal with the broker "at the price", (as **a market user**) in other words **hitting the bid (selling)** the Base currency or **taking the offer (buying)** the Base currency in the market.
 
-[[IMG-20260107130453166.pdf#page=90&selection=9,0,16,11|Interbank Dealing Methods through IDB / voice brokers]]
+[[IMG-20260108101543338.pdf#page=90&selection=9,0,16,11|Interbank Dealing Methods through IDB / voice brokers]]
 - Bid = yours
 - Offer = mine
-- ![[IMG-20260107130456855.png]]
+- ![[IMG-20260108101546782.png]]
 	- Offer 2 at 27
 		- decreases the offer price
 		- want to find a buyer
@@ -246,10 +246,10 @@ When a bank deals through an Interdealer broker / voice broker, the calling bank
 	- if you offer 2 at 27, you're decreasing the offer price, meaning it's cheaper to buy so it's more likely to find a buyer.
 - BBS, SOB
 - FX Fixings: Most major equity and bond index compilers use the WM/Reuters benchmark rates in their calculations and the rates are used for other purposes when calculating benchmark rates for the settlement of financial derivatives such as Non-deliverable forwards (NDF). Some banks also provide a service to their clients by providing a guarantee to trade at the WM/Reuters rates
-- [[IMG-20260107130453166.pdf#page=94&selection=138,0,138,43|Calculating square position / value of one point]]
-- ![[IMG-20260107130458382.png]]
+- [[IMG-20260108101543338.pdf#page=94&selection=138,0,138,43|Calculating square position / value of one point]]
+- ![[IMG-20260108101547126.png]]
 	- you use the same quote because it's BUYING USD against CHF AND SELLING USD against CHF. the inverse is the offer for the other. Buy low, sell high. bought the dollars for a lower price, and sold the dollars for a higher price
-	- ![[IMG-20260107130459854.png]]
+	- ![[IMG-20260108101547516.png]]
 	- 1 point on 1 mill base = 100.00 units on variable
 	- 1 point = 0.0001 or 1/10,000th of a USD
 	- 1/100th countries will have 10,000 units on variable/quoted currency
@@ -257,14 +257,14 @@ When a bank deals through an Interdealer broker / voice broker, the calling bank
 	- Long = Overbought
 	- Short = Overlent
 	- "Running a position / Averaging the rate Any average rate of an open exchange position includes all purchases and sales and is a weighted average arrived at through simple arithmetic."
-	- read this : [[IMG-20260107130453166.pdf#page=97&selection=45,0,45,39|ACI Textbook1, page 97]]
+	- read this : [[IMG-20260108101543338.pdf#page=97&selection=45,0,45,39|ACI Textbook1, page 97]]
 		- MARK TO MARKET: "At this point the dealer may continue to manage his position at the new weighted average rate. Alternatively, other dealers prefer to mark their positions to market on a regular basis (revalue it at the current spot rate of 1.37 70) and “bank” the profit."
-		- ![[IMG-20260107130501304.png]]
+		- ![[IMG-20260108101547952.png]]
 		- calculate the value at exchange rate and balance the books and realise the profit
 		- you're currently short 1m EUR at that exchange rate with those dollars
 		- and if you multiplied your euro position with the new exchange rate, you'd have that many dollars, and that would be your net position.
 		- profit only realised once position is SQUARED
-		- ![[IMG-20260107130502794.png]]
+		- ![[IMG-20260108101549053.png]]
 		- ""Whenever an overnight position is carried forward to the next day the dealer will adjust his break-even rate to the revaluation rate used plus/minus a ‘points’ adjustment depending on the cost of rolling forward the position into the new spot value date using a short date FX swap price. This is explained in Chapter 4""
 		- 
 - four main metals = 
@@ -289,8 +289,8 @@ When a bank deals through an Interdealer broker / voice broker, the calling bank
 | set           | Twice Daily                                                                | Once daily          |
 | Symbol        | XAU                                                                        | XAG                 |
 | standard      | 400 fine troy ounces                                                       | 1000 troy ounces    |
-| Good Delivery | [[IMG-20260107130453166.pdf#page=104&selection=9,0,13,1\|ACI Textbook1, page 104]] |                     |
-![[IMG-20260107130504434.png]]
+| Good Delivery | [[IMG-20260108101543338.pdf#page=104&selection=9,0,13,1\|ACI Textbook1, page 104]] |                     |
+![[IMG-20260108101549951.png]]
 note for gold quotes how the decimals work
 - it *ends in a 25* therefore you don't add the 25, it must be the next highest digit that ends in 25
 	- same with 1.2795-00, the next highest digit ending with 00 is 1.2800
@@ -302,18 +302,18 @@ note for gold quotes how the decimals work
 - forward prices in gold and silver quoted in interest rate terms
 - This means that he will lend on the swap, i.e. sell spot and buy forward gold, and pay on the basis of 0.40 per cent per annum over the spot price for the forward leg, or borrow on the swap, buy spot and sell forward gold, and charge on the basis of 0.50 per cent per annum over the spot for the forward
 - The **outright** forward **purchase** price is calculated as the spot **bid** price plus the forward swap **bid** and the forward **sale** price as the spot **offered** price plus the forward swap **offer**.
-- ![[IMG-20260107130505997.png]]
-- ![[IMG-20260107130507525.png]]
+- ![[IMG-20260108101551056.png]]
+- ![[IMG-20260108101556373.png]]
 - outright price = spot price + forward swap price
 	- do separately for bid and offer sides
 - sum of outright forward spread = sum of spot spread and sum of forward spread
-- ![[IMG-20260107130509078.png]]
-- ![[IMG-20260107130510768.png]]
-- **Terms**!!! : [[IMG-20260107130453166.pdf#page=107&selection=22,0,24,15|Glossary]]
-![[IMG-20260107130512370.png]]
+- ![[IMG-20260108101557234.png]]
+- ![[IMG-20260108101559281.png]]
+- **Terms**!!! : [[IMG-20260108101543338.pdf#page=107&selection=22,0,24,15|Glossary]]
+![[IMG-20260108101602766.png]]
 Settlement risk The risk that arises when payments are not exchanged simultaneously, generally arising due to time differences. One party to a transaction must effect payment or delivery in an earlier time zone without having confirmation of the receipt of a reciprocal asset in a later time zone.
 
-![[IMG-20260107130515367.png]]
+![[IMG-20260108101603573.png]]
 
 # Chapter 4 Forward Foreign Exchange
 
@@ -321,7 +321,7 @@ Settlement risk The risk that arises when payments are not exchanged simultaneou
 - short dates up to m of one month
 -  Fixed date (standard period) transactions have a maturity (value date) of one month and beyond. A typical set of standard period forward Foreign exchange rates in any of the major currency pairs would be: 1, 2, 3, 6 and 12 months
 - 3 main contracts:
-	- ![[IMG-20260107130516749.png]]
+	- ![[IMG-20260108101607762.png]]
 - In the interbank forward market, forward rates are quoted as a two-way price in "forward swap points".
 - Forward exchange rates are quoted as swap points - price differentials by which to adjust the all-important benchmark spot exchange rate to achieve the Outright forward rate.
 - Discount vs Premium
@@ -330,25 +330,25 @@ Settlement risk The risk that arises when payments are not exchanged simultaneou
 	- discount = disc
 		- currency is cheaper to buy on the forward rate than it is to buy for spot value
 		- you're comparing with the spot rate to see if it's at a premium or discount
-- ![[IMG-20260107130518345.png]]
+- ![[IMG-20260108101611339.png]]
 - you determine discount or prem by inspection
 - low - high => Premium so add
 	- forward is worth more than spot
 - high - low => Discount so subtract
 	- spot is worth more than forward
-![[IMG-20260107130519896.png]]
-- [[IMG-20260107130453166.pdf#page=124&selection=59,0,59,34|Forward Exchange Price Calculations]]
-	- ![[IMG-20260107130521449.png]]
+![[IMG-20260108101612460.png]]
+- [[IMG-20260108101543338.pdf#page=124&selection=59,0,59,34|Forward Exchange Price Calculations]]
+	- ![[IMG-20260108101614908.png]]
 		- Bid and Offer is on the forward date
-	- ![[IMG-20260107130523095.png]]
+	- ![[IMG-20260108101616853.png]]
 remember japanese yen is 1/100
 - Bid - Offer **movement of currency on the forward date** in forward quotations
-- [[IMG-20260107130453166.pdf#page=126&selection=221,0,221,44|Outright Forward Cross Currency Calculations]]
-	- ![[IMG-20260107130525150.png]]
+- [[IMG-20260108101543338.pdf#page=126&selection=221,0,221,44|Outright Forward Cross Currency Calculations]]
+	- ![[IMG-20260108101621030.png]]
 	Divide 75.33 by 0.8950 = 84.16(76) because it's sell JPY and buy CHF and it's JPY per Swiss francs. that gives you the BUY CHF/SELL JPY  which will be the SELL/BUY therefore the bid.
 	Divide 75.43 by 0.8940 = 84.37(36) because that's Buy JPY and sell CHF, so SELL CHF/ BUY JPY, which is the offer
 	think of X **per** Y. so it's X **divided by** Y. it's JPY/CHF but we want CHF/JPY so it's the BID (OFFER) but we want offer(BID) so we swap it and it becomes bid(OFFER)
-	![[IMG-20260107130527333.png]]
+	![[IMG-20260108101623367.png]]
 	USD at bottom
 	
 	- Condition 1^crosscurrency ^6f43df
@@ -365,8 +365,8 @@ remember japanese yen is 1/100
 		- GBP Divided by AUD 
 		- (Base / quote) *direct*
 		- *wouldn't need to flip if didn't do this calculation and did rob's way*
-	![[IMG-20260107130529475.png]]
-	![[IMG-20260107130531246.png]]
+	![[IMG-20260108101624828.png]]
+	![[IMG-20260108101627284.png]]
 	
 	- steps:
 		- get right forward rate
@@ -381,8 +381,8 @@ remember japanese yen is 1/100
 		- once done then do cross currency applications
 - Forward Cross Currency points
 	- asked to calculate forward points from cross currency
-	- ![[IMG-20260107130533054.png]]
-![[IMG-20260107130534819.png]]
+	- ![[IMG-20260108101628365.png]]
+![[IMG-20260108101631580.png]]
 A swap deal comprises two deals (spot against forward)
 The percentage is reduced still further when the forward deals are considered. A swap deal comprises two deals (spot against forward) and again the initial interbank transaction will give rise the further swap deals being effected. The result of all this activity brings the percentage of customer deals overall to approximately 5 to 7 % of all transactions in the market. **This is the way the foreign exchange market generates its own liquidity.** These sequences of transaction ensure that the next time this or another customer calls a bank the dealer will be able to find a price in the market and quote the customer accordingly.
 iii) The more sophisticated corporate customers also tend to deal on this basis preferring to choose their moment of entry into the spot market [2] and then extending the position forward to the required date using a foreign exchange swap [3].
@@ -390,7 +390,7 @@ iii) The more sophisticated corporate customers also tend to deal on this basis 
 > [!note] page 142, taking less notes now for speed
 
 As noted earlier in this chapter, the forward swap points, the standard method of quotation in the forward foreign exchange market, are equivalent to the interest rate differential between the two currencies involved. 
-![[IMG-20260107130536593.png]]
+![[IMG-20260108101634949.png]]
 y = y1 + (y2-y1)`x`(X-x1)/(x2-x1)
 x2>x1
 y2>y1
@@ -403,36 +403,36 @@ once you get those points, THEN you add them to get the outright price or quote
 n-d-f = non-deliverable forward
 A foreign exchange swap is defined as ‘a simultaneously dealt set of two linked exchange transactions involving the purchase and the sale of an identical amount of one currency against a countercurrency with differing maturities, most frequently spot value against a forward value date’.
 
-[[IMG-20260107130453166.pdf#page=146&selection=22,0,22,21|Forward Exchange Swaps]]
+[[IMG-20260108101543338.pdf#page=146&selection=22,0,22,21|Forward Exchange Swaps]]
 
 - Market makers bid:
-	- ![[IMG-20260107130538403.png]]
+	- ![[IMG-20260108101636370.png]]
 	- adding the (0.0054) that's how you get the 54. because you just quote the fwd points.
 	- look at me/us my favour/yours etc.
 - Fixing spot rates to the counterparties of swap transactions:
-	- ![[IMG-20260107130540226.png]]
+	- ![[IMG-20260108101637267.png]]
 - Can square market positions in 2 ways:
 	- These positions can be squared in two different ways – either using Money market or Foreign exchange swap techniques
 - spot = t+2
 - T/N = t+1
 - O/N = t
-- ![[IMG-20260107130541999.png]]
-- [[IMG-20260107130453166.pdf#page=153&selection=44,28,44,31|ACI Textbook1, page 153]]
+- ![[IMG-20260108101637875.png]]
+- [[IMG-20260108101543338.pdf#page=153&selection=44,28,44,31|ACI Textbook1, page 153]]
 - want to do the transaction tomorrow, so we do it tomorrow then undo it at spot.
 	- easiest is to enter into a swap
-	- ![[IMG-20260107130543956.png]]
-	- ![[IMG-20260107130546174.png]]
+	- ![[IMG-20260108101638554.png]]
+	- ![[IMG-20260108101639535.png]]
 - want to BUY GBP TODAY then you BUY it in SPOT but SELL it in TODAY to get O/N rate
 	- work backwards to get O/N rate.
 	- want to buy GBP today, then you'd buy it in spot but you'd sell it today
 	- then to achieve the cashflows you'd enter into the swaps to get the rates.
-	- ![[IMG-20260107130548414.png]]
+	- ![[IMG-20260108101640299.png]]
 - note hint
-	- ![[IMG-20260107130550490.png]]
-- [[IMG-20260107130453166.pdf#page=158&selection=150,0,150,43|Application of short date (ante spot) swaps]]
-- [[IMG-20260107130453166.pdf#page=160&selection=2,0,2,26|Short Date Rolling Rules]]
+	- ![[IMG-20260108101641460.png]]
+- [[IMG-20260108101543338.pdf#page=158&selection=150,0,150,43|Application of short date (ante spot) swaps]]
+- [[IMG-20260108101543338.pdf#page=160&selection=2,0,2,26|Short Date Rolling Rules]]
 
-![[IMG-20260107130552432.png]]
+![[IMG-20260108101643016.png]]
 
 > [!summary] Ending page 160 - TBC
 
@@ -442,34 +442,34 @@ A foreign exchange swap is defined as ‘a simultaneously dealt set of two linke
 As already mentioned, as with any forward exchange transaction the now withdrawn ACI Model Code **requires that all forward rates should reflect the current spot exchange rate.** It is therefore important that in the case of forward/forward swap transactions both legs are based on the current spot rate, i.e. in this 3s v. 6s example the three months forward rate should be the spot rate at the time of dealing adjusted by the three months swap points and the six months exchange rate should be the spot rate at the time of dealing adjusted by the six months swap points.
 <mark style="background: #FFB8EBA6;">You can determine the spot rate or forward rate or forward swap points from each other (they ask this)</mark>
 
-[[IMG-20260107130453166.pdf#page=161&selection=88,0,88,45|ACI Textbook1, page 161]]
+[[IMG-20260108101543338.pdf#page=161&selection=88,0,88,45|ACI Textbook1, page 161]]
 
-## [[2025-03-26_04-59 FX Summary]]
+## [[ACI FX Summary]]
 # Chapter 5 Rates (Cash and Money Markets Instruments)
 - thing to remember is have discount and yield instruments
 - 
 
-![[IMG-20260107130554109.png]]
-![[IMG-20260107130555999.png]]
+![[IMG-20260108101646507.png]]
+![[IMG-20260108101649320.png]]
 - Rate selection for interest rates and trick questions
-	- ![[IMG-20260107130557973.png]]
+	- ![[IMG-20260108101651167.png]]
 - Bank of England terminology refers to Short dates as transactions with a maturity of up to one month. Fixed date (standard period) transactions have a maturity of one month and beyond.
-- > ISDA Modified Following Business Day convention [[IMG-20260107130453166.pdf#page=199&selection=136,0,136,47|ACI Textbook1, page 199]]
-- > ACI Dealing Certificate calculation questions also sometimes require the candidate to roll forward a fixed deposit on a ‘principal plus interest’ (reinvestment) basis perhaps two or three times [[IMG-20260107130453166.pdf#page=200&selection=87,1,108,5|ACI Textbook1, page 200]]
-- ![[IMG-20260107130600270.png]]
+- > ISDA Modified Following Business Day convention [[IMG-20260108101543338.pdf#page=199&selection=136,0,136,47|ACI Textbook1, page 199]]
+- > ACI Dealing Certificate calculation questions also sometimes require the candidate to roll forward a fixed deposit on a ‘principal plus interest’ (reinvestment) basis perhaps two or three times [[IMG-20260108101543338.pdf#page=200&selection=87,1,108,5|ACI Textbook1, page 200]]
+- ![[IMG-20260108101653286.png]]
 - Actual / 360 day count basis. This basis is frequently referred to as the **Money market basis**
 - govmt bonds may use Act / act
 - For all the above bases the term Actual* (above the line) refers to the actual number of days in any period for which interest is being calculated
-- ![[IMG-20260107130602083.png]]
+- ![[IMG-20260108101654291.png]]
 - For all the above bases the term Actual* (above the line) refers to the actual number of days in any period for which interest is being calculated. i.e. an overnight deal is 1 day whereas a one month transaction may vary from 27 to around 35 actual elapsed days depending on the calendar dates / holidays involved. (See page 198 et seq). This is **sometimes referred to as the tenor**, particularly when Bill of Exchange transactions are being described.
-- ![[IMG-20260107130603842.png]]
-- ![[IMG-20260107130605954.png]]
-- ![[IMG-20260107130608065.png]]
-- ![[IMG-20260107130610672.png]]
-- ![[IMG-20260107130612772.png]]
+- ![[IMG-20260108101657465.png]]
+- ![[IMG-20260108101659614.png]]
+- ![[IMG-20260108101702544.png]]
+- ![[IMG-20260108101703912.png]]
+- ![[IMG-20260108101706101.png]]
 - The discount rate is also referred to as the required rate of return (RoR)
-- ![[IMG-20260107130615820.png]]
-- ![[IMG-20260107130618520.png]]
+- ![[IMG-20260108101708666.png]]
+- ![[IMG-20260108101709397.png]]
 - rates
 	- UK = SONIA
 		- On each London business day, SONIA is measured as the trimmed mean, rounded to four decimal places, of interest rates paid on eligible Sterling denominated deposit transactions. 
@@ -492,7 +492,7 @@ As already mentioned, as with any forward exchange transaction the now withdrawn
 	- EFFR is calculated as a volume-weighted median of overnight federal funds transactions reported in the FR 2420 Report of Selected Money Market Rates
 - The alternative rate in the **US** is the **Secured Overnight Financing Rate (SOFR)** that is now **replacing LIBOR**.
 	- SOFR is based on transactions in the US Treasury repo market cleared through the Delivery-versus-Payment (DVP) services offered by the Fixed Income Clearing Corporation (FICC) and is based on data from observable transactions rather than on estimated borrowing rates
-- Alternative SOFR: [[IMG-20260107130453166.pdf#page=215&selection=0,3,9,56|ACI Textbook1, page 215]]
+- Alternative SOFR: [[IMG-20260108101543338.pdf#page=215&selection=0,3,9,56|ACI Textbook1, page 215]]
 	- US-based Alternative Reference Rates Committee = (ARRC)
 	- Term SOFR is an attractive replacement for USD LIBOR because, like LIBOR, Term SOFR allows borrowers and lenders to know the benchmark interest rate on a loan at the beginning (as opposed to near the end) of each interest period by simply looking at the relevant Bloomberg/Reuters page
 - **SARON is the Swiss Average Rate OverNight**. It is an overnight interest rates average referencing the Swiss Franc interbank repo market. replaced TOIS
@@ -510,38 +510,38 @@ As already mentioned, as with any forward exchange transaction the now withdrawn
 	- reset dates are when floating rate is observed (they release the rate to the public)
 - <mark style="background: #FF5582A6;">NEGATIVE INTEREST RATES</mark>
 	- Over recent years many markets have experienced negative interest rates – where the borrowing institution repays less than the amount invested at maturity.
-	- ![[IMG-20260107130620965.png]]
+	- ![[IMG-20260108101710270.png]]
 - YIELD CURVES:
 	- The shape of a yield curve is one of many pointers as to current market sentiment in respect of the anticipated level of future interest rates. Some textbooks will suggest that longer period rates are usually higher than short rates to allow for the time and inflation risks in longer term investment. *But the shape of the money market yield curve up to 12 months at any time more significantly identifies the current market sentiment that over time interest rates are going to rise or fall*
 	- 4 shapes:
 	- Positive
-		- ![[IMG-20260107130623217.png]]
+		- ![[IMG-20260108101710839.png]]
 		- demand for money in future is higher
 		- expect IR to go up
 		- so borrow a lot now (while rates are lower)
 	- Negative
-		- ![[IMG-20260107130625445.png]]
+		- ![[IMG-20260108101711432.png]]
 		- interest rates are going to fall
 		- if rates are decreasing, don't want to enter(borrow) into longer term maturities when at a later point you could get a cheaper interest rate. so you'd rather get short term maturities. more demand for short term money
 		- so lending now more than borrowing
 		- and lend at higher rates
 	- Flat
-		- ![[IMG-20260107130627856.png]]
+		- ![[IMG-20260108101712008.png]]
 		- unknown or happy or interim
 	- Humped
-		- ![[IMG-20260107130629892.png]]
+		- ![[IMG-20260108101712683.png]]
 		- short term rise but long term fall
 		- unusual state
 		- or rates quoted higher than usual and may stabilise
-- > Extraordinary days - Thursday/Friday US Dollar and Swiss Ultimo [[IMG-20260107130453166.pdf#page=220&selection=17,0,21,25|ACI Textbook1, page 220]]
+- > Extraordinary days - Thursday/Friday US Dollar and Swiss Ultimo [[IMG-20260108101543338.pdf#page=220&selection=17,0,21,25|ACI Textbook1, page 220]]
 - academic theories
-	- ![[IMG-20260107130632093.png]]
+	- ![[IMG-20260108101713305.png]]
 	- Pure expectations theory
 	- Liquidity Preference theory
 	- Market Segmentation theory / preferred habitat theory
 - Broken Dated Interpolation
-	- ![[IMG-20260107130634151.png]]
-	- ![[IMG-20260107130636060.png]]
+	- ![[IMG-20260108101713840.png]]
+	- ![[IMG-20260108101714572.png]]
 	- Y = y1 + (y2-y1)`X`(X-x1)/(x2-x1)
 	- = 4.75 + (5.125 - 4.75)`x`(120-90)/(180-90)
 	- = <mark style="background: #BBFABBA6;">4.875</mark>
@@ -550,7 +550,7 @@ As already mentioned, as with any forward exchange transaction the now withdrawn
 - money market based in arrears
 	- interest accrual
 - **Treasury Bills of varying tenor (maturity)** (Tenor = Maturity)
-- ![[IMG-20260107130638234.png]]
+- ![[IMG-20260108101715198.png]]
 - UK Treasury Bills = <mark style="background: #D2B3FFA6;">QUOTED IN YIELD DISCOUNT INSTRUMENTS</mark>
 	- zero-risk weighted instruments for the purposes of determining capital adequacy
 	- issued in GBP with a minimum denomination of GBP 25,000
@@ -560,16 +560,16 @@ As already mentioned, as with any forward exchange transaction the now withdrawn
 		- 6 months (approximately 182 days
 		- and can also occasionally be issued for 12 months (up to 364 days)
 	- Debt Management Office (DMO)
-	- ![[IMG-20260107130640349.png]]
+	- ![[IMG-20260108101715717.png]]
 	- UK T-Bills are redeemed at face value
-	- > UK Treasury Bills in the Secondary market and Settlement [[IMG-20260107130453166.pdf#page=224&selection=82,0,84,14|ACI Textbook1, page 224]]
+	- > UK Treasury Bills in the Secondary market and Settlement [[IMG-20260108101543338.pdf#page=224&selection=82,0,84,14|ACI Textbook1, page 224]]
 	- highly liquid in secondary market
 		- CrestCo -> now Euroclear
 		- EDS - eligible debt securities
 	- The price paid/received is then the face value less the discount amount as calculated using the price/yield formula
-	- ![[IMG-20260107130642494.png]]
+	- ![[IMG-20260108101716298.png]]
 	- As already noted, UK T-Bills are quoted and priced as a **“Discount paying instrument quoted as a true yield**” (an interest rate)
-	- ![[IMG-20260107130644713.png]]
+	- ![[IMG-20260108101716803.png]]
 		- day count for UK is 365
 		- Face value at top
 		- price = secondary market proceeds
@@ -584,20 +584,20 @@ As already mentioned, as with any forward exchange transaction the now withdrawn
 	- As market participants buy and sell T-Bills in the Secondary market , terminology used relates to the movement of the securities which in the US market is quoted Offer - Bid (for the T-Bills) in line with other market quotations the two-way discount rate quote will be made Low - High, i.e. 3.75 - 4.00 percent
 		- QUOTED LOW-HIGH
 		- OFFER-BID
-	- ![[IMG-20260107130647222.png]]
-- Bankers Acceptance = Commercial Bills of Exchange > Bankers acceptances (BAs) [[IMG-20260107130453166.pdf#page=229&selection=71,0,71,25|ACI Textbook1, page 229]]
+	- ![[IMG-20260108101717252.png]]
+- Bankers Acceptance = Commercial Bills of Exchange > Bankers acceptances (BAs) [[IMG-20260108101543338.pdf#page=229&selection=71,0,71,25|ACI Textbook1, page 229]]
 - To obtain finance against a Bill of Exchange, the instrument (the Bill of Exchange) has to be discounted
-- ![[IMG-20260107130649385.png]]
+- ![[IMG-20260108101717701.png]]
 - NOTE HINT: **THESE FORMULAS CAN ALSO BE USED FOR TREASURY BILLS AS WELL AS BILLS OF EXCHANGE**
-	- ![[IMG-20260107130651565.png]]
+	- ![[IMG-20260108101718251.png]]
 - . To be able to be compared to a simple interest rate (yield) a discount rate must be converted onto the same basis as the yield rate. This is done using the discount to yield formula. **A discount rate will always appear numerically to be lower than its equivalent yield rate.** This is because the return (the interest or discount amount earned) is the result of applying the discount rate to the face or maturity value – a larger amount than the price paid for the instrument. To achieve the same return on the amount invested (the price) a numerically higher rate of return must be achieved.
-- ![[IMG-20260107130653803.png]]
+- ![[IMG-20260108101718748.png]]
 - Holding period return
-	- ![[IMG-20260107130656070.png]]
+	- ![[IMG-20260108101719142.png]]
 	- calculate return for each of the purchases and subtract shorter term by longer term. time you have remaining / when you sell
-	- ![[IMG-20260107130658512.png]]
-	- ![[IMG-20260107130700627.png]]
-	- ![[IMG-20260107130702561.png]]
+	- ![[IMG-20260108101719755.png]]
+	- ![[IMG-20260108101720366.png]]
+	- ![[IMG-20260108101720957.png]]
 - UK CD's
 	- = negotiable
 	- Certificates of Deposit
@@ -610,30 +610,30 @@ As already mentioned, as with any forward exchange transaction the now withdrawn
 	- short term market
 - Discount CD's
 	- Discount CDs are occasionally encountered. These are based on the Discount- paying instruments quoted as a rate of discount formula for pricing (similar to US T-Bills). The Bank of England Market guidelines publication allows for these instruments and states that ‘Discounted CDs are bought and sold on a discount per annum basis or on a yield to maturity basis’. **Discount CDs do NOT feature in the ACI Dealing Certificate syllabus.**
-- > ==CD Issuance [[IMG-20260107130453166.pdf#page=236&selection=69,0,69,11|ACI Textbook1, page 236]]
+- > ==CD Issuance [[IMG-20260108101543338.pdf#page=236&selection=69,0,69,11|ACI Textbook1, page 236]]
 - London CD's negotiable and buying liquidity
 	- secondary market
-- ![[IMG-20260107130704279.png]]
-- ![[IMG-20260107130706192.png]]
+- ![[IMG-20260108101721576.png]]
+- ![[IMG-20260108101722510.png]]
 - A typical Certificate of Deposit (CD) bears a coupon rate (simple interest)
 	- payable at maturity
-- ![[IMG-20260107130708187.png]]
-	- ![[IMG-20260107130710035.png]]
-	- ![[IMG-20260107130711885.png]]
+- ![[IMG-20260108101723544.png]]
+	- ![[IMG-20260108101724206.png]]
+	- ![[IMG-20260108101724757.png]]
 	- 184 days is the term (to maturity)
 	- we use 365 because it's GBP therefore UK
 	- coupon is the rate
 	- we then use the proceeds at maturity
 	- then we choose 6 7/8 because it's BID-OFFER in London markets and we're selling so we want the offer. which is 6.875 therefore 0.06875
 	- and it's 92 days left out of the 365 for actual
-	- ![[IMG-20260107130713852.png]] NOT PROVIDED BY ACI
+	- ![[IMG-20260108101725414.png]] NOT PROVIDED BY ACI
 		- it's like percentage 
 			- normal percentage calculation * 100
 			- then divided by annual/day count
 			- like HOLDING PERIOD TO RETURN but change to maturity proceeds and it's multiplied by 100
 - **Holding period return on secondary CD purchased and sold prior to maturity**
-	- ![[IMG-20260107130715975.png]]
-	- ![[IMG-20260107130718392.png]]
+	- ![[IMG-20260108101726023.png]]
+	- ![[IMG-20260108101726565.png]]
 	- first calculate the (**proceeds at maturity**) or price (FV) for 90 days
 	- then discount that back by the other rate for the remaining 30 days to get secondary market proceeds
 	- then subtract the **secondary mkt proceeds on sale** (10,101,596) less what you paid for it 10,000,000 
@@ -647,7 +647,7 @@ As already mentioned, as with any forward exchange transaction the now withdrawn
 		- discount to yield
 			- The yield rate is applied to the price paid to achieve the discount amount
 	- **Discount-paying instruments quoted as a true yield (price or secondary market proceeds)**
-		- ![[IMG-20260107130720989.png]]
+		- ![[IMG-20260108101727052.png]]
 		- face value = 5,000,000
 		- days = 30
 		- GBP therefore 365
@@ -659,27 +659,27 @@ As already mentioned, as with any forward exchange transaction the now withdrawn
 	- Credit ratings apply
 		- in US
 		- In short term
-			- ![[IMG-20260107130723683.png]]
+			- ![[IMG-20260108101727607.png]]
 	- US Commercial Paper
 		- Discount-paying instrument quoted as a rate of discount. i.e. the discount rate is applied to the face value. **The same formula as used for Treasury Bills and Bankers Acceptances is used in US Domestic CP pricing**
-		- ![[IMG-20260107130726247.png]]
+		- ![[IMG-20260108101728107.png]]
 		- US CP market > T-bills market
 		- Secondary market small
 		- In the US CP can be issued for periods ranging from 1 day to 270 days with the most active issues being in issues of under 30 days. The 270 day maximum maturity is to avoid the necessity of registering the issue with the SEC (any instrument with a maturity in excess of 270 days is deemed to be a bond and must be so registered). For this reason a lot of US based corporate issuers use a technique of ‘rolling’ (renewing) a series of 270 day issues.
-		- ![[IMG-20260107130728398.png]]
+		- ![[IMG-20260108101728689.png]]
 	- <mark style="background: #FF5582A6;">NB!!!</mark> QUOTED AS DISCOUNT VS QUOTED AS YIELD
-		- ![[IMG-20260107130730161.png]]
+		- ![[IMG-20260108101729203.png]]
 	- Note: Remember, when a financial instrument is **quoted/priced as a “Discount- paying instrument quoted as a rate of discount**” the result (price or secondary market proceeds) can always be **arrived at / checked by first converting the discount rate to a yield** (page 73.) and then using the “**Discount- paying instrument quoted as a yield” formula**
 - Pricing along the yield curve (into the future) (Forward/Forward)
 	- You must therefore be able to calculate an interest rate for such a period priced ‘along the yield curve’ and described as “forward/forward”
 	- this is the alternative to pricing from spot
-	- ![[IMG-20260107130731994.png]]
+	- ![[IMG-20260108101729845.png]]
 	- 3v6 forward forward means from 3 month to 6month period out of the period
 	- Forward/forward interest rates can also be referred to as **“implied” forward rates or break-even rate**s (when describing mismatched interest rate risk positions).
-	- ![[IMG-20260107130733883.png]]
-	- ![[IMG-20260107130735946.png]]
-	- ![[IMG-20260107130737967.png]]
-	- ![[IMG-20260107130740741.png]]
+	- ![[IMG-20260108101730485.png]]
+	- ![[IMG-20260108101731189.png]]
+	- ![[IMG-20260108101731921.png]]
+	- ![[IMG-20260108101732609.png]]
 	- take longs over shorts and get forward rate
 	- annual basis is 360
 	- broken dated interest rates not featured in ACI
@@ -696,7 +696,7 @@ As already mentioned, as with any forward exchange transaction the now withdrawn
 		- used by individuals and corporations
 		- purchase asset and distribute profit
 			- Require the issuer to use the funds that were raised to buy a specific asset and then distribute the profit generated by that underlying asset on a periodic basis (like a coupon payment) to the sukuk holders.
-		- ![[IMG-20260107130742898.png]]
+		- ![[IMG-20260108101733257.png]]
 	- Mudharabah **profit sharing**
 		- Aka (**Qirad**) / Mudaraba
 		- Most frequently traded/encountered one based on profit sharing
@@ -712,7 +712,7 @@ As already mentioned, as with any forward exchange transaction the now withdrawn
 				- Acts as agent or entrepreneur undertaking the business
 		- Short term and optional (Max 1 year)
 			- Gives both parties the right to revoke the agreement unless put in a condition that you can't
-		- Based on These principles![[IMG-20260107130745195.png]]
+		- Based on These principles![[IMG-20260108101733934.png]]
 		- The Mudarib (Agent) can only lose time and effort
 		- Financier (Rab al maal) takes on the potential financial loss
 			- But they can't intervene in the running of the underlying business or transaction.
@@ -773,7 +773,7 @@ According to the market in which the bonds are issued:
 Government = Sovereign
 - Face value = Par value
 - bearer securities
-How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|ACI Textbook1, page 255]]
+How bonds are issued: [[IMG-20260108101543338.pdf#page=255&selection=80,1,80,9|ACI Textbook1, page 255]]
 - **Grey market**
 	- Before a bond issue is made, it is traded in the ‘grey market’. This is a market where traders sell the issue short hoping to buy them in the cash market after issue at a lower price. Lead managers can see from the grey market what the professional traders in the secondary market think the issue is worth and can therefore pitch the price accordingly. The final price of an issue is often delayed until this information comes through from the grey market.
 - ICMA = International Capital Markets Association merged ISMA
@@ -797,7 +797,7 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 - T-Notes + T-Bonds = "Treasuries"
 - Euro zone gov bonds
 	- Governments of those EU countries currently participating in the Euro all issue bonds denominated in EUR paying simple interest (a coupon) annually on an Actual / Actual annual basis
-- ![[IMG-20260107130747570.png]]
+- ![[IMG-20260108101734520.png]]
 - Corporate bonds
 	- Domestic
 	- or Eurobonds i.e. issued in currency which is a doreign currency in chosen financial market centre
@@ -807,10 +807,10 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 	- Moody's
 	- Fitch
 	- Duff&Phelps
-	- ![[IMG-20260107130749907.png]]
+	- ![[IMG-20260108101735109.png]]
 - BBB- and Baa3 are BANK QUALITY
 - lower is Junk (High yield and speculative)
-- ![[IMG-20260107130752067.png]]
+- ![[IMG-20260108101735664.png]]
 - EURObonds = Bearer
 	- no ownership -> anonymity
 	- physically held
@@ -840,7 +840,7 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 - Hybrid Bonds
 	- callable bonds (issuer can exercise)
 	- putable bonds (investor can exercise)
-	- ![[IMG-20260107130755230.png]]
+	- ![[IMG-20260108101736399.png]]
 - Floating rate notes = FRNs
 	- usually coupons are fixed interest
 	- FRN not fixed
@@ -878,7 +878,7 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 		- can be zero coupon
 		- conversion can be mandatory
 		- coupon < normal
-		- conversion rate set to be equivalent >  ‘equivalent’ [[IMG-20260107130453166.pdf#page=263&selection=91,0,93,0|ACI Textbook1, page 263]]
+		- conversion rate set to be equivalent >  ‘equivalent’ [[IMG-20260108101543338.pdf#page=263&selection=91,0,93,0|ACI Textbook1, page 263]]
 		- The Conversion ratio is the bond denomination divided by the conversion price
 - Repos and Reverse repos:
 	- Stands for sale and repurchase agreements
@@ -902,11 +902,11 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 			- selling and buying securities
 		- reverse repo
 			- buying and selling securities
-		- ![[IMG-20260107130757228.png]]
+		- ![[IMG-20260108101737025.png]]
 		- A sells securities for cash (Repo) (sells)
 		- B Pays cash for securities (Reverse Repo) (buys)
 		- cash is appreciated at repo rate or forward price
-		- ![[IMG-20260107130759167.png]]
+		- ![[IMG-20260108101737764.png]]
 		- NOTE BID vs OFFER quote order
 		- London: Reverse repo - repo
 		- International: Repo - Reverse Repo
@@ -926,7 +926,7 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 			- i.e. convert to cash
 		- where as in a secured deposit, the disposal of collateral must wait upon the implementation of bankruptcy proceedings
 	- REPO DATES: [[Modified Following]]
-	- > For fixed periods shorter than 1 month [[IMG-20260107130453166.pdf#page=266&selection=134,0,134,38|ACI Textbook1, page 266]]
+	- > For fixed periods shorter than 1 month [[IMG-20260108101543338.pdf#page=266&selection=134,0,134,38|ACI Textbook1, page 266]]
 	- **Global Master Repurchase Agreement (GMRA)**
 		- bilateral
 		- **TBMA / ICMA**
@@ -952,12 +952,12 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 		- which takes clean price and adds accrued interest
 		- The dirty price is the price at which the securities can be sold in the secondary market (cash bonds). If repo collateral is not valued at its dirty price, the buyer of the collateral would pay less for the securities through the repo than he could make by selling them into the secondary market. Not only would the seller have lost the use of this amount, but it would also represent an interest free loan and an unsecured credit exposure to the buyer
 	- UK GOV bonds -> ACT/ACT
-		- ![[IMG-20260107130801023.png]]
+		- ![[IMG-20260108101738374.png]]
 	- Repo cash driven trade
 		- dirty price is important and is used as initial consideration
 		- repo rate of int is used for this consideration by cash borrower
 		- flat basis = no margin
-		- ![[IMG-20260107130802959.png]]
+		- ![[IMG-20260108101738990.png]]
 		- choose bid because it's london so it's bid-offer
 		- and bid because we're buying as marker user
 		- 0.035 from 7%/2
@@ -967,10 +967,10 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 		- accrued interest is the 10 days, june to december -> 6 months therefore 180 days + 3 days and it's act/act
 		- so we accrued that interest.
 		- dirty price = clean price plus that
-		- ![[IMG-20260107130804717.png]]
+		- ![[IMG-20260108101739755.png]]
 	- intitial consideration and maturity consideration:
-		- ![[IMG-20260107130806736.png]]
-		- ![[IMG-20260107130808625.png]]
+		- ![[IMG-20260108101740383.png]]
+		- ![[IMG-20260108101741149.png]]
 		- repurchase consideration = initial consideration + repo interest payable for 30 days at repo rate and use the day count for the country
 		- initial consideration = dirty price
 		- maturity consideration = initial consideration + repo interest accrued
@@ -989,7 +989,7 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 						- so initial consideration in a margined repo the dirty price is either:
 							- divided by haircut for **reverse repo**
 							- multiplied by haircut for **repoer**
-			- **Repo with margin** / **Margin Calculations** [[IMG-20260107130453166.pdf#page=271&selection=2,0,8,5|ACI Textbook1, page 271]]
+			- **Repo with margin** / **Margin Calculations** [[IMG-20260108101543338.pdf#page=271&selection=2,0,8,5|ACI Textbook1, page 271]]
 				- <mark style="background: #FFB86CA6;">Mega Bank</mark> - <mark style="background: #FFB8EBA6;">Major Bank</mark>
 				- Repo with margin (margin in favour of <mark style="background: #FFB86CA6;">REVERSE REPOER</mark>)
 					- margin charged by reverse repoer
@@ -1023,10 +1023,10 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 					- repurchase consideration = initial consideration + repo int payable (here 30 days)
 					- calc repo int payable with simple interest and repo rate and 30/365 bc UK
 					- add to initial consideration
-				- ![[IMG-20260107130810544.png]]
+				- ![[IMG-20260108101741670.png]]
 			- Variation margin
 				- eliminates credit exposure for movements of value from underlying collateral in MtM
-				- Variation margin examples [[IMG-20260107130453166.pdf#page=272&selection=162,14,162,20|ACI Textbook1, page 272]]
+				- Variation margin examples [[IMG-20260108101543338.pdf#page=272&selection=162,14,162,20|ACI Textbook1, page 272]]
 				- Margin threshold
 					- defined by GMRA (global master repurchase agreement)
 						- MtM when move my percentage agreed and trigger margin call
@@ -1065,8 +1065,8 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 		- Typically SBbs the return on a repo is not paid as int, its incorporated in repo price at on the forward date.
 			- like secs prices, the SBs price = clean price (excluded accrued int at termination (the forward date))
 		- any dividend or coupon is paid during term of SBb, returned to seller at maturity + reinvestment return (usually calced at OG repo rate
-- **Tri-party repos** [[IMG-20260107130453166.pdf#page=276&selection=69,0,71,11|ACI Textbook1, page 276]]
-- **Repo Terminology** [[IMG-20260107130453166.pdf#page=277&selection=2,0,2,16|ACI Textbook1, page 277]]
+- **Tri-party repos** [[IMG-20260108101543338.pdf#page=276&selection=69,0,71,11|ACI Textbook1, page 276]]
+- **Repo Terminology** [[IMG-20260108101543338.pdf#page=277&selection=2,0,2,16|ACI Textbook1, page 277]]
 	- Cash driven trade
 	- cash and carry arbitrage
 	- cheapest to deliver
@@ -1089,12 +1089,12 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 	- Substitution
 	- Tri-party repo
 	- US style Repo
-- **Securities Financing Transactions SFTs** [[IMG-20260107130453166.pdf#page=279&selection=18,0,18,39|ACI Textbook1, page 279]] (skipping notes)
-- **SFTs in the UK** [[IMG-20260107130453166.pdf#page=279&selection=90,0,90,14|ACI Textbook1, page 279]]
-- **Securities lending transactions** [[IMG-20260107130453166.pdf#page=280&selection=18,0,18,30|ACI Textbook1, page 280]]
-- **SFT Market Participants** [[IMG-20260107130453166.pdf#page=280&selection=130,0,130,23|ACI Textbook1, page 280]]
+- **Securities Financing Transactions SFTs** [[IMG-20260108101543338.pdf#page=279&selection=18,0,18,39|ACI Textbook1, page 279]] (skipping notes)
+- **SFTs in the UK** [[IMG-20260108101543338.pdf#page=279&selection=90,0,90,14|ACI Textbook1, page 279]]
+- **Securities lending transactions** [[IMG-20260108101543338.pdf#page=280&selection=18,0,18,30|ACI Textbook1, page 280]]
+- **SFT Market Participants** [[IMG-20260108101543338.pdf#page=280&selection=130,0,130,23|ACI Textbook1, page 280]]
 	- CSDs and ICSDs (Central Securities Depositories & International CSDs
-- **Open Market Operations** [[IMG-20260107130453166.pdf#page=281&selection=2,0,2,28|ACI Textbook1, page 281]]
+- **Open Market Operations** [[IMG-20260108101543338.pdf#page=281&selection=2,0,2,28|ACI Textbook1, page 281]]
 	- OMO
 	- OPEN MARKET OPERATIONS
 	- OMO = OPEN MARKET OPERATIONS
@@ -1126,7 +1126,7 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 
 > [!note] made notes in workbook
 
-![[IMG-20260107130812430.png]]
+![[IMG-20260108101742293.png]]
 - Instruments
 	- Forward Rate Agreements (FRAs)
 	- Financial futures (STIR contracts)
@@ -1165,16 +1165,16 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 		- first date = settlement
 		- second date = maturity
 		- 3v6 most liquid
-		- ![[IMG-20260107130814094.png]]
+		- ![[IMG-20260108101742972.png]]
 		- can be any period bc OTC
 	- same as MM, quoted as IR's
-		- ![[IMG-20260107130815547.png]]
+		- ![[IMG-20260108101743508.png]]
 	- As with a spot exchange operation there is no immediate profit (unless the dealer is simultaneously dealt with on his offer and bid by two counterparties) and profit is made by constant market making
 	- FRA Settlement
 		- settlement date <=><mark style="background: #FFF3A3A6;"> fixing date</mark>
 		- differences between parties is settled on settlement date
 		- cash settlement is discounted at agreed settlement rate
-		- ![[IMG-20260107130817364.png]]
+		- ![[IMG-20260108101744178.png]]
 	- Where the Settlement rate on fixing date is a **higher rate** than the FRA contractual rate,
 		- the buyer of the FRA (originally wishing to *protect against a rise* in interest rates) receives a discounted settlement payment from the Seller equal to the difference between the contractual rate of the FRA and the higher Settlement rate.
 		- **(buyer gets from seller)**
@@ -1182,23 +1182,23 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 		- the seller of the FRA (originally wishing to *protect against a fall* in interest rates) receives a discounted settlement payment from the Buyer equal to the difference
 		- **(seller gets from buyer)**
 	- An FRA is a Contract for Difference (CFD) in Bank of England terminology.
-	- [[IMG-20260107130453166.pdf#page=294&selection=141,0,141,11|ACI Textbook1, page 294]] FRA EXAMPLE
+	- [[IMG-20260108101543338.pdf#page=294&selection=141,0,141,11|ACI Textbook1, page 294]] FRA EXAMPLE
 		- "mismatch risk"
 	- use FRABBA terms to see if settlement rate is higher than FRA contractual rate
 	- get reimbursed the **discounted** difference
 	- settlement rate is also used as the discount rate
-	- ![[IMG-20260107130819012.png]]
+	- ![[IMG-20260108101744838.png]]
 	- FRA rate (contractual rate / fixed rate) subtracted by Settlement rate (reference rate / Libor / floating rate)
-		- ![[IMG-20260107130820593.png]]
-	- ![[IMG-20260107130822327.png]]
+		- ![[IMG-20260108101746146.png]]
+	- ![[IMG-20260108101750417.png]]
 	- The FRA allows you to hedge against interest rates to a settlement date (fixing date) so effectively you can buy certainty and fix and interest rate to be paid for a forward/forward period.<mark style="background: #FFF3A3A6;"> therefore it is an interest rate equivalent to an outright forward exchange contract</mark>
 		- you can fix the interest rate to be higher or lower than the benchmark rate then fix it to be paid for the forward/forward period
 	- **Pricing FRA's**
 		- **Pricing FRA from forward/forward**
 			- use it to get BID and OFFER FRA rates
 			- can use forward/forward formula from CH5
-			- ![[IMG-20260107130824700.png]]
-			- ![[IMG-20260107130827754.png]]
+			- ![[IMG-20260108101751348.png]]
+			- ![[IMG-20260108101752296.png]]
 			- forward rate is the difference rate between the long period and the short period
 				- BID:
 					- Long date bid / short date Offer
@@ -1212,20 +1212,20 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 				- you get the 2 futures prices from first date you want, e.g. 3m and then second date e.g. 6m
 				- you can compound them because they don't generate cashflows
 			- futures -> Act/360
-			- ![[IMG-20260107130830277.png]]
-			- ![[IMG-20260107130832099.png]]
+			- ![[IMG-20260108101753361.png]]
+			- ![[IMG-20260108101753923.png]]
 				- you divide by 4 because it's 90/360 
 				- to get the fwd/fwd rate to work with you need to do as mentioned above (100 - futures = fwd/fwd)
 				- if doing 3 futures:
-					- ![[IMG-20260107130833733.png]]
+					- ![[IMG-20260108101754623.png]]
 					- you'd multiply by 4/3 because this represents 9 months (3 futures) and that's 9/12 = 3/4. but to get it annualised (for FRA rate), multiply by the reciprocal which is 4/3
 		- **Cash IR from consecutive cash and fwd/fwd (FRA) IR's**
 			- using a spot rate (3m)
 			- and a forward rate (3/6m)
 			- want cash rate
-			- ![[IMG-20260107130835301.png]]
+			- ![[IMG-20260108101755179.png]]
 			- basically like opposite of calculating forward rate
-			- ![[IMG-20260107130836966.png]]
+			- ![[IMG-20260108101755878.png]]
 			- once you have the rate, double check this by using fwd/fwd formula like we said which does the opposite / used in the other way (it becomes the long rate in the fwd/fwd formula)
 	- Unwind an FRA by selling/buying the same times
 		- cancels out
@@ -1299,37 +1299,37 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 		- <mark style="background: #FFF3A3A6;">Inverse relationship to IR</mark>
 			- When IR's are falling, futures price rise
 			- When IR's are rising, futures price fall
-			- ![[IMG-20260107130838667.png]]
+			- ![[IMG-20260108101756494.png]]
 		- With implied 3 months forward/forward interest rates (3 v. 6) at 5.00 p.c. the equivalent Futures price would be traded at around 95.00 (100 - 5.00). If forward/forward implied interest rates then fall to 4.00 p.c. the Futures price will rise to approximately 96.00.
 		- Price of money in MMs is IR payable
 		- The money markets deal in cash i.e. funds are delivered either value today (Sterling markets) or on spot date (Eurocurrency markets) for all deposits/loans effected today.
 		- Futures prices can show the markets expectations for similar cash deposits for 3m periods in the future from those quarter month delivery dates.
 		- can be used to determine yield curves for IRs
 	- Quotation
-		- ![[IMG-20260107130840373.png]]
+		- ![[IMG-20260108101757106.png]]
 	- Contract Specifications:
 		- CH = Clearing House
 		- **ICE London Contracts** (CH = ICE Clear Europe Limited ICEU)
 			- 3m Sonia
-				-  ![[IMG-20260107130841798.png]]
+				-  ![[IMG-20260108101757875.png]]
 			- 1m Euro O/N index future
-				-  ![[IMG-20260107130843392.png]]
+				-  ![[IMG-20260108101758521.png]]
 			- 3m EURIBOR
-				- ![[IMG-20260107130844959.png]] n
+				- ![[IMG-20260108101759340.png]] n
 		- **CME Chicago Contracts** (CH = CME Clearing)
 			- 3m SOFR
 				- (Secured Overnight Financing Rate)
-				- ![[IMG-20260107130846538.png]] v
+				- ![[IMG-20260108101821166.png]] v
 			- 3m Eurodollar
-				- ![[IMG-20260107130848245.png]]
+				- ![[IMG-20260108101824265.png]]
 				- w
 		- **Eurex** (CH = Eurex Clearing)
 			- 3m SARON
-				- ![[IMG-20260107130849997.png]]
+				- ![[IMG-20260108101825005.png]]
 				- (Swiss Average Rate Overnight)
 		- **TFE Contracts** (CH= TFX Clearing)
 			- 3m JBA Euroyen TIBOR
-				- ![[IMG-20260107130851560.png]] w
+				- ![[IMG-20260108101825757.png]] w
 	- Role of London Clearing House (ICE Clear (ICEU))
 		- ICE Clear was formerly known as *LCH.Clearnet* and *ICCH (the International Commodities Clearing House)*. Screen based trading systems such as ICE CONNECT are automatically linked into Clearing systems.
 		- Once the system has matched all trades the Clearing House assumes the role of second party to all trades, **becoming buyer to each seller and seller to each buyer.**
@@ -1351,10 +1351,10 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 			- e.g. SONIA tick value = 0.01 which translates to (GBP 12.50)
 			- could also be 0.005 = USD 12.5
 		- easier to deal in the 0.01 movement so easer for margin calculations regardless of tick size
-		- ![[IMG-20260107130853423.png|500]]
+		- ![[IMG-20260108101826378.png|500]]
 		- rather use 1 points so if tick size is 0.005 = 12.5 then 1 point would be 0.01 = 25
 		- variation margin example:
-			- ![[IMG-20260107130855112.png]]
+			- ![[IMG-20260108101826891.png]]
 	- STIR Delivery
 		- doesn't happen
 		- if still outstanding then the exchange settles things in cash at 11.am on final trading date at EDSP
@@ -1369,9 +1369,9 @@ How bonds are issued: [[IMG-20260107130453166.pdf#page=255&selection=80,1,80,9|A
 				- Trading is buying and selling futures with the aim of making a profit. It allows an investor to take a view on the cash market's direction without having to buy or sell the underlying financial instrument.
 				- *adds liquidity to the market bc of volume of traders*
 			- arbitrage
-> [!note] just reading the rest of the chapter [[IMG-20260107130453166.pdf#page=317&selection=59,0,59,26|ACI Textbook1, page 317]]
+> [!note] just reading the rest of the chapter [[IMG-20260108101543338.pdf#page=317&selection=59,0,59,26|ACI Textbook1, page 317]]
 
-![[IMG-20260107130856768.png]]
+![[IMG-20260108101827491.png]]
 if you are the fixed rate payer, you pay the fixed rate and receive the floating rate
 if you are the fixed rate receiver, (BY DEDUCTION) you are paying the floating rate and are the floating rate payer
 
@@ -1410,7 +1410,7 @@ Options with a high Gamma ratio will be attractive to option buyers, but less at
 
 Options with a high Gamma ratio will be attractive to option buyers, but less attractive to option sellers. High Gammas mean fast, accelerating changes in Delta, thus options going in-the-money accelerate sellers’ losses and purchasers’ gains.
 
-![[IMG-20260107130858411.png]]
+![[IMG-20260108101828083.png]]
 
 If a currency option has a Vega of 0.05 and implied volatility in the underlying is 10 percent then if volatility were to change by 1 percent (moving up to 11 percent) the premium on the currency option would change by 0.05 percent.
 (ratio: so if change in vol is 1, and vega is change in price/ change in vol = 0.05)
@@ -1422,13 +1422,13 @@ so e.g delta = (S1 - S2) / (v1 - v2)
 
  0.05 = (change)`x`S/(11-10)
 (11-10)`*`0.05=  (change)`x`S
-![[IMG-20260107130900180.png]]
+![[IMG-20260108101828938.png]]
 
 Hedging:
 But what about the bank dealer? Having sold the right to exercise to the customer how can he himself manage the risk now assumed from the customer?
 
 
-Delta hedging: [[IMG-20260107130453166.pdf#page=359&selection=99,0,100,6|ACI Textbook1, page 359]]
+Delta hedging: [[IMG-20260108101543338.pdf#page=359&selection=99,0,100,6|ACI Textbook1, page 359]]
 - sell and buy to match delta ratio
 - Call is at 10 million to get delta ratio of 0.5 he buys 5 million
 	goes up to 0.7 so buys 2million to get to 7 million
@@ -1438,7 +1438,7 @@ Delta hedging: [[IMG-20260107130453166.pdf#page=359&selection=99,0,100,6|ACI Tex
 
 -> 
 - calculating time value
-	- ![[IMG-20260107130902247.png]]
+	- ![[IMG-20260108101829519.png]]
 	- here because the put is in the money (higher than the market price) and it's value is intrinsic + time, and it's up by 100, and it's price is 0.0125, we can deduce that it's time value is 0.0025 because it's intrinsic value is 100 (1.5600-1.5500) so it's 0.0025 (0.0125 - 0.0100)
 
 # Chapter 9 Financial Markets Applications
@@ -1645,7 +1645,7 @@ A long (overbought) position in a currency which rises against the comparator cu
 					- CLS Bank reduces the risk of a Member losing the principal relating to an FX transaction from paying away one currency and failing to receive the other currency (delivery or ‘Herstatt’ risk)
 					- **DIFFERENCES TO FUTURES MARKET CLEARING HOUSES**
 						- *does not guarantee* the settlement of every instruction submitted or provide protection against failure of forward trades or become a counterparty to any underlying cross-currency transaction. However, once an instruction is settled, CLS Bank will assure that each member will receive the payment to their due according to their rules and risk management procedures.
-				- CLS Examples [[IMG-20260107130453166.pdf#page=401&selection=174,0,174,16|ACI Textbook1, page 401]]
+				- CLS Examples [[IMG-20260108101543338.pdf#page=401&selection=174,0,174,16|ACI Textbook1, page 401]]
 					- CLS Bank has pre-arranged liquidity facilities with the Central Banks in the currencies it handles, so, if one of the Settlement Members fails to pay (a failed payment rather than a ‘default’), CLS Bank will sell the currency received from the non-defaulting bank to one of its liquidity providers for the countercurrency, and then pay the countercurrency to the non-defaulting bank
 					- MT300 FX SWIFT confirmations are transmitted to CLS Bank on deal date
 					- In case where one party fails, the party who does pay will get their counter currency payment but the other party will get nothing and this is facilitated because CLS bank has ties to central banks which have reserves in major currencies
@@ -2010,7 +2010,7 @@ A long (overbought) position in a currency which rises against the comparator cu
 		- Historical Simulation
 		- Structured Monte Carlo Simulation
 		- 3 Compared:
-			- ![[IMG-20260107130903880.png]]
+			- ![[IMG-20260108101830038.png]]
 	- Other measures
 		- Stress testing
 		- Back testing
@@ -2056,7 +2056,7 @@ A long (overbought) position in a currency which rises against the comparator cu
 	- Duration usage
 	- Modified duration
 	- Effective Duration
-	- **NB NB NB** Positive vs Negative Convexity and Duration discussion: [[IMG-20260107130453166.pdf#page=452&selection=81,0,83,0|ACI Textbook1, page 452]]
+	- **NB NB NB** Positive vs Negative Convexity and Duration discussion: [[IMG-20260108101543338.pdf#page=452&selection=81,0,83,0|ACI Textbook1, page 452]]
 
 
 | Duration | Interest Rates | Duration Instrument | Example                                                                                                                             |

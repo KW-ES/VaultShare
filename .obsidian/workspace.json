@@ -6,7 +6,7 @@
       {
         "id": "3cb249e73308cb88",
         "type": "tabs",
-        "dimension": 42.34734337827121,
+        "dimension": 68.19407008086253,
         "children": [
           {
             "id": "628d010bc5d41041",
@@ -56,57 +56,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Pre-Reading - Different Markets.md",
+                "file": "Finance/BBS SOB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pre-Reading - Different Markets"
+              "title": "BBS SOB"
             }
           },
           {
-            "id": "5a32545c493b99b5",
+            "id": "f3a33d744451e5a6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Finance/assets/IMG-20260107180727092.pdf"
+                "file": "Finance/FX BBS SOB.excalidraw.md"
               },
-              "icon": "lucide-file-text",
-              "title": "IMG-20260107180727092"
+              "icon": "excalidraw-icon",
+              "title": "FX BBS SOB.excalidraw"
             }
           },
           {
-            "id": "3e53027d555a29ea",
+            "id": "0107134eae99ab41",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Finance/assets/IMG-20260107125711499.png"
+                "file": "Finance/ACI FX Summary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG-20260107125711499"
-            }
-          },
-          {
-            "id": "0db80d4521068950",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Finance/assets/IMG-20260107125711499.png"
-              },
-              "icon": "lucide-image",
-              "title": "IMG-20260107125711499"
+              "icon": "lucide-file",
+              "title": "ACI FX Summary"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "5e114f02b1bf41ac",
         "type": "tabs",
-        "dimension": 57.652656621728795,
+        "dimension": 31.805929919137466,
         "children": [
           {
             "id": "5669bdc842ac702f",
@@ -142,7 +132,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Finance/assets/FX BBS SOB.excalidraw.md"
+                "file": "Finance/FX BBS SOB.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "FX BBS SOB.excalidraw"
@@ -290,7 +280,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 753.5073394775391
+    "width": 434.50733947753906
   },
   "right": {
     "id": "e6a2bf1555b28f11",
@@ -378,7 +368,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 650.5
+    "width": 550.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -396,13 +386,38 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0db80d4521068950",
+  "active": "0107134eae99ab41",
   "lastOpenFiles": [
+    "index.md",
+    "Finance/Types of Risk.md",
+    "Finance/assets/Pasted image 20260108101424.png",
+    "Finance/assets/Pasted image 20260108101319.png",
+    "Finance/assets/Pasted image 20260108101227.png",
+    "Finance/assets/Pasted image 20260108101058.png",
+    "Finance/assets/Pasted image 20260108100924.png",
+    "Finance/assets/Pasted image 20260108100918.png",
+    "Finance/assets/Pasted image 20260108100835.png",
+    "Finance/Amortization.md",
+    "Finance/Unlookthrough and Lookthrough.md",
+    "Finance/Caps, Floors, Collars.md",
+    "Finance/Pre-Reading - Different Markets.md",
+    "Finance/BBS SOB.md",
+    "Finance/ACI FX Summary.md",
+    "Instructions/Basics.md",
+    "Instructions/assets/Pasted image 20260108095703.png",
+    "Instructions/assets",
+    "Finance/FX BBS SOB.excalidraw.md",
+    "Finance/assets/IMG-20260107180727092.pdf",
+    "Finance/assets/IMG-20260107125711499.png",
+    "assets/aac1e123-9f74-44ef-89e4-d7adafa99248.png",
+    "docs/finance/assets/img-20260107180728091.pdf",
+    "docs/finance/assets/img-20260107180727928.pdf",
+    "docs/finance/assets/img-20260107180727781.pdf",
+    "docs/finance/assets/img-20260107180727631.pdf",
+    "docs/finance/assets/img-20260107180727477.pdf",
+    "docs/finance/assets/img-20260107180727092.pdf",
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
-    "docs/finance/assets/img-20260107180728249.jpeg",
-    "docs/finance/assets/img-20260107125711863.png",
-    "docs/finance/assets/img-20260107125711499.png",
     "Finance/Balance Sheet Items.md",
     "Finance/Caps and Floors.md",
     "Finance/FX Swaps.md",
@@ -416,34 +431,8 @@
     "Finance/Synthetic Assets and Liabilities.md",
     "Finance/Tenor, Period and Term.md",
     "Finance/Total Return Swap (TRS).md",
-    "Finance/Types of Risk.md",
     "Finance/Acronyms.md",
     "Finance/Behavioural Rate and Behavioural Maturity.md",
-    "Finance/Securitization.md",
-    "Finance/Treasury.md",
-    "Finance/Liquidity.md",
-    "Finance/NSFR.md",
-    "Finance/LCR.md",
-    "Finance/Balance Sheet Management.md",
-    "Finance/IRRBB.md",
-    "Finance/Hedging.md",
-    "Finance/FTP.md",
-    "docs/finance/assets/img-20260107125711863.html",
-    "docs/finance/assets/img-20260107125711499.html",
-    "docs/finance/assets/img-20260107180727092.html",
-    "docs/finance/assets/img-20260107180728091.html",
-    "docs/finance/assets/img-20260107180727928.html",
-    "docs/finance/assets/img-20260107180727781.html",
-    "docs/finance/assets/img-20260107180727631.html",
-    "docs/finance/assets/img-20260107180727477.html",
-    "docs/finance/assets/img-20260107180728249.html",
-    "Finance/assets/IMG-20260107125711499.png",
-    "Finance/assets/IMG-20260107180728249.jpeg",
-    "Finance/assets/IMG-20260107125711863.png",
-    "assets/IMG-20260107125711205.png",
-    "assets/aac1e123-9f74-44ef-89e4-d7adafa99248.png",
-    "docs/assets/img-20260107170927317.png",
-    "docs/assets/img-20260107170841846.png",
     "Canvas.canvas"
   ]
 }

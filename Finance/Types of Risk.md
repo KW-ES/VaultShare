@@ -3,6 +3,10 @@ type: "[[Notes]]"
 related:
   - "[[Finance]]"
 ---
+#done 
+
+![[Pasted image 20260108100835.png]]
+
 > Source: [ACI GPT Helper](https://chatgpt.com/g/g-KKBgd8GXb-aci-exam-helper/c/678c91b7-df40-8002-be50-fd5811398ada)
 ### **1. Market Risk**
 
@@ -28,7 +32,7 @@ Credit risk is the risk of financial loss due to a counterparty's failure to mee
 - **Issuer Risk:** An investor holding a corporate bond experiences losses when the issuing company defaults on interest payments.
 
 ---
-
+![[Pasted image 20260108100924.png]]
 ### **3. Liquidity Risk**
 
 **Definition:**  
@@ -64,7 +68,7 @@ Settlement risk is the risk that one party in a transaction delivers their oblig
 - **Herstatt Risk:** A bank delivers a currency in one time zone but does not receive the counter-currency from the counterparty in another time zone due to their default.
 
 ---
-
+![[Pasted image 20260108101058.png]]
 ### **6. Interest Rate Risk**
 
 **Definition:**  
@@ -97,7 +101,7 @@ Basis risk is the risk that arises from the imperfect correlation between two re
 - A trader hedging an interest rate exposure with a futures contract on a similar but not identical bond faces losses due to the difference in price movements between the two instruments.
 
 ---
-
+![[Pasted image 20260108101227.png]]
 ### **9. Reputational Risk**
 
 **Definition:**  
@@ -130,7 +134,7 @@ Model risk occurs when financial models used for pricing, risk assessment, or de
 - A pricing model underestimates the risk of a complex derivative, leading to unexpected losses.
 
 ---
-
+![[Pasted image 20260108101319.png]]
 ### **12. Sovereign Risk**
 
 **Definition:**  
@@ -174,7 +178,7 @@ Inflation risk is the risk of purchasing power erosion due to rising prices.
 - An investor holding a bond with a fixed coupon rate experiences real returns that diminish when inflation rises unexpectedly.
 
 ---
-
+![[Pasted image 20260108101424.png]]
 ### **16. Event Risk**
 
 **Definition:**  

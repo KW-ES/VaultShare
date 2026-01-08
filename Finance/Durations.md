@@ -33,7 +33,7 @@ There are several types of duration:
 
 - If a bond has a **Macaulay Duration of 5 years**, this means the weighted average time to recover the initial investment is **5 years**.
 - <mark style="background: #FFF3A3A6;">It is primarily useful for matching assets and liabilities in fixed income portfolios.</mark>
-	- *Think mismatching and gap analysis in ACI*: [[IMG-20260107130453166.pdf#page=449&selection=72,0,72,15|ACI Textbook1, page 449]]
+	- *Think mismatching and gap analysis in ACI*: [[IMG-20260108101543338.pdf#page=449&selection=72,0,72,15|ACI Textbook1, page 449]]
 
 
 ---
@@ -124,4 +124,4 @@ For callable or putable bonds, the cash flows are **uncertain** due to optionali
 	- *Modified duration assumes constant cash flow.*
 	- As market yields rise, effective duration lengthens and price declines accelerate compared with what is implied by the instrument’s modified duration. The price increase associated with a given decline in interest rates is smaller than the price decrease for the same size interest rate increase.
 - Negative and Positive (Duration // Convexity)
-	- [[IMG-20260107130453166.pdf#page=452&selection=81,0,83,0|ACI Textbook1, page 452]]
+	- [[IMG-20260108101543338.pdf#page=452&selection=81,0,83,0|ACI Textbook1, page 452]]

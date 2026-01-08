@@ -6,12 +6,14 @@ related:
   - "[[Finance]]"
   - "[[Useful]]"
 ---
-![[Pasted image 20260107154337.png]]
+#done 
+
+![[IMG-20260108101510022.png]]
 
 - Outright = spot +/- swap points
 	- Discount then -
 	- Premium then +
-- ![[IMG-20260107130905433.png]]
+- ![[IMG-20260108101510410.png]]
 - If countries IR is higher than the other (and it is the base currency) then it is better to buy now than in the future. Hence spot > forward and it is trading at a forward discount. (like contango)
 - Quotes
 	- USD etc. 28 -> 28/10,000 = 0.0028
@@ -19,29 +21,29 @@ related:
 - Outright fwd cross currency
 	- Before crossing the currency, add/subtract the swap points from spot to get the outright quotes
 	- Then do cross currency conversions
-- ![[IMG-20260107130906025.png]]
+- ![[IMG-20260108101510617.png]]
 - If need forward points from cross currency
 	- get the spots (crossed)
 	- have the outright fwd prices
 	- then subtract spot from fwd
-- ![[IMG-20260107130906230.png]]
+- ![[IMG-20260108101510826.png]]
 	- USD/AUD (Dollars in AUD) -> 1/(AUD/USD) (AUD in dollars)
 	- *just changes the quote*
 	- "remember Spot and forward exchange rates (on an outright basis) are always quoted Low – High. The sides of the quote therefore change depending which way any of the above calculations are effected."
-- ![[IMG-20260107130906830.png]]
+- ![[IMG-20260108101511003.png]]
 - Forward foreign exchange deals may be transacted on an option basis - to buy or sell one currency against another for a value date within a pre-determined period in the future.
 - **A Time or Delivery option forward exchange contract** is defined as a forward contract where the delivery date of the foreign currency is at the customer's option.
 - **A foreign exchange swap** is defined as ‘a simultaneously dealt set of two linked exchange transactions involving the purchase and the sale of an identical amount of one currency against a countercurrency with differing maturities, most frequently spot value against a forward value date’. 
 - **Buying or selling base forward**
 - **Foreign Exchange Swaps**
-	- ![[IMG-20260107130907413.png]]
-	- ![[IMG-20260107130907914.png]]
-	- ![[IMG-20260107130908398.png]]
+	- ![[IMG-20260108101511184.png]]
+	- ![[IMG-20260108101511345.png]]
+	- ![[IMG-20260108101511504.png]]
 - If MM ("my favour") then MU ("Against me")
 - If MM ("your favour") then MU ("Against you")
 	- MM BID = "Points against me/us" by MM and "Points my favour/our favour" by MU
 	- MM OFFER = "Points my favour" by MM and "Points against me"
-	- ![[IMG-20260107130908995.png]]
+	- ![[IMG-20260108101511650.png]]
 	- spot = 1.3856
 	- + forward rate / swap points
 	- = 1.3856 + 0.0054 = 1.3910 -> forward price
@@ -52,7 +54,7 @@ related:
 		- Spot: Buys EUR 1mill at spot rate and sells USD (1mil * spot)
 		- 6m forward: sells EUR 1m at fwd rate (offer) and buys USD (1mil * offer)
 		- Offer in swap is how much the MM is willing to sell forward base for (EUR/USD) therefor amount * exchange rate. 
-		- ![[IMG-20260107130909569.png]]
+		- ![[IMG-20260108101511807.png]]
 		-  referred to as “Points my favour” by the market maker and “Points against me” by the market user. 
 		- remember it's quoted in USD so amount in USD is amount * exchange rate. Euros in USD.
 - The fixing of the spot rate is the responsibility of the market maker, and may be set to facilitate the mathematics regarding achieving the forward rate (i.e. base the spot on a rate ending in “0” or “5”, but the market user must always agree that this spot rate is “within the current spread” 
@@ -66,7 +68,7 @@ related:
 	- if MM selling and buying base:
 		- fix spot rate towards or at RHS of spot rate (i.e. Rate offer)
 		- For example, if the market maker is buying and selling the base currency he may fix the spot rate towards or at the left hand side of the spot rate (the base currency Bid) resulting in a lower spot cost to the market maker and potentially lower ongoing lower funding cost in terms of the countercurrency. If the market maker is selling and buying base currency he may fix the spot rate towards or at the right hand side of the current spot rate quotation (the base currency Offer) resulting in a higher spot cost to the counterparty and a larger amount of countercurrency available on an ongoing basis to the market maker).
-	- ![[IMG-20260107130910108.png]]
+	- ![[IMG-20260108101511975.png]]
 
 - asset and liability
 	- asset = long cash position lent out on short basis
@@ -79,9 +81,9 @@ related:
 	- add/subtract - premium/discount (don't swap points)
 - ante
 	- (swap the points) then add/subtract - discount/premium 
-	- ![[IMG-20260107130910689.png]]
+	- ![[IMG-20260108101512113.png]]
 	- swap ante quotes: 3 - 2 1/2 (Discount so add)
-- ![[IMG-20260107130911323.png]]
+- ![[IMG-20260108101512293.png]]
 	- both ante O/N and T/N will be Buy/Sell or Sell/Buy
 - If quotes are
 	- Spot GBP/USD: 1.55 00–05
@@ -94,7 +96,7 @@ related:
 	- 3v6 or "threes/sixes" like FRA's
 	- deal on spot but commences from a forward date
 	- can be made up of two opposing forward exchange swaps with the different maturities
-	- ![[IMG-20260107130912782.png]]
+	- ![[IMG-20260108101512478.png]]
 	- (MU) Buy EUR 3m forward (outright) and sell EUR 6m forward (outright)
 	- so use 3m offer and 6m bid = 3v6 fwd/fwd **BID**
 	- **MARKET USER WANTS TO SELL FORWARD SO USES MARKET MAKERS FUTURE BID**
@@ -129,25 +131,25 @@ related:
 		- therefore his BID and OFFER will be
 		- 33 - 41 (EUR Premium)
 - The **difference between the two forward rates is therefore the points differential dealt at on the forward/forward**, namely 33 points EUR Premium (1.2809 minus 1.2776)
-	- ![[IMG-20260107130913087.png]]
+	- ![[IMG-20260108101512641.png]]
 	- spot = 1.2776
 	- 6m fwd 1.2809 (1.2809 = spot + 6m bid fwd)
-	- ![[IMG-20260107130913284.png]]
+	- ![[IMG-20260108101512957.png]]
 	- **spread or quote market maker provides is how much he knows he can cover himself in the reverse transaction if he was the market user**
 - The **BID OR OFFER of a FORWARD SWAP or FWD/FWD SWAP** is based on the MM's  willingness to BUY or SELL to you the most forward date.
 	- if you're buying, he's selling
-- ![[IMG-20260107130913864.png]]
+- ![[IMG-20260108101513107.png]]
 	- longer period bid - shorter period offer
 	- longer period offer - shorter period bid
 	- REMEMBER: If in DISCOUNT then it's subtract therefore those are negative therefore    (1 - (-1)) = (1 + 1)
-	- ![[IMG-20260107130914428.png]]
+	- ![[IMG-20260108101513262.png]]
 		- 2v3
 			- 2 - (-1) = +3 for BID
 			- 7 - (-6) = +13 for OFFER
 - When setting the rates for an FX swap to extend the maturity, **the spot rate should be fixed immediately within the current spread**, to **reflect current rates at the time the transaction was done**.
 - historic rate roll-over formula
-	- ![[IMG-20260107130914968.png]]
-- ![[IMG-20260107130915490.png]]
+	- ![[IMG-20260108101513454.png]]
+- ![[IMG-20260108101513675.png]]
 - Person wants to bring swap back by a month
 	- if original swap was sell, then they do buy.
 	- so they (MM) do a 2v3
@@ -164,17 +166,17 @@ related:
 	- e.g. dealer looking for funding of EUR asset by taking USD deposit
 		- uses the forward EUR/USD market in a 'covered' IR situation
 	- forward swap points are equivalent to difference in the interest rates in the two currencies concerned for the period quoted.
-	- ![[IMG-20260107130916034.png]]
+	- ![[IMG-20260108101513884.png]]
 		- because of what we said above, forward points are the difference in interest rates in the currencies
 		- can calculate
 			- swap points
 			- maximum funding rate possible
 			- or minimum asset return necessary to reach equilibrium (no profit no loss 'break-even' rate)
-	- ![[IMG-20260107130916566.png]]
+	- ![[IMG-20260108101514119.png]]
 		- Market user funds this FX swap by buying EUR spot and selling 6m forward EUR (180 days) against USD on the 6m swap price using those quotes from the market maker. **54 - 59**
 		- It's "his favour" so he's buying at the lower price.
 		- Buying spot and selling forward EUR (BID)
-		- ![[IMG-20260107130917115.png]]
+		- ![[IMG-20260108101514430.png]]
 		- remember swap is simultaneous exchange of currencies (at spot/at fwd)
 			- so buys and sells EUR / sells and buys USD
 		- what you buy (EUR) will be the fixed amount. the counter currency amount (USD) is what changes based on the exchange rate. i.e. how many USD can you get for the EUR
@@ -184,15 +186,15 @@ related:
 				- 2.88 - 2.988361 p.c.
 				- The funding dealer takes a six months deposit in the amount of USD 13,850,000.00 (the exact Spot date cash requirement) at the offered rate of **2. 988361 p.c.** (# the calculated USD interest rate)
 				- buying a deposit's offer rate = 2.988... so that's what they take (what's quoted in the market)
-		-  ![[IMG-20260107130917630.png]]
+		-  ![[IMG-20260108101514767.png]]
 		- you have the interest you earned on the euros and the interest on the USD you paid
 		- (You get interest from the EUR loan and pay interest on the USD deposit)
-		- ![[IMG-20260107130918069.png]]
+		- ![[IMG-20260108101515052.png]]
 		- you get the EUR 110,000 and then sell to USD (using exchange rate of 1.3904 which is the spot + 6m fwd points of 54)
 		- This gives you the USD amount in 6m to get 152,944
 		- add what you got for the USD swap
 		- and then offset it with the USD interest payment
-		- ![[IMG-20260107130918732.png]]
+		- ![[IMG-20260108101515281.png]]
 		- you loan the money so at forward date it comes back with interest (EUR loan)
 		- deposit is opposite of loan. (liability)
 		- at spot you got the USD money but in future you repay it (with interest) (deposit / liability)
@@ -210,8 +212,8 @@ related:
 	- The EUR interest receivable must be sold to produce sufficient US Dollars (net of interest and swap points) to meet the interest payable
 	- to achieve zero sum, the EUR interest receivable (the 110,000 from the loan) must be sold forward at the same rate as the forward leg of the FX swap (i.e. 6m rate)
 	- The calculations above only “compute” if in every case the forward interest receivable in the asset currency is converted to the countercurrency at the same Outright forward rate as the forward leg of the interest arbitrage swap.
-- ![[IMG-20260107130919661.png|600]]
-	- ![[IMG-20260107130920222.png|350]]
+- ![[IMG-20260108101515746.png|600]]
+	- ![[IMG-20260108101516042.png|350]]
 	- Get the forward rate from the swap points (spot + swap points)
 	- The one for EUR is the **MINIMUM** interest rate return which must be achieved on the EUR asset when dealing at 54 points
 - Swap points calculating (from base and counter currency interest rates)
@@ -220,12 +222,12 @@ related:
 	- Swap points:
 		- BASE - Positive -> Forward Premium (L-H)
 		- BASE - Negative -> Forward Discount  (H-)
-	- ![[IMG-20260107130920785.png|450]]
+	- ![[IMG-20260108101516315.png|450]]
 	- Then swap points = Outright - Spot rate = swap points
 	- IR Arbitrage Checklist:
 		- To <mark style="background: #BBFABBA6;">raise</mark> **BASE** currency or <mark style="background: #FF5582A6;">lend</mark> **COUNTER** currency
 			- Just read these:
-			- ![[IMG-20260107130921399.png]]
+			- ![[IMG-20260108101516728.png]]
 			- You want more base currency
 			- you are SELLING base currency on the swap
 				- so you use MM's BID for forward base currency (to sell later)
@@ -237,15 +239,15 @@ related:
 			- If the base currency is at a DISCOUNT, add the cost to the variable currency interest rate
 			- if the base currency is at a PREMIUM, subtract the cost from the variable currency interest rate
 			- Choosing quote:
-			- ![[IMG-20260107130922030.png]]
+			- ![[IMG-20260108101516963.png]]
 			- **CHOOSE LEAST POINTS AGAINST YOU AND MOST IN YOUR FAVOUR**
 		- To lend **BASE** currency or rase **COUNTER** currency
-			- ![[IMG-20260107130922560.png]]
+			- ![[IMG-20260108101517187.png]]
 				- HERE you're **LENDING** the variable currency to square your position with the swap
-			- ![[IMG-20260107130923179.png]]
+			- ![[IMG-20260108101517435.png]]
 			- If it's at a DISCOUT, want highest  points, if it's at a PREMIUM, want lowest points
-			- ![[IMG-20260107130924164.png]]
-		- ![[IMG-20260107130924677.png]]
+			- ![[IMG-20260108101517677.png]]
+		- ![[IMG-20260108101517886.png]]
 - NDF
 	- Contract of Difference
 	- FX equivalent of FRA

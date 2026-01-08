@@ -8,7 +8,7 @@ related:
 ## Spot Date
 > The term Spot is used in many markets. In the Foreign Exchange market, **spot value date is two business days forward from deal date.** These two business days may be influenced by weekends, holidays or other non-business days involving the closure of the clearing system in the financial centres of the two currencies involved in any exchange rate quotation
 > If a holiday or other closure affects this two day period the Spot value date moves forward to the next business day
-[[IMG-20260107130453166.pdf#page=66&selection=179,0,190,50|ACI Textbook1, page 66]]
+[[IMG-20260108101543338.pdf#page=66&selection=179,0,190,50|ACI Textbook1, page 66]]
 
 t + 2
 
