@@ -6,7 +6,7 @@
       {
         "id": "3cb249e73308cb88",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 42.34734337827121,
         "children": [
           {
             "id": "628d010bc5d41041",
@@ -56,40 +56,57 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/BBS SOB.md",
+                "file": "Finance/Pre-Reading - Different Markets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BBS SOB"
+              "title": "Pre-Reading - Different Markets"
+            }
+          },
+          {
+            "id": "5a32545c493b99b5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Finance/assets/IMG-20260107180727092.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "IMG-20260107180727092"
+            }
+          },
+          {
+            "id": "3e53027d555a29ea",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Finance/assets/IMG-20260107125711499.png"
+              },
+              "icon": "lucide-image",
+              "title": "IMG-20260107125711499"
+            }
+          },
+          {
+            "id": "0db80d4521068950",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Finance/assets/IMG-20260107125711499.png"
+              },
+              "icon": "lucide-image",
+              "title": "IMG-20260107125711499"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "d8463e671e9ff88f",
-        "type": "tabs",
-        "dimension": 21.28589263420724,
-        "children": [
-          {
-            "id": "4d74e458fefde105",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Finance/assets/FX BBS SOB.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "FX BBS SOB.excalidraw"
-            }
-          }
-        ]
+        "currentTab": 6
       },
       {
         "id": "5e114f02b1bf41ac",
         "type": "tabs",
-        "dimension": 45.38077403245943,
+        "dimension": 57.652656621728795,
         "children": [
           {
             "id": "5669bdc842ac702f",
@@ -117,6 +134,18 @@
               },
               "icon": "lucide-file",
               "title": "Amortization"
+            }
+          },
+          {
+            "id": "4d74e458fefde105",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Finance/assets/FX BBS SOB.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "FX BBS SOB.excalidraw"
             }
           },
           {
@@ -204,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,7 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.50733947753906
+    "width": 753.5073394775391
   },
   "right": {
     "id": "e6a2bf1555b28f11",
@@ -367,10 +396,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8744679cf5141caf",
+  "active": "0db80d4521068950",
   "lastOpenFiles": [
     "docs/site-lib/search-index.json",
     "docs/site-lib/metadata.json",
+    "docs/finance/assets/img-20260107180728249.jpeg",
+    "docs/finance/assets/img-20260107125711863.png",
+    "docs/finance/assets/img-20260107125711499.png",
     "Finance/Balance Sheet Items.md",
     "Finance/Caps and Floors.md",
     "Finance/FX Swaps.md",
@@ -396,24 +428,22 @@
     "Finance/IRRBB.md",
     "Finance/Hedging.md",
     "Finance/FTP.md",
+    "docs/finance/assets/img-20260107125711863.html",
+    "docs/finance/assets/img-20260107125711499.html",
+    "docs/finance/assets/img-20260107180727092.html",
+    "docs/finance/assets/img-20260107180728091.html",
+    "docs/finance/assets/img-20260107180727928.html",
+    "docs/finance/assets/img-20260107180727781.html",
+    "docs/finance/assets/img-20260107180727631.html",
+    "docs/finance/assets/img-20260107180727477.html",
+    "docs/finance/assets/img-20260107180728249.html",
+    "Finance/assets/IMG-20260107125711499.png",
+    "Finance/assets/IMG-20260107180728249.jpeg",
+    "Finance/assets/IMG-20260107125711863.png",
+    "assets/IMG-20260107125711205.png",
+    "assets/aac1e123-9f74-44ef-89e4-d7adafa99248.png",
     "docs/assets/img-20260107170927317.png",
     "docs/assets/img-20260107170841846.png",
-    "docs/assets/img-20260107170811908.png",
-    "docs/assets/img-20260107170238616.png",
-    "docs/assets/img-20260107170204735.png",
-    "docs/assets/img-20260107170136688.png",
-    "docs/assets/img-20260107170657127.png",
-    "docs/finance/assets/fx-bbs-sob.excalidraw.html",
-    "docs/learning/bbs-sob.html",
-    "assets/IMG-20260107170927317.png",
-    "assets/IMG-20260107170841846.png",
-    "assets/IMG-20260107170811908.png",
-    "docs/learning/assets/08.-sda_fo_simulation_2021-1.pdf",
-    "docs/learning/assets/03.-support+user+training_+viewer_2021-2.pptx",
-    "docs/learning/assets/09.-sda_simulation+troubleshooting+case+2.pdf",
-    "docs/learning/assets/08.-sda_fo_simulation_2021-1.html",
-    "docs/learning/assets/09.-sda_simulation+troubleshooting+case+2.html",
-    "docs/learning/pre-reading-different-markets.html",
     "Canvas.canvas"
   ]
 }

@@ -15,7 +15,7 @@ Market Maker (MM) is always on the left.
 Market Taker/User (MU) is always on the right.
 
 
-![[IMG-20260107170657127.png]]
+![[IMG-20260107180715595.png]]
 
 
 | Bid/Offer | Market Maker | Bid/Offer | Market Taker/User | Acronym |
@@ -36,20 +36,20 @@ Market Taker/User (MU) is always on the right.
 ## 1. BBS:
 
 ### 1.1 MM
-![[IMG-20260107170136688.png|200]]
+![[IMG-20260107180715687.png|200]]
 
 <mark style="background: #BBFABBA6;">Market Maker</mark> <mark style="background: #ADCCFFA6;">Buy</mark> at **Bid**,
 
 ---
 ### 1.2 MU
 
-![[IMG-20260107170204735.png|200]]
+![[IMG-20260107180715796.png|200]]
 
 <mark style="background: #FFB86CA6;">Market User</mark> <mark style="background: #FF5582A6;">Sell</mark> at **Bid**
 
 ---
 
-![[IMG-20260107170238616.png|300]]
+![[IMG-20260107180715909.png|300]]
 
 B - <mark style="background: #ADCCFFA6;">Buy</mark>
 B - **Bid**
@@ -60,20 +60,20 @@ S - <mark style="background: #FF5582A6;">Sell</mark>
 ## 2. SOB:
 
 ### 2.1 MM 
-![[IMG-20260107170811908.png|200]]
+![[IMG-20260107180715977.png|200]]
 
 <mark style="background: #BBFABBA6;">Market Maker</mark> <mark style="background: #FF5582A6;">Sell</mark> at **Offer**,
 
 ---
 ### 2.1 MU
 
-![[IMG-20260107170841846.png|200]]
+![[IMG-20260107180716048.png|200]]
 
 <mark style="background: #FFB86CA6;">Market User</mark> <mark style="background: #ADCCFFA6;">Buy</mark> at **Offer**
 
 ---
 
-![[IMG-20260107170927317.png|300]]
+![[IMG-20260107180716120.png|300]]
 
 S - <mark style="background: #FF5582A6;">Sell</mark>
 O - **Offer**
