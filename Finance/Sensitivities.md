@@ -3,7 +3,7 @@ type: "[[Notes]]"
 related:
   - "[[Finance]]"
 ---
-
+#done 
 
 ### **General Rule for Sensitivities**
 
