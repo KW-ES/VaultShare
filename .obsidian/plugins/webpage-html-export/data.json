@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "C:\\Users\\KieraWilson\\OneDrive - Elenjical Solutions\\Obsidian Vaults\\ES Main\\VaultShare\\docs",
+    "exportPath": "C:\\Users\\KieraWilson\\OneDrive - Elenjical Solutions\\Desktop\\Test Export",
     "filesToExport": [
       "Learning/Callouts.md",
       "index.md",
@@ -218,7 +218,7 @@
     "faviconPath": "..\\..\\..\\..\\Downloads\\favicon_io\\favicon.ico",
     "siteName": "Learning",
     "iconEmojiStyle": "Native",
-    "exportRoot": "Finance",
+    "exportRoot": "",
     "includePluginCss": [
       "svelte-11adhly",
       "obsidian-dev-utils-styles",

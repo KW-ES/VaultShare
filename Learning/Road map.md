@@ -14,6 +14,9 @@
 
 > [!todo] Streamline Upload Process
 > **AIM | ** Allow non-technical colleagues to add training material seamlessly.
+> - [ ] Create Starter Vault
+> - [ ] Create User Guides
+> - [ ] Investigate Upload Scripting
 
 > [!todo] Investigate Progress Tracking
 

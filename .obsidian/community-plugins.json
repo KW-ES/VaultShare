@@ -9,5 +9,7 @@
   "convert-url-to-iframe",
   "obsidian-excalidraw-plugin",
   "mermaid-tools",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "editing-toolbar",
+  "quickadd"
 ]

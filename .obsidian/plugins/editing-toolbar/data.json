@@ -1,0 +1,158 @@
+{
+  "lastVersion": "3.2.7",
+  "aestheticStyle": "default",
+  "positionStyle": "top",
+  "menuCommands": [
+    {
+      "id": "editing-toolbar:editor-undo",
+      "name": "Undo Edit",
+      "icon": "undo-glyph"
+    },
+    {
+      "id": "editing-toolbar:editor-redo",
+      "name": "Redo Edit",
+      "icon": "redo-glyph"
+    },
+    {
+      "id": "editing-toolbar:toggle-format-brush",
+      "name": "Format Brush",
+      "icon": "paintbrush"
+    },
+    {
+      "id": "editing-toolbar:format-eraser",
+      "name": "Clear Text Formatting",
+      "icon": "eraser"
+    },
+    {
+      "id": "SubmenuCommands-header",
+      "name": "submenu",
+      "icon": "header-n",
+      "SubmenuCommands": [
+        {
+          "id": "editing-toolbar:header1-text",
+          "name": "Header 1",
+          "icon": "header-1"
+        },
+        {
+          "id": "editing-toolbar:header4-text",
+          "name": "Header 4",
+          "icon": "header-4"
+        },
+        {
+          "id": "editing-toolbar:header5-text",
+          "name": "Header 5",
+          "icon": "header-5"
+        },
+        {
+          "id": "editing-toolbar:header6-text",
+          "name": "Header 6",
+          "icon": "header-6"
+        }
+      ]
+    },
+    {
+      "id": "webpage-html-export:export-html-setting",
+      "name": "Webpage HTML Export: Set html export settings",
+      "icon": "airplay"
+    },
+    {
+      "id": "webpage-html-export:export-html-vault",
+      "name": "Webpage HTML Export: Export using previous settings",
+      "icon": "editingToolbar"
+    },
+    {
+      "id": "webpage-html-export:export-html-current",
+      "name": "Webpage HTML Export: Export only current file using previous settings",
+      "icon": "codeblock-glyph"
+    },
+    {
+      "id": "obsidian-git:fetch",
+      "name": "Git: Fetch",
+      "icon": "header-1"
+    },
+    {
+      "id": "obsidian-git:commit-smart",
+      "name": "Git: Commit",
+      "icon": "header-2"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "name": "Git: Push",
+      "icon": "header-3"
+    },
+    {
+      "id": "quickadd:choice:ceda809a-e61c-4172-a767-3c268a25858d",
+      "name": "QuickAdd: Pages",
+      "icon": "obsidian-new"
+    },
+    {
+      "id": "quickadd:choice:5a528f32-498f-4d39-b55e-f751c0754381",
+      "name": "QuickAdd: Export",
+      "icon": "alarm-check"
+    }
+  ],
+  "followingCommands": [],
+  "topCommands": [],
+  "fixedCommands": [],
+  "mobileCommands": [],
+  "enableMultipleConfig": false,
+  "enableTopToolbar": true,
+  "enableFollowingToolbar": false,
+  "enableFixedToolbar": false,
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 12,
+  "cMenuWidth": 132,
+  "cMenuFontColor": "#2DC26B",
+  "cMenuBackgroundColor": "#d3f8b6",
+  "autohide": false,
+  "Iscentered": false,
+  "custom_bg1": "#FFB78B8C",
+  "custom_bg2": "#CDF4698C",
+  "custom_bg3": "#A0CCF68C",
+  "custom_bg4": "#F0A7D88C",
+  "custom_bg5": "#ADEFEF8C",
+  "custom_fc1": "#D83931",
+  "custom_fc2": "#DE7802",
+  "custom_fc3": "#245BDB",
+  "custom_fc4": "#6425D0",
+  "custom_fc5": "#646A73",
+  "isLoadOnMobile": false,
+  "horizontalPosition": 0,
+  "verticalPosition": 0,
+  "formatBrushes": {},
+  "customCommands": [],
+  "viewTypeSettings": {},
+  "appearanceByStyle": {
+    "top": {
+      "toolbarBackgroundColor": "rgba(var(--background-secondary-rgb), 0.7)",
+      "toolbarIconColor": "var(--text-normal)",
+      "toolbarIconSize": 18,
+      "aestheticStyle": "default"
+    },
+    "following": {
+      "toolbarBackgroundColor": "rgba(var(--background-secondary-rgb), 0.7)",
+      "toolbarIconColor": "var(--text-normal)",
+      "toolbarIconSize": 18,
+      "aestheticStyle": "default"
+    },
+    "fixed": {
+      "toolbarBackgroundColor": "rgba(var(--background-secondary-rgb), 0.7)",
+      "toolbarIconColor": "var(--text-normal)",
+      "toolbarIconSize": 18,
+      "aestheticStyle": "default"
+    },
+    "mobile": {
+      "toolbarBackgroundColor": "rgba(var(--background-secondary-rgb), 0.7)",
+      "toolbarIconColor": "var(--text-normal)",
+      "toolbarIconSize": 18,
+      "aestheticStyle": "default"
+    }
+  },
+  "toolbarBackgroundColor": "rgba(var(--background-secondary-rgb), 0.7)",
+  "toolbarIconColor": "var(--text-normal)",
+  "toolbarIconSize": 18,
+  "useCurrentLineForRegex": false
+}
