@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "9aebc79092607e09",
@@ -111,8 +111,35 @@
               "icon": "lucide-file",
               "title": "Road map"
             }
+          },
+          {
+            "id": "f9a8e6c65703b9bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
+            "id": "9ec9760e8fe81fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/AI-Driven Financial Model Documentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI-Driven Financial Model Documentation"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -277,49 +304,51 @@
     }
   },
   "floating": {
-    "id": "62c3ccbcbc519caa",
+    "id": "e65d4dbbbdc5166a",
     "type": "floating",
     "children": [
       {
-        "id": "d70b7cf13ab18b05",
+        "id": "e9ba9f8751b2c303",
         "type": "window",
         "children": [
           {
-            "id": "a4cc53f309645eb0",
+            "id": "83a4e7e2bb9ac7d7",
             "type": "tabs",
             "children": [
               {
-                "id": "bd4538abf2c823cd",
+                "id": "4abdc81e3a32b912",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Learning/Obsidian Demo.md",
+                    "file": "Learning/AI-Driven Financial Model Documentation.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Obsidian Demo"
+                  "title": "AI-Driven Financial Model Documentation"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 54,
-        "y": 0,
-        "width": 1077,
+        "x": 1195,
+        "y": -821,
+        "width": 1025,
         "height": 623,
-        "maximize": false,
-        "zoom": -0.5
+        "maximize": true,
+        "zoom": 2
       }
     ]
   },
-  "active": "0fcb5f17fc20be0a",
+  "active": "4abdc81e3a32b912",
   "lastOpenFiles": [
+    "Learning/AI-Driven Financial Model Documentation.md",
+    "docs/resources/RunExport.md",
     "index.md",
-    "Learning/Road map.md",
     "Dummy.md",
+    "Learning/Road map.md",
     "Learning/Obsidian Demo.md",
     "Learning/Callouts.md",
     "docs/finance/assets/img-20260108101510410.png",
@@ -361,8 +390,6 @@
     "Finance/Options.md",
     "Finance/Business Analysis.md",
     "Finance/Acronyms.md",
-    "Finance/Behavioural Rate and Behavioural Maturity.md",
-    "Finance/Amortization.md",
     "Canvas.canvas"
   ]
 }

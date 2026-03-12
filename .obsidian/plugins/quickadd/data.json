@@ -48,16 +48,10 @@
             "commandId": "webpage-html-export:export-html-setting"
           },
           {
-            "name": "Git: Fetch",
-            "type": "Obsidian",
-            "id": "d23d46a0-cab0-4cab-8097-c80b1870f74f",
-            "commandId": "obsidian-git:fetch"
-          },
-          {
             "name": "Wait",
             "type": "Wait",
             "id": "a97fa0f6-479b-4a14-b181-70b4ebe692c6",
-            "time": 100
+            "time": 2000
           },
           {
             "name": "Git: Commit-and-sync",
@@ -91,6 +85,138 @@
             "location": "reuse",
             "focus": true,
             "name": "Open file: Dummy.md"
+          },
+          {
+            "name": "If condition",
+            "type": "Conditional",
+            "id": "24047559-8ebd-445c-83f0-8aa79a9d0dd4",
+            "condition": {
+              "mode": "variable",
+              "variableName": "",
+              "operator": "isTruthy",
+              "valueType": "string"
+            },
+            "thenCommands": [],
+            "elseCommands": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "4263a31e-1ff3-492d-ad01-cedd07c312ae",
+      "name": "Results",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Results",
+        "id": "c6cb3675-282c-4729-b5a3-31fcdb400fcd",
+        "commands": [
+          {
+            "name": "If condition",
+            "type": "Conditional",
+            "id": "bc790a91-bf38-414c-9e08-77bd73fcff0e",
+            "condition": {
+              "mode": "variable",
+              "variableName": "",
+              "operator": "isTruthy",
+              "valueType": "string"
+            },
+            "thenCommands": [],
+            "elseCommands": []
+          },
+          {
+            "name": "Untitled Capture Choice",
+            "type": "NestedChoice",
+            "id": "5877f645-fc57-4d35-af09-bbad1343948a",
+            "choice": {
+              "id": "42f474c4-0e1d-4d1f-891d-03afc4ae38c5",
+              "name": "Untitled Capture Choice",
+              "type": "Capture",
+              "command": false,
+              "appendLink": false,
+              "captureTo": "",
+              "captureToActiveFile": false,
+              "captureToCanvasNodeId": "",
+              "activeFileWritePosition": "cursor",
+              "createFileIfItDoesntExist": {
+                "enabled": false,
+                "createWithTemplate": false,
+                "template": ""
+              },
+              "format": {
+                "enabled": false,
+                "format": ""
+              },
+              "insertAfter": {
+                "enabled": false,
+                "after": "",
+                "insertAtEnd": false,
+                "considerSubsections": false,
+                "createIfNotFound": false,
+                "createIfNotFoundLocation": "top",
+                "inline": false,
+                "replaceExisting": false,
+                "blankLineAfterMatchMode": "auto"
+              },
+              "newLineCapture": {
+                "enabled": false,
+                "direction": "below"
+              },
+              "prepend": false,
+              "task": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "templater": {
+                "afterCapture": "none"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "c2eb227a-ffd5-46d9-ae7d-307b4fa08d24",
+      "name": "TestChoice",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "TestChoice",
+        "id": "62ed82df-ab25-40ec-8bc0-e8b7c4875e02",
+        "commands": [
+          {
+            "name": "If $Test equals \"Hello\"",
+            "type": "Conditional",
+            "id": "9296a7ee-21ea-4335-8e88-1116c64d98d3",
+            "condition": {
+              "mode": "variable",
+              "variableName": "Test",
+              "operator": "equals",
+              "valueType": "string",
+              "expectedValue": "Hello"
+            },
+            "thenCommands": [
+              {
+                "name": "Toggle light/dark mode",
+                "type": "Obsidian",
+                "id": "0cb99a3a-4afb-4f75-99ec-6526082d258d",
+                "commandId": "theme:toggle-light-dark"
+              }
+            ],
+            "elseCommands": [
+              {
+                "name": "Open current tab in new window",
+                "type": "Obsidian",
+                "id": "ddc11e15-4b35-4b2c-9f48-18811c4d8587",
+                "commandId": "workspace:open-in-new-window"
+              }
+            ]
           }
         ]
       }
@@ -103,7 +229,10 @@
   "templateFolderPath": "",
   "announceUpdates": "major",
   "version": "2.12.0",
-  "globalVariables": {},
+  "globalVariables": {
+    "ExportSettingsTrue": "False",
+    "Test": "Hello"
+  },
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
   "enableRibbonIcon": false,

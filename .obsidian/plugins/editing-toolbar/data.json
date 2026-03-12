@@ -86,9 +86,9 @@
       "icon": "obsidian-new"
     },
     {
-      "id": "quickadd:choice:5a528f32-498f-4d39-b55e-f751c0754381",
-      "name": "QuickAdd: Export",
-      "icon": "alarm-check"
+      "id": "quickadd:choice:c2eb227a-ffd5-46d9-ae7d-307b4fa08d24",
+      "name": "QuickAdd: TestChoice",
+      "icon": "obsidian"
     }
   ],
   "followingCommands": [],
