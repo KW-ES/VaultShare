@@ -220,11 +220,13 @@
     "iconEmojiStyle": "Native",
     "exportRoot": "",
     "includePluginCss": [
-      "svelte-11adhly",
       "obsidian-dev-utils-styles",
+      "svelte-11adhly",
       "source-plugin-callout-manager-stylesheet",
+      "dataview",
       "callout-manager",
-      "dataview"
+      "attachment-management",
+      "consistent-attachments-and-links"
     ],
     "includeStyleCssIds": [
       "svelte-11adhly",
