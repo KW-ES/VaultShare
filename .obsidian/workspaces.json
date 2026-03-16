@@ -388,7 +388,389 @@
       },
       "active": "543f1e9dd468ca85",
       "mtime": "2026-03-13T08:21:52+02:00"
+    },
+    "Market Risk": {
+      "main": {
+        "id": "c57c5f96523b11a4",
+        "type": "split",
+        "children": [
+          {
+            "id": "3cb249e73308cb88",
+            "type": "tabs",
+            "dimension": 20.31645569620253,
+            "children": [
+              {
+                "id": "a228bbdf80964b51",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Market Risk Main Page.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Market Risk Main Page"
+                },
+                "group": "5b22d24bd58bdee1"
+              }
+            ]
+          },
+          {
+            "id": "a09127fd801bd2ab",
+            "type": "tabs",
+            "dimension": 36.39240506329114,
+            "children": [
+              {
+                "id": "a0da1b2c8b520ca4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Learning/Video - Mastering Simulations.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Video - Mastering Simulations"
+                }
+              }
+            ]
+          },
+          {
+            "id": "62ff2597cb81e9e5",
+            "type": "tabs",
+            "dimension": 21.9620253164557,
+            "children": [
+              {
+                "id": "429b99fe814b317f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Learning/Market Risk Part  4 - Computation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Market Risk Part  4 - Computation"
+                }
+              },
+              {
+                "id": "2fc40b05f08bc11f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Learning/Market Risk Part 1 - Intro.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Market Risk Part 1 - Intro"
+                },
+                "group": "e928007dd6c19233"
+              },
+              {
+                "id": "280f50e9343a8fe7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Learning/Obsidian Demo.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Obsidian Demo"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "93e6e9c0c471972a",
+            "type": "tabs",
+            "dimension": 21.329113924050635,
+            "children": [
+              {
+                "id": "ff7f8ddf065a2f8a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Learning/Market Risk Part 1 - Intro.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Market Risk Part 1 - Intro"
+                },
+                "group": "e928007dd6c19233"
+              },
+              {
+                "id": "d70174fb9323c109",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Market Risk Main Page.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Market Risk Main Page"
+                },
+                "group": "5b22d24bd58bdee1"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c6e03a0bca316ec6",
+        "type": "split",
+        "children": [
+          {
+            "id": "cb8deef66c37529f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cfcb21dd018b68b6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "103f1ca81c4fc7eb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "list of ",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "24bd936b0ad8072f",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "e6a2bf1555b28f11",
+        "type": "split",
+        "children": [
+          {
+            "id": "831203de8229edb9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2743b43ed2043b89",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Welcome.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Welcome"
+                }
+              },
+              {
+                "id": "8695fd25eff7dba7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "index.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from index"
+                }
+              },
+              {
+                "id": "5bc356d77398ecb4",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "e64e88e218faefcf",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Welcome.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Welcome"
+                }
+              },
+              {
+                "id": "543f1e9dd468ca85",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "obsidian-git:Open Git source control": false,
+          "webpage-html-export:Export as HTML": false,
+          "callout-manager:Insert Callout": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "floating": {
+        "id": "e65d4dbbbdc5166a",
+        "type": "floating",
+        "children": [
+          {
+            "id": "e9ba9f8751b2c303",
+            "type": "window",
+            "children": [
+              {
+                "id": "75b9300f09ab15ec",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "773d52bd4dc47f27",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Learning/Callouts.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Callouts"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "83a4e7e2bb9ac7d7",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "4abdc81e3a32b912",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Learning/AI-Driven Financial Model Documentation.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "AI-Driven Financial Model Documentation"
+                    },
+                    "group": "b9e52d20a063eaae"
+                  }
+                ]
+              },
+              {
+                "id": "c09f02230df1b95d",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "98fa74af6ff78054",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Learning/AI-Driven Financial Model Documentation.md",
+                        "mode": "preview",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "AI-Driven Financial Model Documentation"
+                    },
+                    "group": "b9e52d20a063eaae"
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 1257,
+            "y": -751,
+            "width": 1025,
+            "height": 623,
+            "maximize": false,
+            "zoom": 2
+          }
+        ]
+      },
+      "active": "cfcb21dd018b68b6",
+      "mtime": "2026-03-16T08:30:35+02:00"
     }
   },
-  "active": "BMI"
+  "active": "Market Risk"
 }

@@ -4,9 +4,72 @@
     "type": "split",
     "children": [
       {
+        "id": "416dea74ad83d972",
+        "type": "tabs",
+        "dimension": 49.365303244005645,
+        "children": [
+          {
+            "id": "4ced309db7156d1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Callouts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Callouts"
+            }
+          },
+          {
+            "id": "85ae9edc14ae92b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Choose Callout Type with Heading Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Choose Callout Type with Heading Template"
+            }
+          },
+          {
+            "id": "97f06e0c661f028d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Date Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Date Template"
+            }
+          },
+          {
+            "id": "5ded6b15a2d5889d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Arrow Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arrow Template"
+            }
+          }
+        ]
+      },
+      {
         "id": "3cb249e73308cb88",
         "type": "tabs",
-        "dimension": 20.31645569620253,
+        "dimension": 50.634696755994355,
         "children": [
           {
             "id": "a228bbdf80964b51",
@@ -20,119 +83,24 @@
               },
               "icon": "lucide-file",
               "title": "Market Risk Main Page"
-            },
-            "group": "5b22d24bd58bdee1"
-          }
-        ]
-      },
-      {
-        "id": "a09127fd801bd2ab",
-        "type": "tabs",
-        "dimension": 36.39240506329114,
-        "children": [
-          {
-            "id": "a0da1b2c8b520ca4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Video - Mastering Simulations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Video - Mastering Simulations"
-            }
-          }
-        ]
-      },
-      {
-        "id": "62ff2597cb81e9e5",
-        "type": "tabs",
-        "dimension": 21.9620253164557,
-        "children": [
-          {
-            "id": "429b99fe814b317f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Market Risk Part  4 - Computation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Market Risk Part  4 - Computation"
             }
           },
           {
-            "id": "2fc40b05f08bc11f",
+            "id": "66993fbe6d67e8e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Market Risk Part 1 - Intro.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Market Risk Part 1 - Intro"
-            },
-            "group": "e928007dd6c19233"
-          },
-          {
-            "id": "280f50e9343a8fe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Obsidian Demo.md",
+                "file": "Risk/Market Risk Rough Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Demo"
+              "title": "Market Risk Rough Notes"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "93e6e9c0c471972a",
-        "type": "tabs",
-        "dimension": 21.329113924050635,
-        "children": [
-          {
-            "id": "ff7f8ddf065a2f8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Market Risk Part 1 - Intro.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Market Risk Part 1 - Intro"
-            },
-            "group": "e928007dd6c19233"
-          },
-          {
-            "id": "d70174fb9323c109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Market Risk Main Page.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Market Risk Main Page"
-            },
-            "group": "5b22d24bd58bdee1"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -277,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,111 +262,41 @@
       "webpage-html-export:Export as HTML": false,
       "callout-manager:Insert Callout": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "e65d4dbbbdc5166a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e9ba9f8751b2c303",
-        "type": "window",
-        "children": [
-          {
-            "id": "75b9300f09ab15ec",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "773d52bd4dc47f27",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Learning/Callouts.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Callouts"
-                }
-              }
-            ]
-          },
-          {
-            "id": "83a4e7e2bb9ac7d7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4abdc81e3a32b912",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Learning/AI-Driven Financial Model Documentation.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "AI-Driven Financial Model Documentation"
-                },
-                "group": "b9e52d20a063eaae"
-              }
-            ]
-          },
-          {
-            "id": "c09f02230df1b95d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "98fa74af6ff78054",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Learning/AI-Driven Financial Model Documentation.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "AI-Driven Financial Model Documentation"
-                },
-                "group": "b9e52d20a063eaae"
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1257,
-        "y": -751,
-        "width": 1025,
-        "height": 623,
-        "maximize": false,
-        "zoom": 2
-      }
-    ]
-  },
-  "active": "a228bbdf80964b51",
+  "active": "66993fbe6d67e8e1",
   "lastOpenFiles": [
+    "Learning/Callouts.md",
+    "Risk/Market Risk Rough Notes.md",
+    "Risk/assets/desktop.ini",
+    "Finance/Types of Risk.md",
+    "assets/IMG-20260316090209330.png",
+    "assets/IMG-20260316090135993.png",
+    "Risk/assets",
+    "Templates/Arrow Template.md",
+    "Market Risk Main Page.md",
+    "Risk/Market Risk.md",
+    "Templates/Choose Callout Type with Heading Template.md",
+    "Templates/Date Template.md",
+    "Templates/desktop.ini",
+    "Templates",
+    "Risk",
     "Learning/Market Risk Part 1 - Intro.md",
     "docs/learning/assets/introduction+to+market+risk.pdf",
     "docs/learning/assets/introduction+to+market+risk.html",
-    "Market Risk Main Page.md",
     "Learning/assets/Introduction+to+Market+Risk.pdf",
     "Learning/assets/mso4874.tmp",
     "ES Learning Main Page.md",
     "docs/es-learning-main-page.html",
-    "docs/learning/market-risk-part-1-intro.html",
-    "docs/market-risk-main-page.html",
     "Learning/Video - Mastering Simulations.md",
     "Learning/Market Risk Part  4 - Computation.md",
     "Learning/Obsidian Demo.md",
     "Dummy.md",
     "index.md",
     "Finance/Finance Hub.md",
-    "Finance/Types of Risk.md",
     "Finance/Discount and Yield Instruments.md",
-    "Learning/Callouts.md",
     "docs/assets/img-20260312110407531.png",
     "docs/assets/img-20260312110303428.png",
     "docs/assets/img-20260312105959167.png",
@@ -406,12 +305,7 @@
     "docs/assets/img-20260312103635660.png",
     "docs/assets/img-20260312103550963.png",
     "Learning/AI-Driven Financial Model Documentation.md",
-    "docs/assets/img-20260312103550963.html",
-    "docs/assets/img-20260312103635660.html",
-    "docs/assets/img-20260312103925177.html",
     "assets/IMG-20260312110407531.png",
-    "assets/IMG-20260312110303428.png",
-    "assets/IMG-20260312105959167.png",
     "docs/resources/RunExport.md",
     "Learning/Road map.md",
     "Finance/FX BBS SOB.excalidraw.md",
@@ -419,11 +313,6 @@
     "Finance/Caps, Floors, Collars.md",
     "Finance/Unlookthrough and Lookthrough.md",
     "Finance/Durations.md",
-    "Finance/Financial Dates.md",
-    "Finance/Forwards, Futures, FRA's and Forward Swaps.md",
-    "Finance/Modified Following.md",
-    "Finance/Yield Curves.md",
-    "Finance/Sensitivities.md",
     "Canvas.canvas"
   ]
 }

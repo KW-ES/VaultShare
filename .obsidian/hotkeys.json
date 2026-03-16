@@ -244,5 +244,22 @@
       ],
       "key": "E"
     }
+  ],
+  "templater-obsidian:Templates/Choose Callout Type with Heading Template.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "templater-obsidian:Templates/Arrow Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
   ]
 }

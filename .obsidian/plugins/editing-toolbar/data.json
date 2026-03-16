@@ -4,6 +4,11 @@
   "positionStyle": "top",
   "menuCommands": [
     {
+      "id": "templater-obsidian:Templates/Choose Callout Type with Heading Template.md",
+      "name": "Templater: Insert Choose Callout Type with Heading Template",
+      "icon": "editingToolbarAdd"
+    },
+    {
       "id": "editing-toolbar:editor-undo",
       "name": "Undo Edit",
       "icon": "undo-glyph"
