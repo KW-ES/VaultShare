@@ -176,6 +176,47 @@
                 "afterCapture": "none"
               }
             }
+          },
+          {
+            "filePath": "{{DATE}}.md",
+            "type": "OpenFile",
+            "id": "Fci7hdsOyl7VVp7ZP9grI",
+            "openInNewTab": false,
+            "location": "reuse",
+            "focus": true,
+            "name": "Open file: {{DATE}}.md"
+          },
+          {
+            "name": "Copy",
+            "type": "EditorCommand",
+            "id": "582a4841-3456-4ffc-af00-71e194fa0622",
+            "editorCommandType": "Copy"
+          },
+          {
+            "name": "If (missing variable) is truthy",
+            "type": "Conditional",
+            "id": "2020c5b1-f20f-44da-a83f-f208b699ccff",
+            "condition": {
+              "mode": "variable",
+              "variableName": "",
+              "operator": "isTruthy",
+              "valueType": "string"
+            },
+            "thenCommands": [],
+            "elseCommands": []
+          },
+          {
+            "name": "If condition",
+            "type": "Conditional",
+            "id": "54c75aae-36f6-40b4-bfec-dabf1498bea7",
+            "condition": {
+              "mode": "variable",
+              "variableName": "",
+              "operator": "isTruthy",
+              "valueType": "string"
+            },
+            "thenCommands": [],
+            "elseCommands": []
           }
         ]
       }

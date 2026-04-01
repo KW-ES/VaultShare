@@ -78,12 +78,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risk/Market Risk Intro Notes.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Market Risk Intro Notes"
+              "title": "index"
             }
           }
         ]
@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risk/Market Risk Intro Notes.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Market Risk Intro Notes"
+              "title": "Outline of index"
             }
           },
           {
@@ -251,8 +251,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "543f1e9dd468ca85",
+  "active": "31bef73137a37ae3",
   "lastOpenFiles": [
+    "Risk/Market Risk Intro Notes.md",
     "docs/assets/img-20260316094238594.png",
     "docs/assets/img-20260316094213783.png",
     "docs/assets/img-20260316094047826.png",
@@ -265,7 +266,6 @@
     "docs/assets/img-20260316092930182.png",
     "Learning/Callouts.md",
     "docs/assets/img-20260316090209330.png",
-    "docs/assets/img-20260316090135993.png",
     "docs/assets/img-20260316092936975.html",
     "docs/learning/callouts.html",
     "docs/assets/img-20260316092930182.html",
@@ -297,7 +297,6 @@
     "Risk/Credit Risk.md",
     "Risk/Market Risk Rough Notes.md",
     "Risk/Types of Risk.md",
-    "Risk/Market Risk Intro Notes.md",
     "Learning/Market Risk Part 1 - Intro.md",
     "Market Risk Main Page.md",
     "Canvas.canvas"
