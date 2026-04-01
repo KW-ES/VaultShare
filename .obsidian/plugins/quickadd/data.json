@@ -220,6 +220,44 @@
           }
         ]
       }
+    },
+    {
+      "id": "9455921e-a318-45eb-a2bd-38baac5e0d4b",
+      "name": "HTML",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "HTML",
+        "id": "32d6d09c-3958-4cef-b653-270965f37e15",
+        "commands": [
+          {
+            "name": "Webpage HTML Export: Set html export settings",
+            "type": "Obsidian",
+            "id": "85f56bc7-bcc3-42fe-972b-6c025e7541bd",
+            "commandId": "webpage-html-export:export-html-setting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3f2129de-c0ec-4608-a6d5-86494b9adb70",
+      "name": "GitPages",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "GitPages",
+        "id": "018e306b-d245-454c-a108-83b5dbc3ed9b",
+        "commands": [
+          {
+            "name": "Git: Commit-and-sync",
+            "type": "Obsidian",
+            "id": "cb659d99-b2c1-4e13-99c7-bbcb4f505232",
+            "commandId": "obsidian-git:push"
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "single-line",

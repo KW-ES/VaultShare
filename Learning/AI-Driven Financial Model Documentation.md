@@ -155,3 +155,13 @@ An assessment of how well the AI system performs compared to traditional process
 
 > [!swin] Goodluck!!!
 
+
+# Potential Rubric
+
+|                              | 1                                                  | 2                                             | 3                                           | 4                                           | 5                                                                          |
+| ---------------------------- | -------------------------------------------------- | --------------------------------------------- | ------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------- |
+| **Literature Review**        | Comprehensive Review of research on AI driven docs | Challenges of trad Quant Model Docs           | Recent Advancements of AI Automation        |                                             |                                                                            |
+| **AI Framework Development** | Integrates AI with Financial Datasources           | Automated Extraction                          | Automated Interpretation                    | Automated Synthesis of Pricing Data         | Product Details Analysis                                                   |
+| **Documentation Generation** | Autonomously Generate Excel-Based Pricing Sheets   | Detailed Model Documentation on Methodologies | Detailed Model Documentation on Assumptions | Detailed Model Documentation on Calibration | Detailed Model Documentation on Validation Processes                       |
+| **UI Development**           | Intuitive Front End                                | Interacts with AI-Driven Documentation System | Uses Natural Language Prompts               | Ensures Accessibiltiy                       | Ease of Use                                                                |
+| **Performance Evaluation**   | Tested on Efficiency                               | Tested on Accuracy                            | Tested on Transparency                      | Tested on User Satisfaction                 | Benchmarking against traditional documentation and Pricing Model Workflows |

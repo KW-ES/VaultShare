@@ -43,6 +43,10 @@ cn:: [[Market Risk]]
 - [[Types of Risk]]
 
 
+> [!info]- Interact with them [[Risks Tree.canvas|here]]
+
+
+
 
 > [!tip] Tip! *Hover over to read more*
 
@@ -59,6 +63,28 @@ cn:: [[Market Risk]]
 | [[Types of Risk#**9. Reputational Risk**\|Reputational Risk]] |
 
 > [!definition]- View [[Types of Risk|Full List]] here.
+
+
+
+## Diving Deeper
+
+
+> [!Details]- Market Risk Definition
+> Is the risk that changes in financial market prices and rates will reduce the value of a security or portfolio
+
+
+> [!Details]- Price Risk
+>  - Market / Systematic Risk
+>  - Specific / Unsystematic Risk
+>  ---
+>  View a key summary on both: [[Systematic Risk vs Unsystematic Risk]]
+
+
+> [!Details]- Types of Market Risk
+> - [[Interest Rate Risk]]
+> - Equity Price Risk
+> - [[Foreign Exchange Risk]]
+> - Commodity Price Risk
 
 
 
